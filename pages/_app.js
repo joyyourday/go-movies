@@ -12,9 +12,7 @@ function Application({ Component, pageProps }) {
   return ( 
     <>
      <div className="center">
-        <GoogleAnalytics measurementId="G-4YRYZ4XKWN" />
-        <Script async data-id="101407379" src="//static.getclicky.com/js"></Script>
-
+        <GoogleAnalytics measurementId="G-YNSCPT6BQR" />
      
         <PageTransition>  
           <Hamburger />
