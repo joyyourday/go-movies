@@ -1,9 +1,0 @@
-# *
-User-agent: *
-Allow: /
-
-# Host
-Host: https://gomovies.netlify.app/
-
-# Sitemaps
-Sitemap: https://gomovies.netlify.app/sitemap.xml
