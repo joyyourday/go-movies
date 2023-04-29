@@ -21,7 +21,6 @@
     "express": "^4.18.2",
     "file-loader": "^6.2.0",
     "framer-motion": "^9.0.7",
-    "gomovies": "github:joyyourday/mx",
     "install": "^0.13.0",
     "javascript-obfuscator": "^4.0.2",
     "moment": "^2.29.4",
