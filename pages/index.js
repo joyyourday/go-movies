@@ -17,13 +17,15 @@ const scrollSearch = myKey => {
 export default function Home({ movie }) {
 
   useEffect(() => {
-    const img = new Image()
-    img.src = movie.poster
-    img.decoding = 'async'
-    img.onload = () => {
-      console.log(`Preloaded image: ${movie.poster}`)
+    if (movie && movie.poster) {
+      const img = new Image()
+      img.src = movie.poster
+      img.onload = () => {
+        console.log(`Preloaded image: ${movie.poster}`)
+      }
     }
-  }, [movie.poster])  
+  }, [movie?.poster])
+  
 
 
   const [hovered, setHovered] = useState(false);
@@ -89,7 +91,7 @@ export default function Home({ movie }) {
       setMovies(data);
     }
     fetchMovies();
-  }, []);
+  }, []); 
 
   useEffect(() => {
     const handleContextmenu = e => {
