@@ -1,11 +1,7 @@
-
-
 const express = require('express');
 const next = require('next');
 const path = require('path');
 const compression = require('compression'); // import the compression package
-
-
 
 const port = process.env.PORT || 3000;
 const dev = process.env.NODE_ENV !== 'production';
@@ -33,9 +29,6 @@ app.prepare().then(() => {
   });
 });
 
-const express = require('express')
-const app = express()
-
 // Set a cache lifetime of 1 year for static assets
 const staticAssetCacheControl = (req, res, next) => {
   if (req.url.match(/\.(jpg|jpeg|png|gif|css|js)$/)) {
@@ -54,4 +47,3 @@ app.use(express.static('public'))
 app.listen(3000, () => {
   console.log('Server started on port 3000')
 })
-
