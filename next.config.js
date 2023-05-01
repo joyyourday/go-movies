@@ -14,7 +14,9 @@ module.exports = {
   },
 }
 
-
+module.exports = {
+  trailingSlash: false,
+};
 
 const TerserPlugin = require('terser-webpack-plugin');
 
