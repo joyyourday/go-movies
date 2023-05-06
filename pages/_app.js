@@ -7,22 +7,29 @@ import Script from 'next/script';
 
 
 function Application({ Component, pageProps }) {
- 
 
   return ( 
     <>
+      
+      
      <div className="center">
+     <Script
+        src="https://js.wpadmngr.com/static/adManager.js"
+        data-admpid="82683"
+        strategy="afterInteractive"
+      />
         <GoogleAnalytics measurementId="G-YNSCPT6BQR" />
-     
+            
         <PageTransition>  
           <Hamburger />
-          <Component {...pageProps} />
+         <Component {...pageProps} />
           <Footer />
         </PageTransition>
      </div>
    </>
   );
 }
+
 
 
 
