@@ -89,8 +89,6 @@ export default function Home({ movie }) {
         document.removeEventListener('contextmenu', handleContextmenu)
     }
 }, [ ])
-
-
 const schemaData   = {
   "@context":"https://schema.org",
   "@graph":[
@@ -180,7 +178,7 @@ const schemaData   = {
         <meta property="fb:app_id" content="602176271414602" />
         <meta name='dailymotion-domain-verification' content='dmv6sg06w9r5eji88' />
         <meta name="monetag" content="076afbb772da1a62ef6f43756dfa5f65"></meta>
-	  	 <meta name="google-site-verification" content="4dFu4PUk1pc1IYqU6Brt84akCwNxaoUpKSO3gDW0kJ0" />
+        <meta name="google-site-verification" content="LQqqAT7p5ecKWDs6eD0M-Usqw84L6HfEBwNzf0R8Meg" />
 	      <meta name="description" content="Go Movies™ - Watch Movies, TV-Series & Sports Live Online Free" />
 	     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
        <meta name="keywords" content="gomovies,gomovies.to,gomovies.sx,gomovieshd.today,gomovieshd.us.org,gomovieshd.tw,f9movies,gomovies.123movies,gomovies-sc.com,streaming,latest movies,online tv,latest free movies,watch latest movies online" />
@@ -215,29 +213,28 @@ const schemaData   = {
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
   <link rel="manifest" href="/site.webmanifest"></link>
   <link rel="canonical" href="https://gomovies.netlify.app/" />
-
+ 
       </Head>
 
-     
       <main className={styles.main} >
           <section className={`${styles.movies} bg-gray-600  py-5`} >
        
     
           <ShareButtons url="https://gomovies.netlify.app" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify.app/og_image.jpg" />
-         
+          
           
             <h1 className="text-center font-bold text-3xl  py-5" style={{ color: "#40D7BC", textShadow: "5px 5px 2px #000" }}>Go Movies™ - High Definition Movies Tv Series & Sports Live. </h1>
           
             <div className="flex flex-wrap justify-center">
               {Array.isArray(movies) && movies.slice(1).map((movie, index) => (
                 <div className="w-full md:w-1/2 lg:w-1/3 p-2 " key={movie.title}>
-                      <h1 className="text-xl font-bold leading-normal mb-2 text-white" >Click Image to Watch Trailer. </h1>
+                    
                  <div className="relative overflow-hidden rounded-3xl border border-white shadow-md">
-  <Image className="w-full h-full object-cover  rounded-3xl border border-white shadow-md"  loading="eager" src={movie.poster} alt={movie.title}  width={1000}  height={562.5} />
+  <Image className="w-full h-full object-cover  rounded-3xl border border-white shadow-md"  loading="eager" src={movie.poster} alt={movie.title}  width={1000}  height={562.5}  layout="responsive"/>
  
   {hovered === index && (
   <div className="absolute inset-0 flex items-center justify-center">
- 
+   
    <video
   className="w-full h-full object-cover rounded-3xl border border-white shadow-md"
   src={hovered === index && movie['movie.trailer'] ? movie['movie.trailer'] : movie.image}
@@ -252,7 +249,7 @@ const schemaData   = {
   </div>
 )}
 <a
- // href={movie['movie.watch']}
+  href={movie['movie.watch']}
   id={movie.id}
   className="absolute inset-0 flex items-center justify-center"
   onMouseEnter={() => setHovered(index)}
@@ -271,20 +268,12 @@ const schemaData   = {
 </h2> 
 
 
+       
                     <a href={movie.link} className="text-xl font-bold leading-normal mb-2 text-yellow-500 " target="_blank" style={{ textShadow: "2px 2px 4px #000" }}>IMDb Rating : {movie.rating}</a> 
                         
                     <p className={`${styles.yearRelease} text-xl font-bold leading-normal mb-2 text-white`} style={{ textShadow: "5px 5px 2px #000" }}>Year Release : {movie.yearRelease}</p>
                     <p className={`${styles.genre} text-xl font-bold leading-normal mb-2 text-white`} style={{ textShadow: "5px 5px 2px #000" }}>Genre : {movie.genre}</p>
                   </div> 
-                  <a
-  href={movie['movie.watch']}
-  id={movie.id}  
->
-  <button className={`${styles['watch-now-button']} rounded-3xl border shadow-md`}>
-    Watch Now
-  </button>
-</a>
-
                 </div>
               ))}
             </div>
