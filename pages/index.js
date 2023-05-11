@@ -10,14 +10,16 @@ const scrollSearch = myKey => {
 };
 
 
-
 const PageContainer = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   height: 150vh;
-  
+  background-image: url(${props => props.src});
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 `;
 
 const HeroBannerContainer = styled.div`
@@ -41,7 +43,6 @@ const VideoBackground = styled.video`
 `;
 
 const Header = styled.h1`
-
   font-size: 36px;
   text-align: center;
   color: white;
@@ -65,7 +66,6 @@ const Button = styled.button`
   position: absolute;
   left: 50%;
   top: 150%;
-//opacity: 0.25;
   transform: translate(-50%, -50%);
 `;
 
