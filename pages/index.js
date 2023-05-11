@@ -16,18 +16,18 @@ const PageContainer = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 150vh;
   
 `;
 
 const HeroBannerContainer = styled.div`
   width: 100%;
-  height: 500px;
+  height: 150px;
 `;
 
 const HeroBannerImage = styled.img`
   width: 100%;
-  height: 100%;
+  height: 150px;
   object-fit: cover;
 `;
 
@@ -42,14 +42,14 @@ const VideoBackground = styled.video`
 
 const Header = styled.h1`
 
-  font-size: 48px;
+  font-size: 36px;
   text-align: center;
   color: white;
 `;
 
 const Text = styled.h2`
   font-family: 'Roboto', sans-serif;
-  font-size: 48px;
+  font-size: 24px;
   text-align: center;
   color: white;
 `;
@@ -64,7 +64,7 @@ const Button = styled.button`
   cursor: pointer;
   position: absolute;
   left: 50%;
-  top: 130%;
+  top: 150%;
 //opacity: 0.25;
   transform: translate(-50%, -50%);
 `;
@@ -165,7 +165,7 @@ const LandingPage = () => {
       <meta name="google-site-verification" content="4dFu4PUk1pc1IYqU6Brt84akCwNxaoUpKSO3gDW0kJ0" />
         <meta name="description" content="Go Movies™ - Watch Movies, TV-Series & Sports Live Online Free" />
       <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-      <meta name="keywords" content="Go Movies,streaming,latest movies,online tv,latest free movies,watch latest movies online" />
+      <meta name="keywords" content="gomovies,gomovies.to,gomovies.sx,gomovieshd.today,gomovieshd.us.org,gomovieshd.tw,f9movies,gomovies.123movies,gomovies-sc.com,streaming,latest movies,online tv,latest free movies,watch latest movies online" />
       <meta property="og:locale" content="en_US" />   
       <meta property=" Content-Security-Policy: frame-ancestors 'self' gomovies.netlify.app *.gomovies.netlify.app;" />
       <meta property="og:site_name" content="Go Movies™ | Watch Movies, TV-Series & Sports Live Online Free " />
@@ -180,7 +180,7 @@ const LandingPage = () => {
       <meta name="twitter:title" content="Go Movies™ - Watch Movies, TV-Series & Sports Live Online Free " />
       <meta name="twitter:description" content=" Go Movies™ - Watch Movies, TV-Series & Sports Live Online Free " />
       <meta name="twitter:image" content="https://gomovies.netlify.app/og_image.jpg" />
-      <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet" />
+      <Link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet" />
 
       <link rel="alternate" hrefLang="en-us" 	href="https://gomovies.netlify.app/"/>
   <link rel="alternate" hrefLang="en-gb" 	href="https://gomovies.netlify.app/"/>
@@ -203,20 +203,18 @@ const LandingPage = () => {
    
     
       <HeroBannerContainer>
-  <HeroBanner
-    src="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610087/og_image_okmgde.jpg"
-    alt="Hero banner"
-    loading="lazy"
-    width={1920}
-    height={1080}
-    quality={80}
-  />
+      <HeroBanner
+  src="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610087/og_image_okmgde.jpg"
+  alt="Hero banner"
+  loading="lazy"
+  height={150}
+/>
 </HeroBannerContainer>
 <PageContainer>
         <Header style={{textShadow: "5px 5px 2px #000" }}>Welcome to Go Movies™ </Header>
         <Text style={{textShadow: "5px 5px 2px #000" }}>Watch Movies TV-Series & Sports Live Online Free </Text>
         <Link href="/page">
-          <Button>Enter free movie websites without sign up</Button>
+          <Button>Enter free without sign up</Button>
         </Link> 
         <VideoBackground autoPlay muted loop>
           <source src="https://ik.imagekit.io/lwkyvy5lo/trailer.mp4?updatedAt=1683813651866" type="video/mp4" />
