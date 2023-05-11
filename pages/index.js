@@ -165,7 +165,7 @@ const LandingPage = () => {
       <meta name="google-site-verification" content="4dFu4PUk1pc1IYqU6Brt84akCwNxaoUpKSO3gDW0kJ0" />
         <meta name="description" content="Go Movies™ - Watch Movies, TV-Series & Sports Live Online Free" />
       <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-      <meta name="keywords" content="Go Movies,streaming,latest movies,online tv,latest free movies,watch latest movies online" />
+      <meta name="keywords" content="gomovies,gomovies.to,gomovies.sx,gomovieshd.today,gomovieshd.us.org,gomovieshd.tw,f9movies,gomovies.123movies,gomovies-sc.com,streaming,latest movies,online tv,latest free movies,watch latest movies online" />
       <meta property="og:locale" content="en_US" />   
       <meta property=" Content-Security-Policy: frame-ancestors 'self' gomovies.netlify.app *.gomovies.netlify.app;" />
       <meta property="og:site_name" content="Go Movies™ | Watch Movies, TV-Series & Sports Live Online Free " />
