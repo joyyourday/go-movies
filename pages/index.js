@@ -16,8 +16,8 @@ const PageContainer = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  height: 100vh;
   width: 100vw;
-  height: 100vw;
   background-image: url(${props => props.src});
   background-size: cover;
   background-position: center;
@@ -190,7 +190,7 @@ const LandingPage = () => {
       <meta name="twitter:title" content="Go Movies™ - Watch Movies, TV-Series & Sports Live Online Free " />
       <meta name="twitter:description" content=" Go Movies™ - Watch Movies, TV-Series & Sports Live Online Free " />
       <meta name="twitter:image" content="https://gomovies.netlify.app/og_image.jpg" />
-      <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet" />
+    
 
       <link rel="alternate" hrefLang="en-us" 	href="https://gomovies.netlify.app/"/>
   <link rel="alternate" hrefLang="en-gb" 	href="https://gomovies.netlify.app/"/>
@@ -210,7 +210,7 @@ const LandingPage = () => {
   <link rel="canonical" href="https://gomovies.netlify.app/" />
 
       </Head>
-   
+      <Link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet" />
     
       <HeroBannerContainer >
       <HeroBanner
@@ -221,8 +221,8 @@ const LandingPage = () => {
 />
 </HeroBannerContainer>
 <PageContainer >
-        <Header style={{textShadow: "5px 5px 2px #000" }}>Welcome to Go Movies™ </Header>
-        <Text style={{textShadow: "5px 5px 2px #000" }}>Watch Movies TV-Series & Sports Live Online Free </Text>
+        <Header className='container mx-5'   style={{textShadow: "5px 5px 2px #000" }}>Welcome to Go Movies™ </Header>
+        <Text className='container mx-5' style={{textShadow: "5px 5px 2px #000" }}>Watch Movies TV-Series & Sports Live Online Free </Text>
         <Link href="/page">
           <Button>Enter Free </Button>
         </Link> 
