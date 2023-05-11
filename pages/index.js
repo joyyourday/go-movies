@@ -15,7 +15,7 @@ const PageContainer = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 150vh;
+  height: 175vh;
   background-image: url(${props => props.src});
   background-size: cover;
   background-position: center;
@@ -25,6 +25,10 @@ const PageContainer = styled.div`
 const HeroBannerContainer = styled.div`
   width: 100%;
   height: 100px;
+  position: relative;
+  top: 0;
+  left: 0;
+  z-index: 0;
 `;
 
 const HeroBannerImage = styled.img`
@@ -34,31 +38,33 @@ const HeroBannerImage = styled.img`
 `;
 
 const VideoBackground = styled.video`
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
-  z-index: -1;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
 `;
 
 const Header = styled.h1`
-  font-size: 36px;
+position: absolute;  
+font-size: 24px;
   text-align: center;
   color: white;
+ 
 `;
 
 const Text = styled.h2`
   font-family: 'Roboto', sans-serif;
-  font-size: 24px;
+  position: absolute;
+  font-size: 16px;
   text-align: center;
+  top: 135%;
   color: white;
 `;
 
 const Button = styled.button`
   background-color: #0070f3;
   color: white;
-  font-size: 24px;
+  font-size: 16px;
   padding: 16px 32px;
   border-radius: 8px;
   border: none; 
