@@ -180,7 +180,7 @@ const LandingPage = () => {
       <meta name="twitter:title" content="Go Movies™ - Watch Movies, TV-Series & Sports Live Online Free " />
       <meta name="twitter:description" content=" Go Movies™ - Watch Movies, TV-Series & Sports Live Online Free " />
       <meta name="twitter:image" content="https://gomovies.netlify.app/og_image.jpg" />
-      <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet" />
+      <Link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet" />
 
       <link rel="alternate" hrefLang="en-us" 	href="https://gomovies.netlify.app/"/>
   <link rel="alternate" hrefLang="en-gb" 	href="https://gomovies.netlify.app/"/>
