@@ -78,7 +78,7 @@ export default function Home({ movie }) {
 
   useEffect(() => {
     async function fetchMovies() {
-      const response = await fetch('https://gomoviesfree.vercel.app/movies.json');
+      const response = await fetch('https://gomovies.netlify.app/movies.json');
       const data = await response.json();
       setMovies(data);
     }

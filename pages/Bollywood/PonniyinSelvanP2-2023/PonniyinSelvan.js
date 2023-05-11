@@ -269,7 +269,7 @@ Download
 
 
 export async function getServerSideProps() {
-  const res = await fetch('https://gomoviesfree.vercel.app/movies.json');
+  const res = await fetch('https://gomovies.netlify.app/movies.json');
   const data = await res.json();
   const selectedMovie = data.find(movie => movie.id === 'PSP');
   return {
