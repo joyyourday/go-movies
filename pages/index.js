@@ -15,7 +15,7 @@ const PageContainer = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  width: 100vw;
   background-image: url(${props => props.src});
   background-size: cover;
   background-position: center;
@@ -48,6 +48,7 @@ const VideoBackground = styled.video`
 const Header = styled.h1`
 position: absolute;  
 font-size: 24px;
+top: 50%;
   text-align: center;
   color: white;
  
@@ -56,23 +57,23 @@ font-size: 24px;
 const Text = styled.h2`
   font-family: 'Roboto', sans-serif;
   position: absolute;
-  font-size: 16px;
+  font-size: 20px;
   text-align: center;
-  top: 100%;
+  top: 60%;
   color: white;
 `;
 
 const Button = styled.button`
   background-color: #0070f3;
   color: white;
-  font-size: 16px;
+  font-size: 20px;
   padding: 16px 32px;
   border-radius: 8px;
   border: none; 
   cursor: pointer;
   position: absolute;
   left: 50%;
-  top: 120%;
+  top: 90%;
   transform: translate(-50%, -50%);
 `;
 
@@ -209,7 +210,7 @@ const LandingPage = () => {
       </Head>
    
     
-      <HeroBannerContainer>
+      <HeroBannerContainer >
       <HeroBanner
   src="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610087/og_image_okmgde.jpg"
   alt="Hero banner"
@@ -217,11 +218,11 @@ const LandingPage = () => {
   height={100}
 />
 </HeroBannerContainer>
-<PageContainer>
+<PageContainer >
         <Header style={{textShadow: "5px 5px 2px #000" }}>Welcome to Go Movies™ </Header>
         <Text style={{textShadow: "5px 5px 2px #000" }}>Watch Movies TV-Series & Sports Live Online Free </Text>
         <Link href="/page">
-          <Button>Enter free without sign up</Button>
+          <Button>Enter Free Without Sign Up</Button>
         </Link> 
         <VideoBackground autoPlay muted loop>
           <source src="https://ik.imagekit.io/lwkyvy5lo/trailer.mp4?updatedAt=1683813651866" type="video/mp4" />
