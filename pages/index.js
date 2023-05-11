@@ -49,7 +49,7 @@ const VideoBackground = styled.video`
 const Header = styled.h1`
 position: absolute;  
 font-size: 24px;
-top: 50%;
+top: 45%;
   text-align: center;
   color: white;
  
@@ -60,7 +60,7 @@ const Text = styled.h2`
   position: absolute;
   font-size: 20px;
   text-align: center;
-  top: 60%;
+  top: 50%;
   color: white;
 `;
 
@@ -74,7 +74,7 @@ const Button = styled.button`
   cursor: pointer;
   position: absolute;
   left: 50%;
-  top: 90%;
+  top: 63%;
   transform: translate(-50%, -50%);
 `;
 
