@@ -18,10 +18,13 @@ function Application({ Component, pageProps }) {
         data-admpid="82683"
         strategy="afterInteractive"
       />
+  
         <GoogleAnalytics measurementId="G-YNSCPT6BQR" />
-            
+     
         <PageTransition>  
           <Hamburger />
+        
+         
          <Component {...pageProps} />
           <Footer />
         </PageTransition>

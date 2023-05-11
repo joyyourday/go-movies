@@ -8,14 +8,13 @@ import Max from 'pages/Max';
 import ShareButtons from '@components/ShareButtons';
 import Script from 'next/script';
 import { Image } from 'cloudinary-react'
-//import Ad from '@components/Ad1';
-
+//import Ad from '@components/Ad'
 
 
 
 function UTurn({ movie }) {
   const [showAd, setShowAd] = useState(false);
-
+  
   useEffect(() => {
     const timer = setInterval(() => {
       setShowAd(true);
@@ -48,6 +47,8 @@ function UTurn({ movie }) {
   function togglePopup() {
     setShowPopup(!showPopup);
   }
+
+  
   const ldJsonData = JSON.stringify({
     "@context": "https://schema.org",
     "@type": "Movie",
@@ -139,10 +140,11 @@ function UTurn({ movie }) {
        </Head>
 <Script src="../../propler/ads.js" defer />
 
-       <div className="bg-gray-600 shadow ">
+<div className="bg-gray-600 shadow">
 
-     
 
+      
+       
        <h1 className="flex flex-col text-center py-5 font-bold text-3xl items-center justify-center" style={{ color: "#40D7BC", textShadow: "5px 5px 2px #000" }}>{movie.title} - 2023</h1>
        <div className={styles['iframe-container']}>
       <iframe className="  rounded-3xl  mr-8 flex  border-1 border-blue-600 bg-gray-600 p-2 "
@@ -152,15 +154,21 @@ function UTurn({ movie }) {
         allowFullScreen
       ></iframe>
            </div>  
+          
+         
+
            <h3 className="mb-9 text-bg  text-black-500 text-red-600 text-center xl:px-4 ">*Note: Pls Select the in the Player to Change your Language of your Choice and Setting  to Change the Quality of Video.</h3>
+
+
 <ShareButtons url="https://gomovies.netlify.app" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify.app/og_image.jpg" />
 
+    
 
-       
            <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
            <a href="../UTurn-2023/UTRSR1" >  
       <h2 > Watch {movie.name}  Server 2</h2></a></button>
       <Rating />
+
       <a href={movie.link} className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 " target="_blank">IMDb Rating: {movie.rating}</a>  
       
       <ul className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-white"style={{ textShadow: "0px 0px 2px #000" }}>
@@ -173,7 +181,7 @@ function UTurn({ movie }) {
       </ul>
      
            
-       
+     
    
       <div className="flex flex-col py-10  text-blue-600 text-center items-center justify-center">
 
@@ -254,7 +262,7 @@ Download
   Back To Bollywood Section
 
 </buton></Link>
- 
+
 
 
 
@@ -265,7 +273,7 @@ Download
 }
 
 export async function getServerSideProps() {
-  const res = await fetch('https://gomovies.netlify.app/movies.json');
+  const res = await fetch('https://gomoviesfree.vercel.app/movies.json');
   const data = await res.json();
   const selectedMovie = data.find(movie => movie.id === 'UTR');
   return {
