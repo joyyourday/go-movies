@@ -15,7 +15,7 @@ const PageContainer = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 150vh;
+  height: 100vh;
   background-image: url(${props => props.src});
   background-size: cover;
   background-position: center;
@@ -28,7 +28,7 @@ const HeroBannerContainer = styled.div`
   position: relative;
   top: 0;
   left: 0;
-  z-index: 0;
+  z-index: -1;
 `;
 
 const HeroBannerImage = styled.img`
@@ -39,13 +39,10 @@ const HeroBannerImage = styled.img`
 
 const VideoBackground = styled.video`
   position: relative;
-  top: 0;
-  left: 0;
   width: 100%;
   height: 100%;
+  z-index: -1;
   object-fit: cover;
-  z-index: 0;
-  
 `;
 
 const Header = styled.h1`
@@ -61,7 +58,7 @@ const Text = styled.h2`
   position: absolute;
   font-size: 16px;
   text-align: center;
-  top: 135%;
+  top: 100%;
   color: white;
 `;
 
@@ -75,7 +72,7 @@ const Button = styled.button`
   cursor: pointer;
   position: absolute;
   left: 50%;
-  top: 150%;
+  top: 120%;
   transform: translate(-50%, -50%);
 `;
 
