@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import Link from 'next/link';
 import Head from 'next/head';
 import HeroBanner from '../components/HeroBanner';
+import style from '../styles/styles.module.css';
 
 const scrollSearch = myKey => {
   window.scrollTo(0, 0);
