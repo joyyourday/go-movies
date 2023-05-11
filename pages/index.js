@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import styled from 'styled-components';
 import Link from 'next/link';
 import Head from 'next/head';
-
+import HeroBanner from '../components/HeroBanner';
 
 const scrollSearch = myKey => {
   window.scrollTo(0, 0);
@@ -18,6 +18,17 @@ const PageContainer = styled.div`
   justify-content: center;
   height: 100vh;
   
+`;
+
+const HeroBannerContainer = styled.div`
+  width: 100%;
+  height: 500px;
+`;
+
+const HeroBannerImage = styled.img`
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 `;
 
 const VideoBackground = styled.video`
@@ -37,7 +48,7 @@ const Header = styled.h1`
 `;
 
 const Text = styled.h2`
-
+  font-family: 'Roboto', sans-serif;
   font-size: 48px;
   text-align: center;
   color: white;
@@ -53,7 +64,7 @@ const Button = styled.button`
   cursor: pointer;
   position: absolute;
   left: 50%;
-  top: 55%;
+  top: 130%;
 //opacity: 0.25;
   transform: translate(-50%, -50%);
 `;
@@ -169,7 +180,8 @@ const LandingPage = () => {
       <meta name="twitter:title" content="Go Movies™ - Watch Movies, TV-Series & Sports Live Online Free " />
       <meta name="twitter:description" content=" Go Movies™ - Watch Movies, TV-Series & Sports Live Online Free " />
       <meta name="twitter:image" content="https://gomovies.netlify.app/og_image.jpg" />
-    
+      <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet" />
+
       <link rel="alternate" hrefLang="en-us" 	href="https://gomovies.netlify.app/"/>
   <link rel="alternate" hrefLang="en-gb" 	href="https://gomovies.netlify.app/"/>
   <link rel="alternate" hrefLang="en-ca" 	href="https://gomovies.netlify.app/"/>
@@ -188,22 +200,28 @@ const LandingPage = () => {
   <link rel="canonical" href="https://gomovies.netlify.app/" />
 
       </Head>
-    <PageContainer>
-
-    <Header  style={{textShadow: "5px 5px 2px #000" }}>Welcome to Go Movies™ </Header>
-
-    <Text style={{textShadow: "5px 5px 2px #000" }}>Watch Movies TV-Series & Sports Live Online Free </Text>
-      <Link href="/page">
-        <Button>Enter free movie websites without sign up</Button>
-      </Link> 
-       
-      <VideoBackground autoPlay muted loop>
-      
+   
     
-        <source src="https://ik.imagekit.io/lwkyvy5lo/trailer.mp4?updatedAt=1683813651866" type="video/mp4" />
-      </VideoBackground>
-    
-    </PageContainer>
+      <HeroBannerContainer>
+  <HeroBanner
+    src="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610087/og_image_okmgde.jpg"
+    alt="Hero banner"
+    loading="lazy"
+    width={1920}
+    height={1080}
+    quality={80}
+  />
+</HeroBannerContainer>
+<PageContainer>
+        <Header style={{textShadow: "5px 5px 2px #000" }}>Welcome to Go Movies™ </Header>
+        <Text style={{textShadow: "5px 5px 2px #000" }}>Watch Movies TV-Series & Sports Live Online Free </Text>
+        <Link href="/page">
+          <Button>Enter free movie websites without sign up</Button>
+        </Link> 
+        <VideoBackground autoPlay muted loop>
+          <source src="https://ik.imagekit.io/lwkyvy5lo/trailer.mp4?updatedAt=1683813651866" type="video/mp4" />
+        </VideoBackground>
+      </PageContainer>
     </>
   );
 };
