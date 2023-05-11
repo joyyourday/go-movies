@@ -17,6 +17,7 @@ const PageContainer = styled.div`
   align-items: center;
   justify-content: center;
   width: 100vw;
+  height: 100vw;
   background-image: url(${props => props.src});
   background-size: cover;
   background-position: center;
@@ -223,7 +224,7 @@ const LandingPage = () => {
         <Header style={{textShadow: "5px 5px 2px #000" }}>Welcome to Go Movies™ </Header>
         <Text style={{textShadow: "5px 5px 2px #000" }}>Watch Movies TV-Series & Sports Live Online Free </Text>
         <Link href="/page">
-          <Button>Enter Free Without Sign Up</Button>
+          <Button>Enter Free </Button>
         </Link> 
         <VideoBackground autoPlay muted loop>
           <source src="https://ik.imagekit.io/lwkyvy5lo/trailer.mp4?updatedAt=1683813651866" type="video/mp4" />
