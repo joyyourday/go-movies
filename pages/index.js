@@ -24,12 +24,12 @@ const PageContainer = styled.div`
 
 const HeroBannerContainer = styled.div`
   width: 100%;
-  height: 150px;
+  height: 100px;
 `;
 
 const HeroBannerImage = styled.img`
   width: 100%;
-  height: 150px;
+  height: 100px;
   object-fit: cover;
 `;
 
@@ -180,7 +180,7 @@ const LandingPage = () => {
       <meta name="twitter:title" content="Go Movies™ - Watch Movies, TV-Series & Sports Live Online Free " />
       <meta name="twitter:description" content=" Go Movies™ - Watch Movies, TV-Series & Sports Live Online Free " />
       <meta name="twitter:image" content="https://gomovies.netlify.app/og_image.jpg" />
-      <Link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet" />
+      <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet" />
 
       <link rel="alternate" hrefLang="en-us" 	href="https://gomovies.netlify.app/"/>
   <link rel="alternate" hrefLang="en-gb" 	href="https://gomovies.netlify.app/"/>
@@ -207,7 +207,7 @@ const LandingPage = () => {
   src="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610087/og_image_okmgde.jpg"
   alt="Hero banner"
   loading="lazy"
-  height={150}
+  height={100}
 />
 </HeroBannerContainer>
 <PageContainer>
