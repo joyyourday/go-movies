@@ -15,7 +15,7 @@ const PageContainer = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 175vh;
+  height: 150vh;
   background-image: url(${props => props.src});
   background-size: cover;
   background-position: center;
@@ -39,10 +39,12 @@ const HeroBannerImage = styled.img`
 
 const VideoBackground = styled.video`
   position: relative;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
-  object-fit: fill;
-  z-index: -1;
+  object-fit: cover;
+  z-index: 0;
   
 `;
 
