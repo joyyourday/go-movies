@@ -15,6 +15,7 @@
     "@next/bundle-analyzer": "^13.3.0",
     "@popperjs/core": "^2.11.6",
     "@tailwindcss/aspect-ratio": "^0.4.2",
+    "chokidar": "^3.5.1",
     "cloudinary-react": "^1.8.1",
     "compression": "^1.7.4",
     "cypress": "^10.0.3",
@@ -37,6 +38,7 @@
     "react-slick": "^0.29.0",
     "sharethis-reactjs": "^1.6.0",
     "slick-carousel": "^1.8.1",
+    "styled-components": "^6.0.0-rc.1",
     "tw-elements": "^1.0.0-alpha13",
     "uuid": "^9.0.0"
   },
