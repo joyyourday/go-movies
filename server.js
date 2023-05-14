@@ -25,7 +25,12 @@ app.prepare().then(() => {
   server.use(compression());
 
   // Serve Next.js pages
-  server.get('*', (req, res) => handle(req, res));
+  //server.get('*', (req, res) => handle(req, res));
+
+    // Handle all requests using Next.js
+    server.all('*', (req, res) => {
+      return handle(req, res);
+    });
 
   server.listen(port, (err) => {
     if (err) throw err;
