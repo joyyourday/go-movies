@@ -4,82 +4,12 @@ import Link from 'next/link';
 import Head from 'next/head';
 import HeroBanner from '../components/HeroBanner';
 import style from '../styles/styles.module.css';
+import BackgroundVideo from '../components/BackgroundVideo';
 
 const scrollSearch = myKey => {
   window.scrollTo(0, 0);
   frontMatter.handleSearch(myKey)
 };
-
-
-const PageContainer = styled.div`
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-  width: 100vw;
-  background-image: url(${props => props.src});
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-`;
-
-const HeroBannerContainer = styled.div`
-  width: 100%;
-  height: 100px;
-  position: relative;
-  top: 0;
-  left: 0;
-  z-index: -1;
-`;
-
-const HeroBannerImage = styled.img`
-  width: 100%;
-  height: 100px;
-  object-fit: cover;
-`;
-
-const VideoBackground = styled.video`
-  position: relative;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  object-fit: cover;
-`;
-
-const Header = styled.h1`
-position: absolute;  
-font-size: 24px;
-top: 45%;
-  text-align: center;
-  color: white;
- 
-`;
-
-const Text = styled.h2`
-  font-family: 'Roboto', sans-serif;
-  position: absolute;
-  font-size: 20px;
-  text-align: center;
-  top: 50%;
-  color: white;
-`;
-
-const Button = styled.button`
-  background-color: #0070f3;
-  color: white;
-  font-size: 20px;
-  padding: 16px 32px;
-  border-radius: 8px;
-  border: none; 
-  cursor: pointer;
-  position: absolute;
-  left: 50%;
-  top: 63%;
-  transform: translate(-50%, -50%);
-`;
 
 
 
@@ -178,6 +108,7 @@ const LandingPage = () => {
         <meta name="description" content="Go Movies™ - Watch Movies, TV-Series & Sports Live Online Free" />
       <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
       <meta name="keywords" content="gomovies,gomovies.to,gomovies.sx,gomovieshd.today,gomovieshd.us.org,gomovieshd.tw,f9movies,gomovies.123movies,gomovies-sc.com,streaming,latest movies,online tv,latest free movies,watch latest movies online" />
+	     <meta property="og:locale" content="en_US" /> 
       <meta property="og:locale" content="en_US" />   
       <meta property=" Content-Security-Policy: frame-ancestors 'self' gomovies.netlify.app *.gomovies.netlify.app;" />
       <meta property="og:site_name" content="Go Movies™ | Watch Movies, TV-Series & Sports Live Online Free " />
@@ -212,28 +143,13 @@ const LandingPage = () => {
   <link rel="canonical" href="https://gomovies.netlify.app/" />
 
       </Head>
-      <Link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet" />
-    
-      <HeroBannerContainer >
-      <HeroBanner
-  src="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610087/og_image_okmgde.jpg"
-  alt="Hero banner"
-  loading="lazy"
-  height={100}
-/>
-</HeroBannerContainer>
-<PageContainer >
-        <Header className='container mx-5'   style={{textShadow: "5px 5px 2px #000" }}>Welcome to Go Movies™ </Header>
-        <Text className='container mx-5' style={{textShadow: "5px 5px 2px #000" }}>Watch Movies TV-Series & Sports Live Online Free </Text>
-        <Link href="/page">
-          <Button>Enter Free </Button>
-        </Link> 
-        <VideoBackground autoPlay muted loop>
-          <source src="https://ik.imagekit.io/lwkyvy5lo/trailer.mp4?updatedAt=1683813651866" type="video/mp4" />
-        </VideoBackground>
-      </PageContainer>
+   
+      <BackgroundVideo  
+        src="https://ik.imagekit.io/lwkyvy5lo/trailer.mp4?updatedAt=1683813651866"
+        srcMobile="https://ik.imagekit.io/lwkyvy5lo/trailer.mp4?updatedAt=1683813651866"
+      />
     </>
   );
-};
+}
 
 export default LandingPage;
