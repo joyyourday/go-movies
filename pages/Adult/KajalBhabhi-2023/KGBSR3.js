@@ -8,7 +8,7 @@ import styles from '@styles/video-player.module.css';
 import Max from 'pages/Max';
 import ShareButtons from '@components/ShareButtons';
 import Script from 'next/script';
-import Ads from '@components/Ads';
+
 
 
 
