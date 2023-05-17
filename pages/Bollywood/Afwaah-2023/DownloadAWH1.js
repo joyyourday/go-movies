@@ -101,7 +101,7 @@ function DownloadAWH1({ movie }) {
     <Head>
      <title>Watch Afwaah (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,afwaah movie,afwaah 2023,index of afwaah movie,afwaah cast,afwaah trailer,afwaah release date,afwaah plot,afwaah reviews,afwaah streaming,afwaah watch online,afwaah download,afwaah full movie,afwaah movie download,afwaah movie free download,afwaah movie online,afwaah movie watch online,bhumi pednekar,nawazuddin siddiqui in afwaah" />
+<meta name="keywords" content="gomovies,afwaah movie,afwaah 2023,index of afwaah movie,afwaah cast,afwaah trailer,afwaah release date,afwaah plot,afwaah reviews,afwaah streaming,afwaah watch online,afwaah download,afwaah full movie,afwaah movie download,afwaah movie free download,afwaah movie online,afwaah movie watch online,bhumi pednekar,nawazuddin siddiqui in afwaah" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  

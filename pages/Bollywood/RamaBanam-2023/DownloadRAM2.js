@@ -101,7 +101,7 @@ function DownloadRAM2({ movie }) {
     <Head>
      <title>Watch Rama Banam (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,rama banam movie,rama banam 2023,index of rama banam movie,rama banam cast,rama banam trailer,rama banam release date,rama banam plot,rama banam reviews,rama banam streaming,rama banam watch online,rama banam download,rama banam full movie,rama banam movie download,rama banam movie free download,rama banam movie online,rama banam movie watch online,adah sharma, yogita bihani in rama banam" />
+<meta name="keywords" content="gomovies,rama banam movie,rama banam 2023,index of rama banam movie,rama banam cast,rama banam trailer,rama banam release date,rama banam plot,rama banam reviews,rama banam streaming,rama banam watch online,rama banam download,rama banam full movie,rama banam movie download,rama banam movie free download,rama banam movie online,rama banam movie watch online,adah sharma, yogita bihani in rama banam" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  

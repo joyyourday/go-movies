@@ -101,7 +101,7 @@ function DownloadPNT2({ movie }) {
     <Head>
      <title>Watch Paint (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,paint movie,paint 2023,index of paint movie,paint cast,paint trailer,paint release date,paint plot,paint reviews,paint streaming,paint watch online,paint download,paint full movie,paint movie download,paint movie free download,paint movie online,paint movie watch online,owen wilson, elisabeth henry in Paint" />
+<meta name="keywords" content="gomovies,paint movie,paint 2023,index of paint movie,paint cast,paint trailer,paint release date,paint plot,paint reviews,paint streaming,paint watch online,paint download,paint full movie,paint movie download,paint movie free download,paint movie online,paint movie watch online,owen wilson, elisabeth henry in Paint" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  

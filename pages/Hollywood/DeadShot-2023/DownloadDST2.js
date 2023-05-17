@@ -101,7 +101,7 @@ function DownloadDST2({ movie }) {
     <Head>
      <title>Watch Dead Shot (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,dead shot movie,dead shot 2023,index of dead shot movie,dead shot cast,dead shot trailer,dead shot release date,dead shot plot,dead shot reviews,dead shot streaming,dead shot watch online,dead shot download,dead shot full movie,dead shot movie download,dead shot movie free download,dead shot movie online,dead shot movie watch online,m�ir�ad tyers, brian mccann in dead shot" />
+<meta name="keywords" content="gomovies,dead shot movie,dead shot 2023,index of dead shot movie,dead shot cast,dead shot trailer,dead shot release date,dead shot plot,dead shot reviews,dead shot streaming,dead shot watch online,dead shot download,dead shot full movie,dead shot movie download,dead shot movie free download,dead shot movie online,dead shot movie watch online,m�ir�ad tyers, brian mccann in dead shot" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  

@@ -115,7 +115,7 @@ function AWHSR1({ movie }) {
     <Head>
      <title>Watch Afwaah (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,afwaah movie,afwaah 2023,index of afwaah movie,afwaah cast,afwaah trailer,afwaah release date,afwaah plot,afwaah reviews,afwaah streaming,afwaah watch online,afwaah download,afwaah full movie,afwaah movie download,afwaah movie free download,afwaah movie online,afwaah movie watch online,bhumi pednekar,nawazuddin siddiqui in afwaah" />
+<meta name="keywords" content="gomovies,afwaah movie,afwaah 2023,index of afwaah movie,afwaah cast,afwaah trailer,afwaah release date,afwaah plot,afwaah reviews,afwaah streaming,afwaah watch online,afwaah download,afwaah full movie,afwaah movie download,afwaah movie free download,afwaah movie online,afwaah movie watch online,bhumi pednekar,nawazuddin siddiqui in afwaah" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -167,7 +167,8 @@ function AWHSR1({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country of origin: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-  <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.synopsis}</p>
+  <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
            

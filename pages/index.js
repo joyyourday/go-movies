@@ -5,6 +5,8 @@ import Head from 'next/head';
 import HeroBanner from '../components/HeroBanner';
 import style from '../styles/styles.module.css';
 import BackgroundVideo from '../components/BackgroundVideo';
+import ShareButtons from '@components/ShareButtons';
+import { Image } from 'cloudinary-react'
 
 const scrollSearch = myKey => {
   window.scrollTo(0, 0);
@@ -107,7 +109,7 @@ const LandingPage = () => {
       <meta name="google-site-verification" content="4dFu4PUk1pc1IYqU6Brt84akCwNxaoUpKSO3gDW0kJ0" />
         <meta name="description" content="Go Movies™ - Watch Movies, TV-Series & Sports Live Online Free" />
       <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-      <meta name="keywords" content="gomovies,go movies online,go movies free,go movies website,go movies app,go movies download,go movies unblocked,go movies proxy,go movies alternatives,go movies legal,go movies new site,go movies official site,go movies latest movies,go movies HD,go movies mirror,go movies TV shows,go movies streaming,go movies genres,go movies best movies,go movies search,go movies reviews" />
+      <meta name="keywords" content="gomovies,streaming,latest movies,online tv,latest free movies,watch latest movies online" />
 	     <meta property="og:locale" content="en_US" /> 
       <meta property="og:locale" content="en_US" />   
       <meta property=" Content-Security-Policy: frame-ancestors 'self' gomovies.netlify.app *.gomovies.netlify.app;" />
@@ -124,7 +126,7 @@ const LandingPage = () => {
       <meta name="twitter:description" content=" Go Movies™ - Watch Movies, TV-Series & Sports Live Online Free " />
       <meta name="twitter:image" content="https://gomovies.netlify.app/og_image.jpg" />
     
-
+   
       <link rel="alternate" hrefLang="en-us" 	href="https://gomovies.netlify.app/"/>
   <link rel="alternate" hrefLang="en-gb" 	href="https://gomovies.netlify.app/"/>
   <link rel="alternate" hrefLang="en-ca" 	href="https://gomovies.netlify.app/"/>
@@ -140,14 +142,39 @@ const LandingPage = () => {
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
   <link rel="manifest" href="/site.webmanifest"></link>
+  <link
+        rel="preload"
+        href="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610087/og_image_okmgde.jpg"
+        as="image"
+      />
   <link rel="canonical" href="https://gomovies.netlify.app/" />
 
       </Head>
+      <div className="bg-gray-600 shadow ">
    
+      <Image
+  src="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610087/og_image_okmgde.jpg"
+  alt="Hero banner"
+  loading="lazy"
+  priority={true}
+  style={{ display: "block", width: "100%" }}
+/>
+
+       <ShareButtons url="https://gomovies.netlify.app" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify.app/og_image.jpg" />
+      
+
+         <h1 className="text-center font-bold text-3xl  py-5" style={{ color: "#40D7BC", textShadow: "5px 5px 2px #000" }}>Go Movies™ -Watch Movies Tv Series & Sports Live. </h1>
+       
+     
+
       <BackgroundVideo  
         src="https://ik.imagekit.io/lwkyvy5lo/trailer.mp4?updatedAt=1683813651866"
         srcMobile="https://ik.imagekit.io/lwkyvy5lo/trailer.mp4?updatedAt=1683813651866"
       />
+
+      </div>
+   
+
     </>
   );
 }

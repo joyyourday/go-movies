@@ -32,85 +32,397 @@
    
   },
 
-  {
-    "id": "TVO",
-    "title": "YOUNG SHELDONn - S6",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610141/young-sheldon-2023_hqvkgk.webp",
-    "yearRelease": 2023,
-    "genre": [" Reality ", " TV SHOW," , " GAME SHOW" ],
-    "rating": 4.2,
-    "synopsis": "Four famous musicians search for the best voices in America and will mentor these singers to become artists. America will decide which singer will be worthy of the grand prize.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "status": "Tv Show",
-    "link": "https://www.imdb.com/title/tt0319931/",
-    "movie.watch": "../TvShows/YoungSheldon-2023/YoungSheldon"
-   },
-   {
-    "id": "TVO",
-    "title": " LAW & ORDER - S22",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610080/law_order-2023_cegi6i.webp",
-    "yearRelease": 2023,
-    "genre": [" DRAMA ", " ACTION" ],
-    "rating": 7.1,
-    "synopsis": "Four famous musicians search for the best voices in America and will mentor these singers to become artists. America will decide which singer will be worthy of the grand prize.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "status": "Tv Show",
-    "link": "https://www.imdb.com/title/tt10323338/",
-    "movie.watch": "../TvShows/LawAndOrder-2023/LawAndOrder"
-   },
-   {
-    "id": "TVO",
-    "title": " NEXT LEVEL CHEF - S2 ",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610085/next-level-chef-2023_pz5x1s.webp",
-    "yearRelease": 2023,
-    "genre": [" COOKING ", " TV SHOW" ],
-    "rating": 7.6,
-    "synopsis": "Four famous musicians search for the best voices in America and will mentor these singers to become artists. America will decide which singer will be worthy of the grand prize.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "status": "Tv Show",
-    "link": "https://www.imdb.com/title/tt7414406/",
-    "movie.watch": "../TvShows/NextLevelChef-2023/NextLevelChef"
-   },
-
-   {
-    "id": "TVO",
-    "title": " WALKER - S3",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610139/walker-2023_pvyqnc.webp",
-    "yearRelease": 2023,
-    "genre": [" CRIME, ", " THRILLER," , " DRAMA" ],
-    "rating": 5.1,
-    "synopsis": "Four famous musicians search for the best voices in America and will mentor these singers to become artists. America will decide which singer will be worthy of the grand prize.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "status": "Tv Show",
-    "link": "https://www.imdb.com/title/tt2077823/",
-    "movie.watch": "../TvShows/Walker-2023/Walker"
-   },
-  {
-    "id": "TVO",
-    "title": "Ex ON THE BEACH COUPLES - S11",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610003/ex-onthe-beach-couples-2023_k5sbji.webp",
-    "yearRelease": 2023,
-    "genre": [" REALITY ", " TV SHOW" ],
-    "rating": 7.8,
-    "synopsis": "Four famous musicians search for the best voices in America and will mentor these singers to become artists. America will decide which singer will be worthy of the grand prize.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",  
-    "country": "USA",
-    "status": "Tv Show",
-    "link": "https://www.imdb.com/title/tt1637756/",
-    "movie.watch": "../TvShows/BasketballWives-2023/BasketballWives"
-   },
  
    {
-    "id": "SIM",
+    "id": "INDEX27",
+    "title": "CUSTODY  ",
+    "name": "Custody (2023)", 
+    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1684278815/custody-2023_zz5gdx.webp",
+    "banner": "https://res.cloudinary.com/dezf3wemk/image/upload/c_fill,g_auto,e_sharpen,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.10/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Download%20Now,w_0.3,y_0.35/v1684278815/custody-2023_zz5gdx.webp",
+    "yearRelease": 2023,
+    "genre": [  " ACTION," ," THRILLER," ,  " DRAMA" ],
+    "rating": 8.7,
+    "synopsis": "In the Hindi dubbed movie Custody (2023), the audience is taken on a thrilling journey through the world of crime and corruption. Constable Siva, played by Naga Chaitanya Akkineni, is given the responsibility of escorting a crucial witness from police custody to the courtroom for a high-profile case. However, as the plot unfolds, Siva discovers a shocking truth: the entire police department is determined to eliminate the witness and prevent them from testifying in court. Realizing that he cannot trust anyone within the department, Siva finds himself in a race against time to protect the witness and expose the deep-rooted corruption that has plagued the system. With each step, Siva must navigate through a dangerous web of deceit, betrayal, and relentless pursuit. The movie blends action, drama, and thrills as Siva becomes a fugitive himself, evading both the police and the criminal elements who are determined to silence the witness at any cost. Krithi Shetty portrays the character of Revathi, a pivotal role in Siva's mission. Together, they embark on a thrilling journey filled with intense confrontations, unexpected alliances, and heart-stopping moments. As the action escalates, Darbha Appaji Ambarisha takes on the role of the lawyer, adding another layer of intrigue to the story. The lawyer's motives and alliances become key elements in the plot, raising questions about trust and loyalty. Custody showcases the power struggles within the system and the lengths one must go to uphold justice. It delves into themes of corruption, betrayal, and the fight for truth and integrity. Prepare to be on the edge of your seat as you witness Naga Chaitanya Akkineni's gripping performance as Constable Siva, a man determined to protect the witness and expose the truth. Custody is a thrilling action-drama that will keep you hooked from start to finish, showcasing the complexities of the justice system and the resilience of those who fight against it.",
+
+    "starring": ["Naga Chaitanya Akkineni", "Krithi Shetty", "Arvind Swami" , "Premgi Amaren" , "Vennela Kishore" ],
+    "director": " Venkat Prabhu", 
+    "country": "India",
+    "status": "New Movie",
+    "link": "https://www.imdb.com/title/tt23782248/",
+
+    "movie.watch": "../../Bollywood/Custody-2023/Custody",
+
+    "movie.watchP1": "https://lvturbo.com/e/haxx0mzd2n10.html",
+    
+
+    "movie.watchSR1": "https://dooood.com/e/vfuvrcrh606m",
+   
+    "download1": "../../Bollywood/Custody-2023/DownloadCDY1",
+
+    "down1link1": "https://lvturbo.com/d/haxx0mzd2n10.html",
+    
+   
+    "download2": "../../Bollywood/Custody-2023/DownloadCDY2",
+
+    "down2link1": "https://dooood.com/d/vfuvrcrh606m",
+   
+
+    "movie.trailer": "https://ik.imagekit.io/gmcl6xvq6/Custody_Trailer_Hindi.mp4?updatedAt=1684278945801"
+
+  },
+   {
+    "id": "INDEX26",
+    "title": "FARHANA  ",
+    "name": "Farhana (2023)", 
+    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1684183588/Farhana-2023_s2czpe.webp",
+    "banner": "https://res.cloudinary.com/dezf3wemk/image/upload/c_fill,g_auto,e_sharpen,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.10/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Download%20Now,w_0.3,y_0.35/v1684183588/Farhana-2023_s2czpe.webp",
+    "yearRelease": 2023,
+    "genre": [  " THRILLER," ,  " DRAMA" ],
+    "rating": 6.2,
+    "synopsis": "In the Hindi dubbed movie Farhana (2023), viewers are introduced to the character of Farhana, a middle-class mother who finds herself in a financial struggle. To overcome her financial difficulties, she decides to take up a job at a call center. Little does she know that this seemingly innocuous decision will lead her down a perilous path. As Farhana delves into her new job, she discovers a newfound sense of freedom and independence. However, her journey takes an unexpected turn as she becomes entangled in a web of dangers. She finds herself confronted with challenging situations, encountering individuals who may not have her best interests at heart.Aishwarya Rajesh portrays the character of Farhana, bringing depth and vulnerability to her role. Through her performance, she captures the essence of a determined mother navigating the complexities of her circumstances. As the story unfolds, Farhana must summon her strength and resilience to confront the threats and navigate the treacherous situations she encounters. The movie delves into themes of survival, self-discovery, and the lengths a person will go to protect themselves and their loved ones. Farhana is a gripping drama-thriller that explores the consequences of one woman's choices in pursuit of financial stability. It serves as a cautionary tale about the hidden dangers that may lurk beneath the surface of seemingly ordinary circumstances. Prepare to be captivated by Aishwarya Rajesh's compelling performance as Farhana and to be taken on a suspenseful journey filled with unexpected twists and turns. Farhana is a thought-provoking film that sheds light on the complexities of human nature and the choices we make when faced with adversity.",
+
+    "starring": ["Aishwarya Rajesh", "K. Selvaraghavan", "Anumol K. Manoharan" , "Aishwarya Dutta" , "Sakthi Raj" ],
+    "director": "  Nelson Venkatesan", 
+    "country": "India",
+    "status": "New Movie",
+    "link": "https://www.imdb.com/title/tt15434268/",
+
+    "movie.watch": "../../Bollywood/Farhana-2023/Farhana",
+
+    "movie.watchP1": "https://lvturbo.com/e/3qzuecl16byi.html",
+    
+
+    "movie.watchSR1": "https://dooood.com/e/r9isse5ag0jd",
+   
+    "download1": "../../Bollywood/Farhana-2023/DownloadFRH1",
+
+    "down1link1": "https://lvturbo.com/d/3qzuecl16byi.html",
+    
+   
+    "download2": "../../Bollywood/Farhana-2023/DownloadFRH2",
+
+    "down2link1": "https://dooood.com/d/r9isse5ag0jd",
+   
+
+    "movie.trailer": "https://ik.imagekit.io/gmcl6xvq6/Farhana_Official_Trailer.mp4?updatedAt=1684183680630"
+
+  },
+   {
+    "id": "INDEX25",
+    "title": "SID IS DEAD  ",
+    "name": "Sid Is Dead (2023)", 
+    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1684183589/Sid-Is-Dead-2023_aprpdr.webp",
+    "banner": "https://res.cloudinary.com/dezf3wemk/image/upload/c_fill,g_auto,e_sharpen,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.10/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Download%20Now,w_0.3,y_0.35/v1684183589/Sid-Is-Dead-2023_aprpdr.webp",
+    "yearRelease": 2023,
+    "genre": [  " COMEDY," ,  " DRAMA" ],
+    "rating": 5.6,
+    "synopsis": "In the comedy-drama film Sid Is Dead (2023), audiences are introduced to Sid, a socially invisible high school senior whose life takes an unexpected turn. After accidentally getting the school's biggest bully suspended, Sid realizes that he may only have two weeks left before facing the consequences of his actions. Determined to make the most of his limited time, Sid embarks on a quest to experience everything he's ever missed out on. Mary Stuart Masterson portrays Kim Sandagger, a supportive and understanding figure in Sid's life, who encourages him to embrace his newfound freedom. Carla Gallo takes on the role of Dr. Capanna, a quirky and insightful therapist who helps Sid navigate his emotional journey. Genevieve Hannelius brings charm and liveliness to the character of Tiff Mann, a fellow student who becomes a catalyst for Sid's self-discovery. Tyler Alvarez embodies Jim Vega, Sid's best friend, who joins him on his adventurous quest. As Sid immerses himself in a whirlwind of new experiences, he learns valuable lessons about friendship, love, and self-acceptance. Along the way, he encounters a colorful cast of characters, navigates both triumphs and setbacks, and discovers the importance of embracing life's unpredictable moments. Sid Is Dead blends comedy and drama to deliver a heartfelt story about personal growth, self-discovery, and the power of seizing the moment. With its relatable themes and endearing characters, the film explores the universal desire to break free from the confines of social expectations and live life to the fullest. Prepare to laugh, cry, and cheer for Sid as he embarks on a hilarious and poignant journey of self-exploration. Sid Is Dead is a touching and entertaining film that reminds us all to embrace life's uncertainties and seize every opportunity that comes our way.",
+
+    "starring": ["Mary Stuart Masterson", "Carla Gallo", "Genevieve Hannelius" , "Tyler Alvarez" , "Jack Griffo" ],
+    "director": "  Eli Gonda", 
+    "country": "USA",
+    "status": "New Movie",
+    "link": "https://www.imdb.com/title/tt4450714/",
+
+    "movie.watch": "../../Hollywood/SidIsDead-2023/SidIsDead",
+
+    "movie.watchP1": "https://lvturbo.com/e/ihasvkmx34ib.html",
+    
+
+    "movie.watchSR1": "https://dooood.com/e/v6bqkp8nk0ev",
+   
+    "download1": "../../Hollywood/SidIsDead-2023/DownloadSID1",
+
+    "down1link1": "https://lvturbo.com/d/ihasvkmx34ib.html",
+    
+   
+    "download2": "../../Hollywood/SidIsDead-2023/DownloadSID2",
+
+    "down2link1": "https://dooood.com/d/v6bqkp8nk0ev",
+   
+
+    "movie.trailer": "https://ik.imagekit.io/gmcl6xvq6/SID_IS_DEAD_Official_Trailer_2023.mp4?updatedAt=1684183681848"
+
+  },
+   {
+    "id": "INDEX24",
+    "title": "ASTERIX & OBELIX ",
+    "name": "Asterix and Obelix The Middle Kingdom (2023)", 
+    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1684183588/Asterix-and-Obelix-The-Middle-Kingdom-2023_f3ngtl.webp",
+    "banner": "https://res.cloudinary.com/dezf3wemk/image/upload/c_fill,g_auto,e_sharpen,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.10/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Download%20Now,w_0.3,y_0.35/v1684183588/Asterix-and-Obelix-The-Middle-Kingdom-2023_f3ngtl.webp",
+    "yearRelease": 2023,
+    "genre": [  " ADVENTURE," ," COMEDY," ,  " FAMILY" ],
+    "rating": 4.8,
+    "synopsis": "In the thrilling adventure-comedy film Asterix and Obelix: The Middle Kingdom (2023) dubbed in Hindi, audiences are taken on an epic journey alongside the iconic Gaul warriors, Asterix and Obelix. The story revolves around the only daughter of the Chinese emperor Han Xuandi, who escapes from the clutches of a strict prince and seeks assistance from the Gauls in her quest for freedom and safety. Guillaume Canet portrays the indomitable Asterix, known for his wit and bravery, while Gilles Lellouche brings to life the larger-than-life Obelix, renowned for his immense strength. Together, they form an unstoppable duo, ready to take on any challenge that comes their way. As the princess finds refuge with the Gauls, Asterix and Obelix embark on a grand adventure to protect her from the forces that seek to harm her. Along the way, they encounter a colorful array of characters, face perilous obstacles, and engage in hilarious escapades that will leave audiences laughing and on the edge of their seats.Vincent Cassel shines as the iconic Julius Caesar, whose presence adds an extra layer of excitement and intrigue to the story. Jonathan Cohen brings humor and charm to the character of Graindemaïs, a loyal friend of Asterix and Obelix, while Marion Cotillard mesmerizes as the captivating Cleopatra, who lends her support to the Gaul warriors in their quest. With stunning visuals, captivating action sequences, and a delightful blend of adventure and comedy, Asterix and Obelix: The Middle Kingdom promises to be an unforgettable cinematic experience for the whole family. The film celebrates the enduring spirit of friendship, bravery, and the power of unity, as Asterix and Obelix once again prove that with courage and determination, anything is possible. Get ready to embark on an extraordinary journey filled with laughter, excitement, and heartwarming moments as Asterix, Obelix, and their new allies venture into the Middle Kingdom to protect the princess and uphold the values of honor and freedom.",
+
+    "starring": ["Guillaume Canet", "Gilles Lellouche", "Vincent Cassel" , "Jonathan Cohen" , "Marion Cotillard" ],
+    "director": " Guillaume Canet", 
+    "country": "USA",
+    "status": "New Movie",
+    "link": "https://www.imdb.com/title/tt11210390/",
+
+    "movie.watch": "../../Hollywood/AsterixandObelix-2023/AsterixandObelix",
+
+    "movie.watchP1": "https://lvturbo.com/e/jh78hynzh2nj.html",
+    
+
+    "movie.watchSR1": "https://dooood.com/e/srq32wiay8pn",
+   
+    "download1": "../../Hollywood/AsterixandObelix-2023/DownloadAAO1",
+
+    "down1link1": "https://lvturbo.com/d/jh78hynzh2nj.html",
+    
+   
+    "download2": "../../Hollywood/AsterixandObelix-2023/DownloadAAO2",
+
+    "down2link1": "https://dooood.com/d/srq32wiay8pn",
+   
+
+    "movie.trailer": "https://ik.imagekit.io/gmcl6xvq6/AST%C3%89RIX_AND_OB%C3%89LIX_Trailer.2023.mp4?updatedAt=1684183679360"
+
+  },
+   {
+    "id": "INDEX23",
+    "title": "THE BEST MAN",
+    "name": "The Best Man (2023)", 
+    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1684183588/The-Best-Man-2023_o63jxa.webp",
+    "banner": "https://res.cloudinary.com/dezf3wemk/image/upload/c_fill,g_auto,e_sharpen,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.10/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Download%20Now,w_0.3,y_0.35/v1684183588/The-Best-Man-2023_o63jxa.webp",
+    "yearRelease": 2023,
+    "genre": [  " ACTION," ," THRILLER," ,  " DRAMA" ],
+    "rating": 4.0,
+    "synopsis": "In the heart-pounding action thriller film The Best Man (2023), chaos erupts when a group of ruthless mercenaries takes over a remote resort hotel during a wedding celebration. As the guests and staff find themselves held hostage, it falls upon the shoulders of the best man, Cal, portrayed by Luke Wilson, along with the groom and their intoxicated best friend, to muster the courage and skills needed to confront the terrorists and save the innocent hostages. Cal, a man of unexpected heroism, must overcome his own doubts and fears as he leads the charge against the heavily armed mercenaries. With the lives of everyone at the resort hanging in the balance, Cal finds himself pushed to his limits, relying on his wit, resourcefulness, and the support of his friends to outsmart the ruthless invaders and bring an end to the terrifying ordeal. Joining forces with Cal are the groom, portrayed by Brendan Fehr, who is determined to protect his bride and ensure the safety of their wedding party, and their drunken best friend, played by Nicky Whelan, whose loyalty and unpredictability add both comedic relief and unexpected moments of bravery to their mission. As the tense standoff unfolds, the stakes continue to rise, and the hostages' lives hang in the balance. Dolph Lundgren shines as Anders, the cunning and ruthless leader of the mercenary group, who will stop at nothing to achieve his objectives. Meanwhile, Scout Taylor-Compton portrays Hailey, a resourceful and resilient hostage who becomes an integral part of the group's plan to take down the terrorists. The Best Man combines intense action sequences, thrilling suspense, and a dash of humor as it takes viewers on a high-stakes journey to save lives and restore order. With a talented ensemble cast, explosive confrontations, and unexpected twists, this action-packed thriller will keep audiences on the edge of their seats from start to finish.",
+
+    "starring": ["Luke Wilson", "Dolph Lundgren", "Brendan Fehr" , "Nicky Whelan" , "Scout Taylor-Compton" ],
+    "director": " Shane Dax Taylor", 
+    "country": "USA",
+    "status": "New Movie",
+    "link": "https://www.imdb.com/title/tt13400336/",
+
+    "movie.watch": "../../Hollywood/TheBestMan-2023/TheBestMan",
+
+    "movie.watchP1": "https://lvturbo.com/e/3bwze3ew4c7c.html",
+    
+
+    "movie.watchSR1": "https://dooood.com/e/ns58m1cxlqts",
+   
+    "download1": "../../Hollywood/TheBestMan-2023/DownloadTBM1",
+
+    "down1link1": "https://lvturbo.com/d/3bwze3ew4c7c.html",
+    
+   
+    "download2": "../../Hollywood/TheBestMan-2023/DownloadTBM2",
+
+    "down2link1": "https://dooood.com/d/ns58m1cxlqts",
+   
+
+    "movie.trailer": "https://ik.imagekit.io/gmcl6xvq6/The_Best_Man_Trailer-2023.mp4?updatedAt=1684183679961"
+
+  },
+   {
+    "id": "INDEX22",
+    "title": "WALKER S03",
+    "name": "Walker S03 (2023)", 
+    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610139/walker-2023_pvyqnc.webp",
+    "banner": "https://res.cloudinary.com/dezf3wemk/image/upload/c_fill,g_auto,e_sharpen,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.10/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Download%20Now,w_0.3,y_0.35/v1681610139/walker-2023_pvyqnc.webp",
+    "yearRelease": 2023,
+    "genre": [  " ACTION," ," CRIME," ,  " DRAMA" ],
+    "rating": 6.1,
+    "synopsis": "In the highly anticipated third season of the TV series Walker (2023), Cordell Walker, portrayed by Jared Padalecki, returns to Austin after a year-long absence, ready to rebuild his life and reconnect with his children. This action-packed, crime drama follows Cordell as he faces new challenges, navigates family dynamics, and seeks the truth behind his wife's untimely death. As Cordell immerses himself back into his children's lives, he finds himself caught up in a web of secrets, mysteries, and conflicts. Balancing his duties as a devoted father and a Texas Ranger, Cordell forms a partnership with his new colleague, Liam Walker, played by Keegan Allen. Together, they tackle crime, investigate complex cases, and maintain law and order in the city of Austin. While Cordell is determined to protect his family, he becomes increasingly suspicious about the circumstances surrounding his wife's tragic passing. Driven by a deep need for answers, he embarks on a personal journey to uncover the truth, delving into the dark underbelly of the city and confronting dangerous adversaries along the way. The third season also delves deeper into the complex relationships within Cordell's family. Molly Hagan portrays Abeline Walker, Cordell's mother, adding an extra layer of tension and unresolved issues to their already complicated dynamic. As Cordell strives to find common ground and support from his family, he discovers that they hold their own secrets and struggles. Additionally, the introduction of new characters brings fresh perspectives and challenges to the series. Violet Brinson joins the cast as Stella Walker, Cordell's teenage daughter, who grapples with her own demons and identity. Kale Culley portrays August Walker, Cordell's younger son, who navigates the complexities of growing up in a world filled with uncertainty. Walker Season 3 promises a captivating blend of heart-pounding action, gripping crime storylines, and intense family drama. Viewers can expect a rollercoaster ride of emotions as Cordell Walker fights for justice, protects his loved ones, and uncovers shocking truths that will forever change his life and the lives of those around him.",
+
+    "starring": ["Jared Padalecki", "Molly Hagan", "Keegan Allen" , "Violet Brinson" , "Kale Culley" ],
+    "director": " Anna Fricke", 
+    "country": "USA",
+    "status": "Tv Series",
+    "link": "https://www.imdb.com/title/tt11006642/",
+
+    "movie.watch": "../../Hollywood/WalkerS03-2023/WalkerP1",
+
+    "movie.watchP1": "https://lvturbo.com/e/tiz94udc4ydy.html",
+    "movie.watchP2": "https://lvturbo.com/e/3a7z8dkdk5ho.html",
+    "movie.watchP3": "https://lvturbo.com/e/ijb2220p2d7l.html",
+    "movie.watchP4": "https://lvturbo.com/e/1kh1055hwzvv.html",
+    "movie.watchP5": "https://lvturbo.com/e/2dkhsedwwjun.html",
+    "movie.watchP6": "https://lvturbo.com/e/anmoro2olmkv.html",
+    "movie.watchP7": "https://lvturbo.com/e/tmnwvjmy9wi0.html",
+    "movie.watchP8": "https://lvturbo.com/e/quxgl57uylc9.html",
+    "movie.watchP9": "https://lvturbo.com/e/q561vb9le5lo.html",
+    "movie.watchP10": "https://lvturbo.com/e/6vxu6fylmrjp.html",
+    "movie.watchP11": "https://lvturbo.com/e/91ufeyuxeqst.html",
+    "movie.watchP12": "https://lvturbo.com/e/axl6x3hjlkiz.html",
+    "movie.watchP13": "https://lvturbo.com/e/sprbwozu20ty.html",
+    "movie.watchP14": "https://lvturbo.com/e/dt8a2xcpmeye.html",
+    "movie.watchP15": "https://lvturbo.com/e/syzty1mtnhn8.html",
+    "movie.watchP16": "https://lvturbo.com/e/hi5u26mcr917.html",
+    "movie.watchP17": "https://lvturbo.com/e/hfie8211uitt.html",
+    "movie.watchP18": "https://lvturbo.com/e/hcnv55xd4hm1.html",
+
+    "movie.watchSR1": "https://dooood.com/e/7bnb7ah0obdq",
+    "movie.watchSR2": "https://dooood.com/e/65o2dev4omta",
+    "movie.watchSR3": "https://dooood.com/e/1wg478reqp90",
+    "movie.watchSR4": "https://dooood.com/e/84u88ogfltvt",
+    "movie.watchSR5": "https://dooood.com/e/yo597k4tqbvw",
+    "movie.watchSR6": "https://dooood.com/e/y9i6jhryr81d",
+    "movie.watchSR7": "https://dooood.com/e/r79yg5ll6f17",
+    "movie.watchSR8": "https://dooood.com/e/cnq1z4g3hv05",
+    "movie.watchSR9": "https://dooood.com/e/s52fd1v7az6u",
+    "movie.watchSR10": "https://dooood.com/e/dljipce6anl1",
+    "movie.watchSR11": "https://dooood.com/e/0clbba8uv73u",
+    "movie.watchSR12": "https://dooood.com/e/czkpb094s3a4",
+    "movie.watchSR13": "https://dooood.com/e/ssamv05dpdn3",
+    "movie.watchSR14": "https://dooood.com/e/32fewq8b1ccu",
+    "movie.watchSR15": "https://dooood.com/e/h9gx44xioox8",
+    "movie.watchSR16": "https://dooood.com/e/f6vmzh07uo8s",
+    "movie.watchSR17": "https://dooood.com/e/hz9ibpijf10i",
+    "movie.watchSR18": "https://dooood.com/e/gy8rxmsdbutm",
+
+    "download1": "../../Hollywood/WalkerS03-2023/DownloadWLK1",
+
+    "down1link1": "https://lvturbo.com/d/tiz94udc4ydy.html",
+    "down1link2": "https://lvturbo.com/d/3a7z8dkdk5ho.html",
+    "down1link3": "https://lvturbo.com/d/ijb2220p2d7l.html",
+    "down1link4": "https://lvturbo.com/d/1kh1055hwzvv.html",
+    "down1link5": "https://lvturbo.com/d/2dkhsedwwjun.html",
+    "down1link6": "https://lvturbo.com/d/anmoro2olmkv.html",
+    "down1link7": "https://lvturbo.com/d/tmnwvjmy9wi0.html",
+    "down1link8": "https://lvturbo.com/d/quxgl57uylc9.html",
+    "down1link9": "https://lvturbo.com/d/q561vb9le5lo.html",
+    "down1link10": "https://lvturbo.com/d/6vxu6fylmrjp.html",
+    "down1link11": "https://lvturbo.com/d/91ufeyuxeqst.html",
+    "down1link12": "https://lvturbo.com/d/axl6x3hjlkiz.html",
+    "down1link13": "https://lvturbo.com/d/sprbwozu20ty.html",
+    "down1link14": "https://lvturbo.com/d/dt8a2xcpmeye.html",
+    "down1link15": "https://lvturbo.com/d/syzty1mtnhn8.html",
+    "down1link16": "https://lvturbo.com/d/hi5u26mcr917.html",
+    "down1link17": "https://lvturbo.com/d/hfie8211uitt.html",
+    "down1link18": "https://lvturbo.com/d/hcnv55xd4hm1.html",
+   
+   
+    "download2": "../../Hollywood/WalkerS03-2023/DownloadWLK2",
+
+    "down2link1": "https://dooood.com/d/7bnb7ah0obdq",
+    "down2link2": "https://dooood.com/d/65o2dev4omta",
+    "down2link3": "https://dooood.com/d/1wg478reqp90",
+    "down2link4": "https://dooood.com/d/84u88ogfltvt",
+    "down2link5": "https://dooood.com/d/yo597k4tqbvw",
+    "down2link6": "https://dooood.com/d/y9i6jhryr81d",
+    "down2link7": "https://dooood.com/d/r79yg5ll6f17",
+    "down2link8": "https://dooood.com/d/cnq1z4g3hv05",
+    "down2link9": "https://dooood.com/d/s52fd1v7az6u",
+    "down2link10": "https://dooood.com/d/dljipce6anl1",
+    "down2link11": "https://dooood.com/d/0clbba8uv73u",
+    "down2link12": "https://dooood.com/d/czkpb094s3a4",
+    "down2link13": "https://dooood.com/d/ssamv05dpdn3",
+    "down2link14": "https://dooood.com/d/32fewq8b1ccu",
+    "down2link15": "https://dooood.com/d/h9gx44xioox8",
+    "down2link16": "https://dooood.com/d/f6vmzh07uo8s",
+    "down2link17": "https://dooood.com/d/hz9ibpijf10i",
+    "down2link18": "https://dooood.com/d/gy8rxmsdbutm",
+   
+
+    "movie.trailer": "https://ik.imagekit.io/gmcl6xvq6/walker-2023.mp4?updatedAt=1684184209205"
+
+  },
+   {
+    "id": "INDEX21",
+    "title": " ORGAN TRAIL   ",
+    "name": " Organ Trail (2023)", 
+    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1684183588/Organ-Trail-2023_zyqptn.webp",
+    "banner": "https://res.cloudinary.com/dezf3wemk/image/upload/c_fill,g_auto,e_sharpen,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Download%20Now,w_0.3,y_0.35/v1684183588/Organ-Trail-2023_zyqptn.webp",
+    "yearRelease": 2023,
+    "genre": ["DRAMA,","WESTERN,","THRILLER"],
+    "rating": 5.2,  
+    "synopsis": "The movie is set in the 1870s in Montana during the winter. Abigale Archer, played by Zoé De Grand Maison, is a young woman who is forced to survive alone in the wilderness. Her only possession is a family horse, which has been stolen by a ruthless group of bandits. Abigale is determined to retrieve her horse and will stop at nothing to get it back. Along the way, she faces numerous challenges, including the harsh winter weather and dangerous wildlife. As she journeys through the wilderness, she discovers her inner strength and resilience. Mather Zickel plays Pa, Abigale's father who has passed away before the events of the movie. His absence leaves Abigale alone and vulnerable, but she refuses to give up. Lisa LoCicero portrays Ma, Abigale's mother, who is also deceased. Despite being gone, Ma's memory is kept alive through Abigale's unwavering spirit. Lukas Jann plays Tobias, the leader of the bandits who stole Abigale's horse. He is ruthless and unrelenting, determined to keep the horse at all costs. Olivia Grace Applegate plays Cassidy, a young woman who Abigale encounters on her journey. Cassidy helps Abigale along the way, and the two women form a bond. Organ Trail is a gripping drama that explores the resilience of the human spirit and the lengths to which one person will go to survive. The movie is a thrilling Western adventure that showcases the harsh realities of life in the 1870s. With stunning visuals and a talented cast, Organ Trail promises to be an unforgettable cinematic experience.",
+    "starring": [" Zoé De Grand Maison", "Mather Zickel", "Lisa LoCicero" , "Lukas Jann" , "Olivia Grace Applegate" ],
+    "director": " Michael Patrick Jann",  
+    "country": "USA",
+    "status": "New Movie",
+    "link": "https://www.imdb.com/title/tt18071972/",
+
+    "movie.watch": "../../Hollywood/OrganTrail-2023/OrganTrail",
+
+    "movie.watchP1": "https://lvturbo.com/e/8ncc5bzh58zz.html",
+  
+    "movie.watchSR1": "https://dooood.com/e/tpgzw20rxx61",
+    
+   
+    "download1": "../../Hollywood/OrganTrail-2023/DownloadORT1",
+    "down1link1": "https://lvturbo.com/d/8ncc5bzh58zz.html",
+
+    "download2": "../../Hollywood/OrganTrail-2023/DownloadORT2",
+    "down2link1": "https://dooood.com/d/tpgzw20rxx61",
+    
+
+    "movie.trailer": "https://ik.imagekit.io/gmcl6xvq6/Organ_Trail___Official_Trailer.mp4?updatedAt=1684183678908"
+
+  },
+   {
+    "id": "INDEX19",
+    "title": " COLONIALS  ",
+    "name": " Colonials (2023)", 
+    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1684183588/Colonials-2023_wwlohr.webp",
+    "banner": "https://res.cloudinary.com/dezf3wemk/image/upload/c_fill,g_auto,e_sharpen,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Download%20Now,w_0.3,y_0.35/v1684183588/Colonials-2023_wwlohr.webp",
+    "yearRelease": 2023,
+    "genre": ["ACTION,","SCI-FI,","THRILLER"],
+    "rating": 2.4,  
+    "synopsis": "In the year 2050, Earth has become uninhabitable due to the aftermath of a catastrophic event. Humans have been forced to flee the planet and seek refuge in the outer space colonies. Jessie, a space colonist from Mars, finds herself crash-landing on Earth after her spaceship is hit by a meteor. On Earth, she discovers that a group of humans, known as the Resistance, are fighting to survive against the Moon enforcer, an advanced alien race that seeks to exterminate humans. Jessie decides to help the Resistance in their fight against the Moon enforcer and save the human race from extinction. As Jessie embarks on her mission, she meets a variety of characters including Senator Tobias, a corrupt politician, and Zeke, a former Resistance member who now works for the Moon enforcer. She also befriends Raven, a young girl with special abilities, and Zoey, a skilled fighter who becomes her ally in the fight against the Moon enforcer. Together, they must navigate the dangers of a post-apocalyptic world and take on the Moon enforcer in a final battle for survival. With stunning visuals and intense action sequences, Colonials is a thrilling sci-fi adventure that explores the themes of survival, redemption, and humanity's innate desire to fight for its existence. Katy Purnell delivers a captivating performance as Jessie, the strong-willed and determined space colonist who becomes the unlikely hero of the Resistance. Daniel Roebuck and Sean Kanan also deliver standout performances as the corrupt politician and former Resistance member, respectively. Allie Ayers and Jamie Bernadette add depth to the film's ensemble cast with their compelling performances. Colonials is a must-see for fans of the sci-fi genre and anyone who loves a good action-packed adventure.",
+    "starring": [" Daniel Roebuck", "Sean Kanan", "Allie Ayers" , "Jamie Bernadette" , "Timothy E. Goodwin" ],
+    "director": " Andrew Balek, Joe Bland",  
+    "country": "USA",
+    "status": "New Movie",
+    "link": "https://www.imdb.com/title/tt9600274/",
+
+    "movie.watch": "../../Hollywood/Colonials-2023/Colonials",
+
+    "movie.watchP1": "https://lvturbo.com/e/gy188g58a63i.html",
+  
+    "movie.watchSR1": "https://dooood.com/e/bqmfnm3etszx",
+    
+   
+    "download1": "../../Hollywood/Colonials-2023/DownloadCOL1",
+    "down1link1": "https://lvturbo.com/d/gy188g58a63i.html",
+
+    "download2": "../../Hollywood/Colonials-2023/DownloadCOL2",
+    "down2link1": "https://dooood.com/d/bqmfnm3etszx",
+    
+
+    "movie.trailer": "https://ik.imagekit.io/gmcl6xvq6/Colonials__2023__Official_Trailer.mp4?updatedAt=1684183681751"
+
+  },
+   {
+    "id": "INDEX18",
+    "title": " CROSSFIRE ",
+    "name": " Crossfire (2023)", 
+    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1684183588/crossfire-2023_mrxhdm.webp",
+    "banner": "https://res.cloudinary.com/dezf3wemk/image/upload/c_fill,g_auto,e_sharpen,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Download%20Now,w_0.3,y_0.35/v1684183588/crossfire-2023_mrxhdm.webp",
+    "yearRelease": 2023,
+    "genre": ["ACTION,","DRAMA,","THRILLER"],
+    "rating": 5.7,  
+    "synopsis": "Crossfire (2023) is an action-packed thriller that tells the story of Agent Mark Patson, who goes on a mission to take down the deadliest Gorilla Gang. In a tragic turn of events, Mark's wife is caught in a crossfire, and his daughter is taken away from him. Several years later, Mark seeks to reunite with his daughter, but the last surviving member of the gang, Stranger, is out for revenge and will stop at nothing to hunt down Mark's daughter. As Mark and his daughter try to rebuild their relationship, they are thrust into a game of cat and mouse with Stranger, who is determined to wipe out the entire Patson family. With his training and experience, Mark is ready to take down Stranger, but his daughter's life is at stake, and he must do everything in his power to protect her. The action in Crossfire is intense and keeps viewers on the edge of their seats as Mark and his daughter fight for their lives against Stranger and his gang. The film is also a story of redemption, as Mark seeks to make up for his past failures and protect his family. Louis Mandylor delivers a powerful performance as Mark Patson, conveying the character's pain and determination in equal measure. Kevin Gage brings a chilling intensity to the role of Stranger, making him a formidable and terrifying antagonist. Lori Pelenise Tuisano and Samm Wiechec also deliver strong performances as Miriam and Alisha Patson, respectively, providing emotional depth to the story. Overall, Crossfire is a thrilling and emotionally charged action film that will keep audiences engaged from start to finish. With its dynamic characters, intense action sequences, and themes of family and redemption, it is a must-see for fans of the genre.",
+    "starring": [" Louis Mandylor", "Kevin Gage", "Lori Pelenise Tuisano" , "Samm Wiechec" , "Lucía Vilmo" ],
+    "director": " Yadhu Krishnan",  
+    "country": "USA",
+    "status": "New Movie",
+    "link": "https://www.imdb.com/title/tt16278434/",
+
+    "movie.watch": "../../Hollywood/Crossfire-2023/Crossfire",
+
+    "movie.watchP1": "https://lvturbo.com/e/f56v60990c0w.html",
+  
+    "movie.watchSR1": "https://dooood.com/e/nmy0y6yedqfa",
+    
+   
+    "download1": "../../Hollywood/Crossfire-2023/DownloadCRF1",
+    "down1link1": "https://lvturbo.com/d/f56v60990c0w.html",
+
+    "download2": "../../Hollywood/Crossfire-2023/DownloadCRF2",
+    "down2link1": "https://dooood.com/d/nmy0y6yedqfa",
+    
+
+    "movie.trailer": "https://ik.imagekit.io/gmcl6xvq6/Crossfire_-_Trailer.mp4?updatedAt=1684183677146"
+
+  },
+   {
+    "id": "INDEX17",
     "title": " SIMULANT ",
     "name": " Simulant (2023)", 
     "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1684022115/Simulant-2023_q5dapd.webp",
@@ -143,7 +455,7 @@
 
   },
    {
-    "id": "GTG",
+    "id": "INDEX16",
     "title": " GUARDIANS OF THE GALAXY V3  ",
     "name": " Guardians Of The Galaxy Volume 3 (2023)", 
     "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1683907529/guardians-of-the-galaxy-volume-3-2023_tddly3.webp",
@@ -176,7 +488,7 @@
 
   },
    {
-    "id": "RAM",
+    "id": "INDEX15",
     "title": " RAMA BANAM  ",
     "name": " Rama Banam (2023)", 
     "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1683907529/Ramabanam-2023_jcv1fw.webp",
@@ -210,7 +522,7 @@
 
   },
    {
-    "id": "SOD",
+    "id": "INDEX14",
     "title": " SOPPANA SUNDARI  ",
     "name": " Soppana Sundari (2023)", 
     "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1683907530/Soppana-Sundari-2023_y89fml.webp",
@@ -244,7 +556,7 @@
 
   },
    {
-    "id": "DHD",
+    "id": "INDEX13",
     "title": " DAHAAD ",
     "name": " Dahaad (2023)", 
     "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1683907527/Dahaad-S01-2023_icbq9u.webp",
@@ -286,7 +598,7 @@
 
   },
    {
-    "id": "SBL",
+    "id": "INDEX12",
     "title": " SAAS BAHU AUR FLAMINGO ",
     "name": " Saas Bahu Aur Flamingo (2023)", 
     "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1683907530/saas-bahu-aur-flamingo-2023_fvwuhe.webp",
@@ -324,7 +636,7 @@
 
   },
    {
-    "id": "SLC",
+    "id": "INDEX11",
     "title": " THE BOARDING SCHOOL: LAS CUMBRES ",
     "name": " The Boarding School: Las Cumbres (2023)", 
     "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1683907530/The-Boarding-School-Las-Cumbres-2023_m1xxec.webp",
@@ -362,7 +674,7 @@
 
   },
    {
-    "id": "FPJ",
+    "id": "INDEX10",
     "title": " FIREFILES: PARTH AUR JUGUN ",
     "name": " Fireflies: Parth Aur Jugnu (2023)", 
     "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1683907528/fireflies-parth-aur-jugnu-2023_c0lf1d.webp",
@@ -400,7 +712,7 @@
 
   },
    {
-    "id": "TKS",
+    "id": "INDEX09",
     "title": " THE KERALA STORY ",
     "name": " The Kerala Story (2023)", 
     "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1683907530/the-kerala-story-2023_fzrq9z.webp",
@@ -434,7 +746,7 @@
 
   },
    {
-    "id": "COP",
+    "id": "INDEX08",
     "title": " CORONA PAPERS ",
     "name": " Corona Papers (2023)", 
     "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1683907527/carona-papers-2023_vtkbna.webp",
@@ -468,7 +780,7 @@
 
   },
    {
-    "id": "AWH",
+    "id": "INDEX07",
     "title": " AFWAAH ",
     "name": " Afwaah (2023)", 
     "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1683907527/afwaah-2023_a8ckzu.webp",
@@ -502,7 +814,7 @@
 
   },
    {
-    "id": "KGB",
+    "id": "INDEX06",
     "title": " KAJAL BHABHI ",
     "name": " Kajal Bhabhi (2023)", 
     "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1683907528/Kajal-Bhabhi-2023_o3nzsi.webp",
@@ -540,11 +852,9 @@
     
 
     "movie.trailer": "https://ik.imagekit.io/gmcl6xvq6/KAJAL_BHABHI-Official_Trailer.mp4?updatedAt=1683906195104"
-
   },
- 
    {
-    "id": "DST",
+    "id": "INDEX05",
     "title": " DEAD SHOT  ",
     "name": " Dead Shot (2023)", 
     "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1683913530/dead-shot-2023_ncwrby.webp",
@@ -578,7 +888,7 @@
 
   },
    {
-    "id": "TMT",
+    "id": "INDEX04",
     "title": " THE MOTHER  ",
     "name": " The Mother (2023)", 
     "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1683907530/the-mother-2023_eldnzw.webp",
@@ -611,7 +921,7 @@
 
   },
    {
-    "id": "PNT",
+    "id": "INDEX03",
     "title": " PAINT  ",
     "name": " Paint (2023)", 
     "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1683907530/Paint-2023_cnev1i.webp",
@@ -644,7 +954,7 @@
 
   },
    {
-    "id": "CTR",
+    "id": "INDEX02",
     "title": " CRATER  ",
     "name": " Crater (2023)", 
     "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1683907969/Crater-2023_fywfqj.webp",
@@ -677,7 +987,7 @@
 
   },
    {
-    "id": "ORG",
+    "id": "INDEX01",
     "title": " ONE RANGER  ",
     "name": " One Ranger (2023)", 
     "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1683907529/One-Ranger-2023_qpteot.webp",
@@ -710,7 +1020,7 @@
 
   },
    {
-    "id": "SIS",
+    "id": "INDEX20",
     "title": " SISU  ",
     "name": " Sisu (2023)", 
     "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1683907531/Sisu-2023_xrf2vk.webp",
@@ -751,7 +1061,7 @@
     "yearRelease": 2023,
     "genre": [  " ACTION," ," ADVENTURE," ,  " SCI-FI" ],
     "rating": 6.1,
-    "synopsis": "Black Knight S01 is an action-packed, adventure-filled, sci-fi TV series that follows the legendary delivery driver '5-8' portrayed by Kim Woo-bin. With exceptional battle skills, 5-8 is a force to be reckoned with, feared by many and respected by all. However, his life takes an unexpected turn when he meets a young refugee named Sawol, who dreams of following in his footsteps. The show is set in a futuristic world where danger lurks around every corner. As 5-8 navigates through the city, he faces various challenges and adversaries, using his quick reflexes and superior combat skills to overcome any obstacle in his path.\n\nSawol, on the other hand, is a young girl who has been forced to flee her home and is struggling to survive in a harsh and unforgiving world. Despite their differences, 5-8 takes Sawol under his wing and trains her to become a skilled fighter, while also protecting her from the dangers that surround them. Together, they embark on a thrilling adventure, battling dangerous villains and uncovering a sinister plot that threatens the very existence of their world.\n\nWith six action-packed episodes, Black Knight S01 promises to be an exciting and gripping journey that will keep viewers on the edge of their seats. The show is a perfect blend of action, adventure, and sci-fi, and is sure to appeal to fans of the genre. Kim Woo-bin delivers a captivating performance as 5-8, and his chemistry with Sawol, played by a yet-to-be-announced actor, adds a unique dynamic to the show. Overall, Black Knight S01 is a must-watch for anyone looking for an adrenaline-fueled, action-packed adventure in a futuristic world full of danger and intrigue.",
+    "synopsis": "Black Knight S01 is an action-packed, adventure-filled, sci-fi TV series that follows the legendary delivery driver '5-8' portrayed by Kim Woo-bin. With exceptional battle skills, 5-8 is a force to be reckoned with, feared by many and respected by all. However, his life takes an unexpected turn when he meets a young refugee named Sawol, who dreams of following in his footsteps. The show is set in a futuristic world where danger lurks around every corner. As 5-8 navigates through the city, he faces various challenges and adversaries, using his quick reflexes and superior combat skills to overcome any obstacle in his path. Sawol, on the other hand, is a young girl who has been forced to flee her home and is struggling to survive in a harsh and unforgiving world. Despite their differences, 5-8 takes Sawol under his wing and trains her to become a skilled fighter, while also protecting her from the dangers that surround them. Together, they embark on a thrilling adventure, battling dangerous villains and uncovering a sinister plot that threatens the very existence of their world. With six action-packed episodes, Black Knight S01 promises to be an exciting and gripping journey that will keep viewers on the edge of their seats. The show is a perfect blend of action, adventure, and sci-fi, and is sure to appeal to fans of the genre. Kim Woo-bin delivers a captivating performance as 5-8, and his chemistry with Sawol, played by a yet-to-be-announced actor, adds a unique dynamic to the show. Overall, Black Knight S01 is a must-watch for anyone looking for an adrenaline-fueled, action-packed adventure in a futuristic world full of danger and intrigue.",
 
     "starring": ["Kim Woo-bin", "Song Seung-heon", "Kang You-Seok" , "Esom" , "Kim Eui-sung" ],
     "director": " Ui Seok Cho", 
@@ -1348,39 +1658,7 @@
     "movie.trailer": "https://ik.imagekit.io/lwkyvy5lo/Snag_2023.mp4?updatedAt=1683204799714"
 
   },
-   {
-    "id": "RTH",
-    "title": " ROAD TRIP HOSTAGE  ",
-    "name": " Road Trip Hostage (2023)", 
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1683197661/road-trip-hostage-2023_ncri1n.webp",
-    "banner": "https://res.cloudinary.com/dezf3wemk/image/upload/c_fill,g_auto,e_sharpen,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Download%20Now,w_0.3,y_0.35/v1683197661/road-trip-hostage-2023_ncri1n.webp",
-    "yearRelease": 2023,
-    "genre": [" ACTION,","THRILLER,", "DRAMA" ],
-    "rating": 4.3,
-    "synopsis": "A deranged criminal forces a young woman to drive him across the country.",
-    "starring": [" Veronica Ramirez", "Luke Charles Stafford", "Chala Savino" , "Gabriella Biziou" , "Christopher Sky" ],
-    "director": " Kaila York",
-    "country": "USA",
-    "status": "New Movie",
-    "link": "https://www.imdb.com/title/tt27419495/",
-
-    "movie.watch": "../../Hollywood/RoadTripHostage-2023/RoadTripHostage",
-
-    "movie.watchP1": "https://lvturbo.com/e/nzuobrw1cayz.html",
   
-    "movie.watchSR1": "https://dooood.com/e/vy95igxa1f18",
-    
-   
-    "download1": "../../Hollywood/RoadTripHostage-2023/DownloadRTH1",
-    "down1link1": "https://lvturbo.com/d/nzuobrw1cayz.html",
-
-    "download2": "../../Hollywood/RoadTripHostage-2023/DownloadRTH2",
-    "down2link1": "https://dooood.com/d/vy95igxa1f18",
-    
-
-    "movie.trailer": "https://ik.imagekit.io/lwkyvy5lo/road.trip.hostage.2023_trailer.mp4?updatedAt=1683197738756"
-
-  },
    {
     "id": "CCK",
     "title": " CLOCK ",
@@ -2158,39 +2436,7 @@
     "movie.trailer": "https://ik.imagekit.io/lwkyvy5lo/The_Fearway_-_Official_Trailer.mp4?updatedAt=1682772125901"
 
   },
-   {
-    "id": "TFW",
-    "title": " THE FEARWAY  ",
-    "name": " The Fearway (2023)", 
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1682771579/the-fearway-2023_r845uv.webp",
-    "banner": "https://res.cloudinary.com/dezf3wemk/image/upload/c_fill,g_auto,e_sharpen,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Download%20Now,w_0.3,y_0.35/v1682771578/the-fearway-2023_r845uv.webp",
-    "yearRelease": 2023,
-    "genre": [" HORROR ",  "THRILLER" ,  "SCI-FI" ],
-    "rating": 4.1,
-    "synopsis": "A young couple travelling down the freeway seem to be unable to get off the road after being hunted by someone intent on keeping them on the road.",
-    "starring": [" Simon Phillips", "Eileen Dietz", "Shannon Dalonzo" , "Jessica Gray" , "John D. Hickman" ],
-    "director": " Robert Gajic",
-    "country": "USA",
-    "status": "New Movie",
-    "link": "https://www.imdb.com/title/tt14992524/",
-
-    "movie.watch": "../../Hollywood/TheFearway-2023/TheFearway",
-
-    "movie.watchP1": "https://lvturbo.com/e/4kzl6otbxeor.html",
   
-    "movie.watchSR1": "https://dooood.com/e/mvr0naw7eq03",
-    
-   
-    "download1": "../../Hollywood/TheFearway-2023/DownloadTFW1",
-    "down1link1": "https://lvturbo.com/d/4kzl6otbxeor.html",
-
-    "download2": "../../Hollywood/TheFearway-2023/DownloadTFW2",
-    "down2link1": "https://dooood.com/d/mvr0naw7eq03",
-    
-
-    "movie.trailer": "https://ik.imagekit.io/lwkyvy5lo/The_Fearway_-_Official_Trailer.mp4?updatedAt=1682772125901"
-
-  },
    {
     "id": "TTK",
     "title": " THE TANK  ",
@@ -2543,39 +2789,7 @@
     "movie.trailer": "https://ik.imagekit.io/lwkyvy5lo/The_Offering.mp4?updatedAt=1682482936697"
 
   },
-   {
-    "id": "TUT",
-    "title": " THE TUTOR ",
-    "name": " The Tutor (2023)", 
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1682464977/the-tutor-2023_j7vibz.webp",
-    "yearRelease": 2023,
-    "genre": [ " MYSTERY,", " DRAMA,", " THRILLER" ],
-    "rating": 5.2,
-    "synopsis": "Follows a tutor who, after being assigned an unexpected task at a mansion, finds himself struggling with the obsessions of his student, who threatens to expose his darkest secrets.",
-    "starring": ["Garrett Hedlund", "Victoria Justice", "Noah Schnapp", "Jonny Weston" , "Kabby Borders"  ],
-    "director": " Jordan Ross",
-    "country": "USA",
-    "status": "New Movie",
-    "link": "https://www.imdb.com/title/tt19637278/",
-
-    "movie.watch": "../../Hollywood/TheTutor-2023/TheTutor",
-
-    "movie.watchP1": "https://lvturbo.com/e/bw57ru7gtbmc.html",
-  
-    "movie.watchSR1": "https://dooood.com/e/a8pryunhybx0",
-    
    
-    "download1": "../../Hollywood/TheTutor-2023/DownloadTUT1",
-
-    "down1link1": "https://lvturbo.com/d/bw57ru7gtbmc.html",
-
-    "download2": "../../Hollywood/TheTutor-2023/DownloadTUT2",
-    "down2link1": "https://dooood.com/d/a8pryunhybx0",
-    
-
-    "movie.trailer": "https://ik.imagekit.io/lwkyvy5lo/The_Tutor_Where_Were_You.mp4?updatedAt=1682528346377"
-
-  },
    {
     "id": "EDR",
     "title": " EVIL DEAD RISE  ",
@@ -2642,39 +2856,7 @@
     "movie.trailer": "https://ik.imagekit.io/lwkyvy5lo/FALLING_FOR_A_KILLER_Official_Trailer.mp4?updatedAt=1682482322644"
 
   },
-   {
-    "id": "RGT",
-    "title": " RIGHTEOUS THIEVES ",
-    "name": " Righteous Thieves (2023)", 
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1682464976/righteous-thieves-2023_fxyrr3.webp",
-    "yearRelease": 2023,
-    "genre": [ " ACTION,", " CRIME,", " THRILLER" ],
-    "rating": 4.1,
-    "synopsis": "The head of a secret organization assembles a crew to steal back artwork plundered by Nazis during World War II.",
-    "starring": ["Cam Gigandet", "Jaina Lee Ortiz", "Lisa Vidal", "Carlos Miranda" , "Danube Hermosillo"  ],
-    "director": " Anthony Nardolillo",
-    "country": "USA",
-    "status": "New Movie",
-    "link": "https://www.imdb.com/title/tt14740118/",
-
-    "movie.watch": "../../Hollywood/RighteousThieves-2023/RighteousThieves",
-
-    "movie.watchP1": "https://lvturbo.com/e/zu86xgmgyyi6.html",
   
-    "movie.watchSR1": "https://dooood.com/e/cw4gwn8qs672",
-    
-   
-    "download1": "../../Hollywood/RighteousThieves-2023/DownloadRGT1",
-
-    "down1link1": "https://lvturbo.com/d/zu86xgmgyyi6.html",
-
-    "download2": "../../Hollywood/RighteousThieves-2023/DownloadRGT2",
-    "down2link1": "https://dooood.com/d/cw4gwn8qs672",
-    
-
-    "movie.trailer": "https://ik.imagekit.io/lwkyvy5lo/Righteous_Thieves__2023_Movie__Official_Trailer_-_Lisa_Vidal__Jaina_Lee_Ortiz__Cam_Gigandet.mp4?updatedAt=1682482406926"
-
-  },
    {
     "id": "MAY",
     "title": " MUDER, ANYONE ? ",
@@ -3745,38 +3927,7 @@
     "movie.trailer": "https://lvturbo.com/e/vtxdmvbhv1my.html"
 
   },
-   {
-    "id": "RRG",
-    "title": "RIPPERS REVENGE",
-    "name": "Rippers Revenge", 
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681682711/rippers-revenge-2023_nepdof.webp",
-    "yearRelease": 2023,
-    "genre": [ " HORROR,", " DRAMA,", " THRILLER" ],
-    "rating": 4.6,
-    "synopsis": "One year on from the notorious Jack The Ripper murders, the killings have stopped, but the identity of the killer remains a mystery. Down-at-heel newspaper reporter Sebastian Stubb has moved on to reporting on other scandals, but when a new Ripper letter appears on his desk and the killings start again.",
-    "starring": ["Chris Bell", "Rachel Warren", "Rafe Bird" , "Cassandra French" , "Vicki Glover"  ],
-    "director": " Steve Lawson ", 
-    "country": "USA",
    
-    "link": "https://www.imdb.com/title/tt22987848/",
-
-    "movie.watch": "../../Hollywood/RippersRevenge-2023/RippersRevenge",
-
- 
-    "movie.watchP1": "https://lvturbo.com/e/6ffl0dzjmq6l.html",
- 
-    "movie.watchSR1": "https://dood.yt/e/zcuz71nhm4hk",
-         
-    "download1": "../../Hollywood/RippersRevenge-2023/DownloadRRG1",
-    "down1link1": "https://lvturbo.com/d/6ffl0dzjmq6l.html",
-      
-    "download2": "../../Hollywood/RippersRevenge-2023/DownloadRRG2",
-    "down2link1": "https://dood.yt/d/zcuz71nhm4hk",
-   
-
-    "movie.trailer": "https://lvturbo.com/e/ce8w97gmjqu1.html"
-
-  },
    {
     "id": "NTD",
     "title": "A NURSE TO DIE FOR",
@@ -4205,61 +4356,7 @@
     "movie.trailer": "https://lvturbo.com/e/438w7de35m5s.html"
 
   },
-   {
-    "id": "FLM",
-    "title": "FLORIDA MAN S01",
-    "name": "Florida Man S01", 
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681682711/florida-man-2023_olk8y7.webp",
-    "yearRelease": 2023,
-    "genre": [" CRIME, ", " MYSTERY,", " DRAMA"],
-    "rating": 6.7,
-    "synopsis": "When an ex-cop returns to his home state of Florida to find a mobster's runaway girlfriend, what should've been a quick gig turns into a wild odyssey.",
-    "starring": ["Edgar Ramírez", "Abbey Lee", "Otmara Marrero" , "Lex Scott Davis" , "Emory Cohen" , "Isaiah Johnson" , "Anthony LaPaglia" , "Lauren Buglioli" , "Clark Gregg" , "Leonard Earl Howze" , "Isabel Gameros" , "Mark Jeffrey Miller" , "Michael Esper" ],
-    "director": " Donald Todd",
-    "country": "USA",
-    "status": "Tv Series",
-    "link": "https://www.imdb.com/title/tt14509130/",
-
-    "movie.watch": "../../Hollywood/FloridaMan-2023/FloridaManP1",
-
-    "movie.watchP1": "https://lvturbo.com/e/u8g8373n4y8f.html",
-    "movie.watchP2": "https://lvturbo.com/e/vh0l0ahmzkp8.html",
-    "movie.watchP3": "https://lvturbo.com/e/eqal2qste80i.html",
-    "movie.watchP4": "https://lvturbo.com/e/ipqevaikrtix.html",
-    "movie.watchP5": "https://lvturbo.com/e/4rlepnlg5any.html",
-    "movie.watchP6": "https://lvturbo.com/e/vt04a5p3xrb5.html",
-    "movie.watchP7": "https://lvturbo.com/e/jp57lblwjuzn.html",
-   
-    "movie.watchSR1": "https://dood.yt/e/fylue9rs26ig",
-    "movie.watchSR2": "https://dood.yt/e/5q0paopka2xq",
-    "movie.watchSR3": "https://dood.yt/e/iilasejp7h9j",
-    "movie.watchSR4": "https://dood.yt/e/wvr0txan5hxa",
-    "movie.watchSR5": "https://dood.yt/e/frji9huli80t",
-    "movie.watchSR6": "https://dood.yt/e/fns5bg9qtyvc",
-    "movie.watchSR7": "https://dood.yt/e/n7f4t1vskve2",
-      
-    "download1": "../../Hollywood/FloridaMan-2023/DownloadFLM1",
-
-    "down1link1": "https://lvturbo.com/d/u8g8373n4y8f.html",
-    "down1link2": "https://lvturbo.com/d/vh0l0ahmzkp8.html",
-    "down1link3": "https://lvturbo.com/d/eqal2qste80i.html",
-    "down1link4": "https://lvturbo.com/d/ipqevaikrtix.html",
-    "down1link5": "https://lvturbo.com/d/4rlepnlg5any.html",
-    "down1link6": "https://lvturbo.com/d/vt04a5p3xrb5.html",
-    "down1link7": "https://lvturbo.com/d/jp57lblwjuzn.html",
-   
-    "download2": "../../Hollywood/FloridaMan-2023/DownloadFLM2",
-    "down2link1": "https://dood.yt/d/fylue9rs26ig",
-    "down2link2": "https://dood.yt/d/5q0paopka2xq",
-    "down2link3": "https://dood.yt/d/iilasejp7h9j",
-    "down2link4": "https://dood.yt/d/wvr0txan5hxa",
-    "down2link5": "https://dood.yt/d/frji9huli80t",
-    "down2link6": "https://dood.yt/d/fns5bg9qtyvc",
-    "down2link7": "https://dood.yt/d/n7f4t1vskve2",
-
-    "movie.trailer": "https://lvturbo.com/e/d3oevx4a001w.html"
-
-  },
+  
    {
     "id": "GTF",
     "title": "THE GIFTED S02",
@@ -4560,68 +4657,8 @@
 
   },
 
-   {
-    "id": "RAH",
-    "title": "ROACHED",
-    "name": "Roached", 
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610090/roached-2023_n2qyxx.webp",
-    "yearRelease": 2023,
-    "genre": [" DRAMA, ", " FANTASY,", " MYSTERY" ],
-    "rating": 0.0,
-    "synopsis": " Stuck at home amidst the COVID pandemic, a timid housewife finds her world unraveling due to the constant presence of her overbearing husband and a six legged intruder.",
-    "starring": ["Deeya Dey", "Rudolfo Rajeev Hubert", "Rohit Pareek" , "Nishtha Sharma" , "Sheeraj Sharma" , "Shiv Sharma" ],
-    "director": " Kshitij Sharma. ",
-    "country": "India",
-   
-    "link": "https://www.imdb.com/title/tt19856988/",
-    
-    "movie.watch": "../../Bollywood/Roached-2023/Roached",
-
-    "movie.watchP1": "https://lvturbo.com/e/yj47sveogt2a.html",
   
-    "movie.watchSR1": "https://dood.yt/e/ayczvunbap33",
-     
-    "download1": "../../Bollywood/Roached-2023/DownloadRAH1",
-
-    "down1link1": "https://lvturbo.com/d/yj47sveogt2a.html",
-   
-    "download2": "../../Bollywood/Roached-2023/DownloadRAH2",
-    "down2link1": "https://dood.yt/d/ayczvunbap33",
-   
-    "movie.trailer": "https://lvturbo.com/e/tikphnnwag88.html"
-
-  },
-   {
-    "id": "TUH",
-    "title": "THE UNHEARD",
-    "name": "The Unheard", 
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610133/the-unheard-2023_qebkdv.webp",
-    "yearRelease": 2023,
-    "genre": [" DRAMA, ", " HORROR,", " MYSTERY" ],
-    "rating": 4.8,
-    "synopsis": " Chloe Grayden undergoes an experimental procedure to restore her hearing. So she begins to suffer from auditory hallucinations related to the vanishing of her mother.",
-    "starring": ["Lachlan Watson", "Michele Hicks", "Brendan Meyer" , "Nick Sandow" , "Shunori Ramanathan" , "Boyana Balta" , "Michelle Violette" , "Beckett Guest"  ],
-    "director": " Jeffrey A. Brown ",
-    "country": "USA",
-   
-    "link": "https://www.imdb.com/title/tt9112182/",
-    
-    "movie.watch": "../../Hollywood/TheUnheard-2023/TheUnheard",
-
-    "movie.watchP1": "https://lvturbo.com/e/zdz5ai6gt6kp.html",
   
-    "movie.watchSR1": "https://dood.yt/e/tclkdfyywxre",
-     
-    "download1": "../../Hollywood/TheUnheard-2023/DownloadTUH1",
-
-    "down1link1": "https://lvturbo.com/d/zdz5ai6gt6kp.html",
-   
-    "download2": "../../Hollywood/TheUnheard-2023/DownloadTUH2",
-    "down2link1": "https://dood.yt/d/tclkdfyywxre",
-   
-    "movie.trailer": "https://lvturbo.com/e/6yxffjuh0hz0.html"
-
-  },
    {
     "id": "GTG",
     "title": "GUTAR GU",
@@ -4940,40 +4977,7 @@
     "movie.trailer": "https://lvturbo.com/e/5vevl6tf61nk.html"
 
   },
-  {
-    "id": "DSR",
-    "title": "DASARA",
-    "name": "Dasara",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681609999/dasara-2023_itggrg.webp",
-    "yearRelease": 2023,
-    "genre": [" ACTION, ", " DRAMA,", " ADVENTURE" ],
-    "rating": 7.5,
-    "synopsis": "Set in the backdrop of Singareni coal mines near Godavarikhani of Telangana.",
-    "starring": ["Nani", "Keerthy Suresh", "Shine Tom Chacko", "Dheekshith Shetty" , "Samuthirakani" , "Sai Kumar" , "Jhansi"   ],
-    "director": "Srikanth Odela",
-    "country": "India",
-    "link": "https://www.imdb.com/title/tt15440322/",
- 
-    "movie.watch": "../../Bollywood/Dasara-2023/Dasara",
-
-    "movie.watchP1": "https://lvturbo.com/e/nn2704mfcuvs.html",
-  
-
-    "movie.watchSR1": "https://dood.yt/e/ak9wmbul50pi",
-   
-   
-    "download1": "../../Bollywood/Dasara-2023/DownloadDSR1",
-
-    "down1link1": "https://lvturbo.com/d/nn2704mfcuvs.html",
-   
-
-    "download2": "../../Bollywood/Dasara-2023/DownloadDSR2",
-    "down2link1": "https://dood.yt/d/ak9wmbul50pi",
-    
-    "movie.trailer": "https://lvturbo.com/e/3mlpu6u5ys8g.html"
-
-  },
-  {
+   {
     "id": "KJM",
     "title": "KANJOOS MAKHICHOOS",
     "name": "Kanjoos Makhichoos",
@@ -5312,35 +5316,7 @@
     "movie.trailer": "https://lvturbo.com/e/xjaqw05pdjzw.html"
 
   },
-  {
-    "id": "CHP",
-    "title": "CHAMPIONS",
-    "name": "Champions", 
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681609996/champions-2023_mir0vj.webp",
-    "yearRelease": 2023,
-    "genre": [" COMEDY, ", " SPORTS,", " DRAMA" ],
-    "rating": 6.7,
-    "synopsis": "A former minor-league basketball coach is ordered by the court to manage a team of players with intellectual disabilities. He soon realizes that despite his doubts, together, this team can go further than they ever imagined.",
-    "starring": ["Woody Harrelson", "Kaitlin Olson", "Matt Cook", "Ernie Hudson" , "Cheech Marin" , "Madison Tevlin" , "Joshua Felder", "Kevin Iannucci", "Ashton Gunning" , "Matthew Von Der Ahe" , "Tom Sinclair" , "James Day Keith" ],
-    "director": "Bobby Farrelly ",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt15339570/",
-
-    "movie.watch": "../../Hollywood/Champions-2023/Champions",
-
-    "movie.watchP1": "https://lvturbo.com/e/qlso8pcl0g4n.html",
-  
-    "movie.watchSR1": "https://dood.yt/e/88u7144y1h3l",
-      
-    "download1": "../../Hollywood/Champions-2023/DownloadCHP1",
-    "down1link1": "https://lvturbo.com/d/qlso8pcl0g4n.html",
-
-    "download2": "../../Hollywood/Champions-2023/DownloadCHP2",
-    "down2link1": "https://dood.yt/d/88u7144y1h3l",
-
-    "movie.trailer": "https://lvturbo.com/e/eky61r83l6yy.html"
-
-  },
+ 
   {
     "id": "ASS",
     "title": "ASSASSIN",
@@ -5468,20 +5444,7 @@
     "link": "https://www.imdb.com/title/tt11364772/",
     "movie.watch": "../../Bollywood/Kabzaa-2023/Kabzaa"
   },
-  {
-    "id": "SFG",
-    "title": "AGILAN ",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681609918/agilan-2023_izwls9.webp",
-    "yearRelease": 2023,
-    "genre": [" DRAMA, ",  " ACTION"],
-    "rating": 5.3,
-    "synopsis": "The film continues the story of teenage Billy Batson who, upon reciting the magic word SHAZAM! is transformed into his adult Super.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "David F. Sandberg",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt15415924/",
-    "movie.watch": "../../Bollywood/Agilan-2023/Agilan"
-  },
+  
   {
     "id": "SFG",
     "title": "ANGER TALES",
@@ -5538,20 +5501,7 @@
     "link": "https://www.imdb.com/title/tt15503442/",
     "movie.watch": "../../Bollywood/SexLife-2023/SexLife"
   },
-  {
-    "id": "SFG",
-    "title": "RUN BABY RUN",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610091/run-baby-run-2023_mmkwor.webp",
-    "yearRelease": 2023,
-    "genre": [" DRAMA, ", " ROMANCE"],
-    "rating": 4.8,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt24067680/",
-    "movie.watch": "../../Bollywood/RunBabyRun-2023/RunBabyRun"
-  },
+ 
   {
     "id": "SFG",
     "title": "POP KAUN",
@@ -5594,34 +5544,7 @@
     "link": "https://www.imdb.com/title/tt16916320/",
     "movie.watch": "../../Hollywood/TheSiege-2023/TheSiege"
   },
-  {
-    "id": "SFG",
-    "title": "SUPERCELL",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610127/supercell-2023_ofr7hk.webp",
-    "yearRelease": 2023,
-    "genre": [" DRAMA, ", " MYSTERY"],
-    "rating": 5.5,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt10559102/",
-    "movie.watch": "../../Bollywood/Supercell-2023/Supercell"
-  },
-  {
-    "id": "SFG",
-    "title": "THE MATCH-STICK FLAME 2 ",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610132/the-match-stick-flame-2023_lyminn.webp",
-    "yearRelease": 2023,
-    "genre": [" CRIME, ", " THRILLER"],
-    "rating": 5.2,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt10964866/",
-    "movie.watch": "../../Hollywood/TheMatchStickFlame-2023/TheMatchStickFlame"
-  },
+ 
   {
     "id": "SFG",
     "title": "SECRETARY PART 1",
@@ -5650,20 +5573,7 @@
     "link": "https://www.imdb.com/title/tt8672856/",
     "movie.watch": "../../Bollywood/TuJhoothiMainMakkaar-2023/TuJhoothiMainMakkaar"
   },
-  {
-    "id": "SFG",
-    "title": "SATARCHA SALMAN",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610091/satarcha-salman-2023_vyspox.webp",
-    "yearRelease": 2023,
-    "genre": [" DRAMA, ", " COMEDY"],
-    "rating": 8.2,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt10392914/",
-    "movie.watch": "../../Bollywood/SatarchaSalman-2023/SatarchaSalman"
-  },
+
   {
     "id": "SFG",
     "title": "VICTORIA EK RAHASYA",
@@ -5692,20 +5602,7 @@
     "link": "https://www.imdb.com/title/tt11497716/",
     "movie.watch": "../../Bollywood/SatarchaSalman-2023/SatarchaSalman"
   },
-  {
-    "id": "SFG",
-    "title": "RAUNDAL",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610090/raundal-2023_cipyxy.webp",
-    "yearRelease": 2023,
-    "genre": [" DRAMA, ", " ACTION"],
-    "rating": 8.6,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt10392914/",
-    "movie.watch": "../../Bollywood/Raundal-2023/Raundal"
-  },
+ 
   {
     "id": "SFG",
     "title": "LOVE AT FIRST KISS",
@@ -5888,35 +5785,7 @@
     "link": "https://www.imdb.com/title/tt7798604/",
     "movie.watch": "../../Hollywood/WeHaveAGhost-2023/WeHaveAGhost"
   },
-  {
-    "id": "SFG",
-    "title": "THE BLACKLIST SEASON 1",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610130/the-blacklist-2023_onynt3.webp",
-    "yearRelease": 2023,
-    "genre": [" CRIME, ", " MYSTERY"],
-    "rating": 8.1,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "status": "Tv Series UpDated",
-    "link": "https://www.imdb.com/title/tt2741602/",
-    "movie.watch": "../../Hollywood/TheBlacklist-2023/TheBlacklistP1"
-  },
-  {
-    "id": "SFG",
-    "title": "LUTHER THE FALLEN SUN",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610081/luther-the-fallen-sun-2023_cybqrz.webp",
-    "yearRelease": 2023,
-    "genre": [" DRAMA, ", " CRIME"],
-    "rating": 8.1,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt3155298/",
-    "movie.watch": "../../Hollywood/LutherTheFallenSun-2023/LutherTheFallenSun"
-  },
+  
   {
     "id": "SFG",
     "title": "GANDII BAAT S7",
@@ -6001,20 +5870,7 @@
     "link": "https://www.imdb.com/title/tt26741326/",
     "movie.watch": "../../Bollywood/IruDhuruvam-2023/IruDhuruvam"
   },
-  {
-    "id": "SFG",
-    "title": "DIE HART",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610000/die-hart-2023_r8znb2.webp",
-    "yearRelease": 2023,
-    "genre": [" ACTION, ", " CRIME"],
-    "rating": 4.6,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt10726424/",
-    "movie.watch": "../../Bollywood/DieHart-2023/DieHart"
-  },
+
   {
     "id": "SFG",
     "title": "HUNT",
@@ -6044,77 +5900,7 @@
     "link": "https://www.imdb.com/title/tt22091586/",
     "movie.watch": "../../Hollywood/12DesparateHours-2023/DesparateHours"
   },
-  {
-    "id": "SFG",
-    "title": "HO JA MUKAT",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610059/ho-ja-mukat-2023_ru6exg.webp",
-    "yearRelease": 2023,
-    "genre": [" ACTION, ", " CRIME"],
-    "rating": 8.1,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://m.imdb.com/title/tt25150506/",
-    "movie.watch": "../../Bollywood/HoJaMukat-2023/HoJaMukat"
-  },
-  {
-    "id": "SFG",
-    "title": "SHEHZADA",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610092/shehzada-2023_wsn32f.webp",
-    "yearRelease": 2023,
-    "genre": [" ACTION, ", " DRAMA"],
-    "rating": 6.7,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt13130948/",
-    "movie.watch": "../../Bollywood/Shehzada-2023/Shehzada"
-  },
-  {
-    "id": "SFG",
-    "title": "THE NIGHT MANAGER",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610132/the-night-manager-2023_x8injw.webp",
-    "yearRelease": 2023,
-    "genre": [" ACTION, ", " DRAMA"],
-    "rating": 8.1,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt15576504/",
-    "movie.watch": "../../Bollywood/TheNightManager-2023/TheNightManager"
-  },
-  {
-    "id": "SFG",
-    "title": "VAATHI",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610137/vaathi-2023_nth92a.webp",
-    "yearRelease": 2023,
-    "genre": [" ACTION, ", " DRAMA"],
-    "rating": 6.7,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt15427980/",
-    "movie.watch": "../../Bollywood/Vaathi-2023/Vaathi"
-  },
-  {
-    "id": "SFG",
-    "title": "MR.LOCAL",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610083/mr-local-2023_ypio3h.webp",
-    "yearRelease": 2023,
-    "genre": [" ACTION, ", " DRAMA"],
-    "rating": 6.7,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt15048606/",
-    "movie.watch": "../../Bollywood/MrLocal-2023/MrLocal"
-  },
-  
+      
   {
     "id": "SFG",
     "title": "LOST",
@@ -6129,62 +5915,7 @@
     "link": "https://www.imdb.com/title/tt9053416/",
     "movie.watch": "../../Bollywood/Lost-2023/Lost"
   },
-  {
-    "id": "SFG",
-    "title": "MINUS ONE",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610082/minus-one-2023_vkhseg.webp",
-    "yearRelease": 2023,
-    "genre": [" ACTION, ", " DRAMA"],
-    "rating": 6.7,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt26450741/",
-    "movie.watch": "../../Bollywood/MinusOne-2023/MinusOne"
-  },
-  {
-    "id": "SFG",
-    "title": "AMIGOS",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681609918/amigos-2023_mkujcz.webp",
-    "yearRelease": 2023,
-    "genre": [" ACTION, ", " DRAMA"],
-    "rating": 8.1,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt26450741/",
-    "movie.watch": "../../Bollywood/Amigos-2023/Amigos"
-  },
-  {
-    "id": "SFG",
-    "title": "CHRISTOPHER",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681609997/christopher-2023_zhlip0.webp",
-    "yearRelease": 2023,
-    "genre": [" ACTION, ", " DRAMA"],
-    "rating": 7.4,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt26450741/",
-    "movie.watch": "../../Bollywood/Christopher-2023/Christopher"
-  },
-  {
-    "id": "SFG",
-    "title": "DISHKIYAOON",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610001/dishkiyaoon-2023_tkvpw9.webp",
-    "yearRelease": 2023,
-    "genre": [" COMEDY, ", " DRAMA"],
-    "rating": 0,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt26450741/",
-    "movie.watch": "../../Bollywood/Dishkiyaoon-2023/Dishkiyaoon"
-  },
+ 
   {
     "id": "SFG",
     "title": "FARZI",
@@ -6199,76 +5930,7 @@
     "link": "https://www.imdb.com/title/tt26450741/",
     "movie.watch": "../../Bollywood/Farzi-2023/Farzi"
   },
-  {
-    "id": "SFG",
-    "title": "JAANBAAZ HINDUSTAN KE",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610077/jaanbaaz-hindustan-ke-2023_komxve.webp",
-    "yearRelease": 2023,
-    "genre": [" ACTION, ", " DRAMA"],
-    "rating": 7.4,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt26450741/",
-    "movie.watch": "../../Bollywood/JaanbaazHindustanKe-2023/JaanbaazHindustanKe"
-  },
-  {
-    "id": "SFG",
-    "title": "JAGGU ANI JULIET",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610077/jaggu-ani-juliet-2023_wn1fjv.webp",
-    "yearRelease": 2023,
-    "genre": [" ROMANCE, ", " DRAMA"],
-    "rating": 7.7,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt26450741/",
-    "movie.watch": "../../Bollywood/JagguAniJulite-2023/JagguAniJulite"
-  },
-  {
-    "id": "SFG",
-    "title": "KRANTI",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610079/kranti-2023_lf1ilz.webp",
-    "yearRelease": 2023,
-    "genre": [" ACTION, ", " DRAMA"],
-    "rating": 7.4,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt15373868/",
-    "movie.watch": "../../Bollywood/Kranti-2023/Kranti"
-  },
-  {
-    "id": "SFG",
-    "title": "MICHAEL",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610082/michael-2023_etycoe.webp",
-    "yearRelease": 2023,
-    "genre": [" ACTION, ", " DRAMA"],
-    "rating": 5.9,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt15309808/",
-    "movie.watch": "../../Bollywood/Michale-2023/Michale"
-  },
-  {
-    "id": "SFG",
-    "title": "MR THARAK",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610083/mr-tharak-2023_m62rqm.webp",
-    "yearRelease": 2023,
-    "genre": [" MYSTERY, ", " DRAMA"],
-    "rating": 5.6,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt23034554/",
-    "movie.watch": "../../Bollywood/MrTharak-2023/MrTharak"
-  },
+    
   {
     "id": "SFG",
     "title": "RAFTA RAFTA",
@@ -6283,35 +5945,7 @@
     "link": "https://www.imdb.com/title/tt26315676/",
     "movie.watch": "../../Bollywood/RaftaRafta-2023/RaftaRafta"
   },
-  {
-    "id": "SFG",
-    "title": "SHIV SHASTRI BALBOA",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610093/shiv-shastri-balboa-2023_mowkpk.webp",
-    "yearRelease": 2023,
-    "genre": [" COMEDY, ", " DRAMA"],
-    "rating": 8.9,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt13130948/",
-    "movie.watch": "../../Bollywood/ShivShastriBalboa-2023/ShivShastriBalboa"
-  },
  
-  {
-    "id": "SFG",
-    "title": "MASSION MAJNU",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610082/mission-maju-2023_nziab5.webp",
-    "yearRelease": 2023,
-    "genre": [" ACTION, ", " DRAMA"],
-    "rating": 7.9,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt13131232/",
-    "movie.watch": "../../Bollywood/MissionMajnu-2023/MissionMajnu"
-  },
   {
     "id": "SFG",
     "title": "PATHAAN",
@@ -6650,20 +6284,7 @@
     "link": "https://www.imdb.com/title/tt14531842/",
     "movie.watch": "../../Hollywood/ExtraOrdinary-2023/ExtraOrdinaryP1"
   },
-  {
-    "id": "SFG",
-    "title": "FEAR",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610055/fear-2023_ejshoq.webp",
-    "yearRelease": 2023,
-    "genre": [" DRAMA, ", " HORROR"],
-    "rating": 3.5,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt12830948/",
-    "movie.watch": "../../Hollywood/Fear-2023/Fear"
-  },
+  
   {
     "id": "SFG",
     "title": "IMANI",
@@ -6748,21 +6369,6 @@
     "country": "USA",
     "link": "https://www.imdb.com/title/tt15486810/",
     "movie.watch": "../../Hollywood/TeenWolfTheMovie-2023/TeenWolfTheMovie"
-  },
- 
-  {
-    "id": "SFG",
-    "title": "THE MUMMY RESURRECTION",
-    "poster": "https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610132/the-mummy-resurrection-2022_o0dd7v.webp",
-    "yearRelease": 2022,
-    "genre": [" HORROR, ", " THRILLER"],
-    "rating": 3.1,
-    "synopsis": "An immigrant Indian mother's battle against the Norwegian foster care system and local legal machinery to win back the custody of her children.",
-    "starring": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
-    "director": "Peter Jackson",
-    "country": "USA",
-    "link": "https://www.imdb.com/title/tt20141822/",
-    "movie.watch": "../../Hollywood/TheMummyResurrection-2023/TheMummyResurrection"
   },
   {
     "id": "SFG",

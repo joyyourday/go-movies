@@ -187,7 +187,7 @@ function NGCSR15({ movie }) {
       <Head>
      <title>Watch Night Court S01 (2023) Full Movie Online Free | Go Movies™</title>
      <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,night court tv show,night court 2023,index of night court tv series,night court cast,night court reboot,night court trailer,night court release date,night court episodes,night court streaming,night court watch online,night court tV series download,night court tV series free download,night court tV series online,night court tV series watch online,night court tV series season 1,night court tV series full episodes,melissa rauch,india de beaufort,john larroquette actor from Night Court" />
+<meta name="keywords" content="gomovies,night court tv show,night court 2023,index of night court tv series,night court cast,night court reboot,night court trailer,night court release date,night court episodes,night court streaming,night court watch online,night court tV series download,night court tV series free download,night court tV series online,night court tV series watch online,night court tV series season 1,night court tV series full episodes,melissa rauch,india de beaufort,john larroquette actor from Night Court" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -335,7 +335,8 @@ function NGCSR15({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country of origin: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-  <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.synopsis}</p>
+  <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
           

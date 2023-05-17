@@ -122,7 +122,7 @@ function SBLSR1({ movie }) {
     <Head>
      <title>Watch Saas Bahu Aur Flamingo (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,saas bahu aur flamingo tv series,saas bahu aur flamingo 2023,index of saas bahu aur flamingo tv series,saas bahu aur flamingo cast,saas bahu aur flamingo trailer,saas bahu aur flamingo release date,saas bahu aur flamingo plot,saas bahu aur flamingo reviews,saas bahu aur flamingo streaming,saas bahu aur flamingo watch online,saas bahu aur flamingo download,saas bahu aur flamingo full episodes,saas bahu aur flamingo tv series download,saas bahu aur flamingo tv series free download,saas bahu aur flamingo tv series online,saas bahu aur flamingo tv series watch online" />
+<meta name="keywords" content="gomovies,saas bahu aur flamingo tv series,saas bahu aur flamingo 2023,index of saas bahu aur flamingo tv series,saas bahu aur flamingo cast,saas bahu aur flamingo trailer,saas bahu aur flamingo release date,saas bahu aur flamingo plot,saas bahu aur flamingo reviews,saas bahu aur flamingo streaming,saas bahu aur flamingo watch online,saas bahu aur flamingo download,saas bahu aur flamingo full episodes,saas bahu aur flamingo tv series download,saas bahu aur flamingo tv series free download,saas bahu aur flamingo tv series online,saas bahu aur flamingo tv series watch online" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -188,7 +188,8 @@ function SBLSR1({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country of origin: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-        <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.synopsis}</p>
+        <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
            

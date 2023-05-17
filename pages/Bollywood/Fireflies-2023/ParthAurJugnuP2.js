@@ -122,7 +122,7 @@ function ParthAurJugnuP2({ movie }) {
     <Head>
      <title>Watch Fireflies: Parth Aur Jugnu (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,fireflies: parth aur jugnu,movie fireflies: parth aur jugnu 2023,index of fireflies: parth aur jugnu,fireflies: parth aur jugnu cast,fireflies: parth aur jugnu trailer,fireflies: parth aur jugnu release date,fireflies: parth aur jugnu plot,fireflies: parth aur jugnu reviews,fireflies: parth aur jugnu streaming,fireflies: parth aur jugnu watch online,fireflies: parth aur jugnu download,fireflies: parth aur jugnu full movie,fireflies: parth aur jugnu movie download,fireflies: parth aur jugnu movie free download,movie fireflies: parth aur jugnu movie online,fireflies: parth aur jugnu movie watch online" />
+<meta name="keywords" content="gomovies,fireflies: parth aur jugnu,movie fireflies: parth aur jugnu 2023,index of fireflies: parth aur jugnu,fireflies: parth aur jugnu cast,fireflies: parth aur jugnu trailer,fireflies: parth aur jugnu release date,fireflies: parth aur jugnu plot,fireflies: parth aur jugnu reviews,fireflies: parth aur jugnu streaming,fireflies: parth aur jugnu watch online,fireflies: parth aur jugnu download,fireflies: parth aur jugnu full movie,fireflies: parth aur jugnu movie download,fireflies: parth aur jugnu movie free download,movie fireflies: parth aur jugnu movie online,fireflies: parth aur jugnu movie watch online" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -188,7 +188,8 @@ function ParthAurJugnuP2({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country of origin: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-        <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.synopsis}</p>
+        <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
            

@@ -101,7 +101,7 @@ function DownloadSOD1({ movie }) {
     <Head>
      <title>Watch Soppana Sundari (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,soppana sundari movie,soppana sundari 2023,index of soppana sundari movie,soppana sundari cast,soppana sundari trailer,soppana sundari release date,soppana sundari plot,soppana sundari reviews,soppana sundari streaming,soppana sundari watch online,soppana sundari download,soppana sundari full movie,soppana sundari movie download,soppana sundari movie free download,soppana sundari movie online,soppana sundari movie watch online,adah sharma, yogita bihani in soppana sundari" />
+<meta name="keywords" content="gomovies,soppana sundari movie,soppana sundari 2023,index of soppana sundari movie,soppana sundari cast,soppana sundari trailer,soppana sundari release date,soppana sundari plot,soppana sundari reviews,soppana sundari streaming,soppana sundari watch online,soppana sundari download,soppana sundari full movie,soppana sundari movie download,soppana sundari movie free download,soppana sundari movie online,soppana sundari movie watch online,adah sharma, yogita bihani in soppana sundari" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  

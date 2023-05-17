@@ -127,7 +127,7 @@ function DahaadP1({ movie }) {
     <Head>
      <title>Watch Dahaad (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,dahaad tv series,dahaad 2023,index of dahaad tv series,dahaad cast,dahaad trailer,dahaad release date,dahaad plot,dahaad reviews,dahaad streaming,dahaad watch online,dahaad download,dahaad full Parts,dahaad tv series download,dahaad tv series free download,dahaad tv series online,dahaad tv series watch online" />
+<meta name="keywords" content="gomovies,dahaad tv series,dahaad 2023,index of dahaad tv series,dahaad cast,dahaad trailer,dahaad release date,dahaad plot,dahaad reviews,dahaad streaming,dahaad watch online,dahaad download,dahaad full Parts,dahaad tv series download,dahaad tv series free download,dahaad tv series online,dahaad tv series watch online" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -199,7 +199,8 @@ function DahaadP1({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country of origin: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-        <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.synopsis}</p>
+        <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
            

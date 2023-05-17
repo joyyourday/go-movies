@@ -115,7 +115,7 @@ function TKSSR1({ movie }) {
     <Head>
      <title>Watch The Kerala Story (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,the kerala story movie,the kerala story 2023,index of the kerala story movie,the kerala story cast,the kerala story trailer,the kerala story release date,the kerala story plot,the kerala story reviews,the kerala story streaming,the kerala story watch online,the kerala story download,the kerala story full movie,the kerala story movie download,the kerala story movie free download,the kerala story movie online,the kerala story movie watch online,adah sharma, yogita bihani in the kerala story" />
+<meta name="keywords" content="gomovies,the kerala story movie,the kerala story 2023,index of the kerala story movie,the kerala story cast,the kerala story trailer,the kerala story release date,the kerala story plot,the kerala story reviews,the kerala story streaming,the kerala story watch online,the kerala story download,the kerala story full movie,the kerala story movie download,the kerala story movie free download,the kerala story movie online,the kerala story movie watch online,adah sharma, yogita bihani in the kerala story" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -167,7 +167,8 @@ function TKSSR1({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country of origin: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-  <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.synopsis}</p>
+  <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
            

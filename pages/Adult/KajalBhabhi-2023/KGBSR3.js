@@ -8,7 +8,7 @@ import styles from '@styles/video-player.module.css';
 import Max from 'pages/Max';
 import ShareButtons from '@components/ShareButtons';
 import Script from 'next/script';
-
+import Ads from '@components/Ads';
 
 
 
@@ -119,7 +119,7 @@ function KGBSR3({ movie }) {
     <Head>
      <title>Watch Kajal Bhabhi (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,kajal bhabhi movie,kajal bhabhi 2023,index of kajal bhabhi movie,kajal bhabhi cast,kajal bhabhi trailer,kajal bhabhi release date,kajal bhabhi plot,kajal bhabhi reviews,kajal bhabhi streaming,kajal bhabhi watch online,kajal bhabhi download,kajal bhabhi full movie,kajal bhabhi movie download,kajal bhabhi movie free download,kajal bhabhi movie online,kajal bhabhi movie watch online,kajal, nitin in kajal bhabhi" />
+<meta name="keywords" content="gomovies,kajal bhabhi movie,kajal bhabhi 2023,index of kajal bhabhi movie,kajal bhabhi cast,kajal bhabhi trailer,kajal bhabhi release date,kajal bhabhi plot,kajal bhabhi reviews,kajal bhabhi streaming,kajal bhabhi watch online,kajal bhabhi download,kajal bhabhi full movie,kajal bhabhi movie download,kajal bhabhi movie free download,kajal bhabhi movie online,kajal bhabhi movie watch online,kajal, nitin in kajal bhabhi" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -192,7 +192,8 @@ function KGBSR3({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country of origin: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-  <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.synopsis}</p>
+  <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
           

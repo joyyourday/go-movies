@@ -116,7 +116,7 @@ function TheMother({ movie }) {
     <Head>
      <title>Watch The Mother (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,the mother movie,the mother 2023,index of the mother movie,the mother cast,the mother trailer,the mother release date,the mother plot,the mother reviews,the mother streaming,the mother watch online,the mother download,the mother full movie,the mother movie download,the mother movie free download,the mother movie online,the mother movie watch online,jennifer lopez, lucy paez in the mother" />
+<meta name="keywords" content="gomovies,the mother movie,the mother 2023,index of the mother movie,the mother cast,the mother trailer,the mother release date,the mother plot,the mother reviews,the mother streaming,the mother watch online,the mother download,the mother full movie,the mother movie download,the mother movie free download,the mother movie online,the mother movie watch online,jennifer lopez, lucy paez in the mother" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -169,7 +169,8 @@ function TheMother({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country of origin: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-        <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.Synopsis}</p>
+        <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
            

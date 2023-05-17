@@ -115,7 +115,7 @@ function PNTSR1({ movie }) {
     <Head>
      <title>Watch Paint (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,paint movie,paint 2023,index of paint movie,paint cast,paint trailer,paint release date,paint plot,paint reviews,paint streaming,paint watch online,paint download,paint full movie,paint movie download,paint movie free download,paint movie online,paint movie watch online,owen wilson, elisabeth henry in Paint" />
+<meta name="keywords" content="gomovies,paint movie,paint 2023,index of paint movie,paint cast,paint trailer,paint release date,paint plot,paint reviews,paint streaming,paint watch online,paint download,paint full movie,paint movie download,paint movie free download,paint movie online,paint movie watch online,owen wilson, elisabeth henry in Paint" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -167,7 +167,8 @@ function PNTSR1({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country of origin: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-        <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.synopsis}</p>
+        <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
            

@@ -145,7 +145,7 @@ function LuckyHankP1({ movie }) {
       <Head>
      <title>Watch Lucky Hank S01 (2023) Full Movie Online Free | Go Movies™</title>
      <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,lucky hank tv show,lucky hank 2023,index of lucky hank tv series,lucky hank cast,lucky hank trailer,lucky hank release date,lucky hank episodes,lucky hank streaming,lucky hank watch online,lucky hank tv series download,lucky hank tv series free download,lucky hank tv series online,lucky hank tv series watch online,lucky hank tv series season 1,lucky hank tv series full episodes,Bob Odenkirk, Mireille Enos, Cedric Yarbrough lucky hank" />
+<meta name="keywords" content="gomovies,lucky hank tv show,lucky hank 2023,index of lucky hank tv series,lucky hank cast,lucky hank trailer,lucky hank release date,lucky hank episodes,lucky hank streaming,lucky hank watch online,lucky hank tv series download,lucky hank tv series free download,lucky hank tv series online,lucky hank tv series watch online,lucky hank tv series season 1,lucky hank tv series full episodes,Bob Odenkirk, Mireille Enos, Cedric Yarbrough lucky hank" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -245,7 +245,8 @@ function LuckyHankP1({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country of origin: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-  <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.synopsis}</p>
+  <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
           

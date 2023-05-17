@@ -115,7 +115,7 @@ function CTRSR1({ movie }) {
     <Head>
      <title>Watch Crater (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,crater movie,crater 2023,index of crater movie,crater cast,crater trailer,crater release date,crater plot,crater reviews,crater streaming,crater watch online,crater download,crater full movie,crater movie download,crater movie free download,crater movie online,crater movie watch online,isaiah russell-bailey, mckenna grace in crater" />
+<meta name="keywords" content="gomovies,crater movie,crater 2023,index of crater movie,crater cast,crater trailer,crater release date,crater plot,crater reviews,crater streaming,crater watch online,crater download,crater full movie,crater movie download,crater movie free download,crater movie online,crater movie watch online,isaiah russell-bailey, mckenna grace in crater" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -167,7 +167,8 @@ function CTRSR1({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country of origin: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-        <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.synopsis}</p>
+        <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
            

@@ -115,7 +115,7 @@ function SIMSR1({ movie }) {
     <Head>
      <title>Watch Simulant (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,simulant movie,simulant 2023,index of simulant movie,simulant cast,simulant trailer,simulant release date,simulant plot,simulant reviews,simulant streaming,simulant watch online,simulant download,simulant full movie,simulant movie download,simulant movie free download,simulant movie online,simulant movie watch online" />
+<meta name="keywords" content="gomovies,simulant movie,simulant 2023,index of simulant movie,simulant cast,simulant trailer,simulant release date,simulant plot,simulant reviews,simulant streaming,simulant watch online,simulant download,simulant full movie,simulant movie download,simulant movie free download,simulant movie online,simulant movie watch online" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -167,7 +167,8 @@ function SIMSR1({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country of origin: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-        <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.synopsis}</p>
+        <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
            
