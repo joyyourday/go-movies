@@ -72,7 +72,7 @@ function togglePopup() {
      <Head>
      <title>Watch Lockwood And Co EP 6 (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch lockwood and co complete season 1 movie,index of lockwood and co complete season 1 movie,lockwood and co complete season 1 movie 2023,lockwood and co complete season 1 movie online,watch lockwood and co complete season 1 movie online free,lockwood and co complete season 1 tv series,lockwood and co complete season 1 movie download,lockwood and co complete season 1 movie free download,lockwood and co complete season 1 movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch lockwood and co complete season 1 movie,index of lockwood and co complete season 1 movie,lockwood and co complete season 1 movie 2023,lockwood and co complete season 1 movie online,watch lockwood and co complete season 1 movie online free,lockwood and co complete season 1 tv series,lockwood and co complete season 1 movie download,lockwood and co complete season 1 movie free download,lockwood and co complete season 1 movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  

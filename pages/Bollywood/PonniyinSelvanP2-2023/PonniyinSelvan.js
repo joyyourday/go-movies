@@ -8,14 +8,12 @@ import Max from 'pages/Max';
 import ShareButtons from '@components/ShareButtons';
 import Script from 'next/script';
 import { Image } from 'cloudinary-react'
+//import Ad from '@components/Ad1';
+
 
 
 
 function PonniyinSelvan({ movie }) {
-
-
-
-   
   const [showAd, setShowAd] = useState(false);
 
   useEffect(() => {
@@ -67,12 +65,12 @@ function PonniyinSelvan({ movie }) {
         {
           "@type": "EntryPoint",
           "name": "Ponniyin Selvan Part 2 (2023)",
-          "urlTemplate": "https://gomovies.netlify/Bollywood/PonniyinSelvanP2-2023/PonniyinSelvan"
+          "urlTemplate": "https://gomovies.netlify.app/Bollywood/PonniyinSelvanP2-2023/PonniyinSelvan"
         },
         {
           "@type": "EntryPoint",
           "name": "Ponniyin Selvan Part 2 (2023)",
-          "urlTemplate": "https://gomovies.netlify/Bollywood/PonniyinSelvanP2-2023/PSPSR1"
+          "urlTemplate": "https://gomovies.netlify.app/Bollywood/PonniyinSelvanP2-2023/PSPSR1"
         }
       ]
     },
@@ -87,7 +85,7 @@ function PonniyinSelvan({ movie }) {
       {
         "@type": "Person",
         "name": "DrTrailer",
-        "url": "https://gomovies.netlify/DrTrailer.png"
+        "url": "https://gomovies.netlify.app/DrTrailer.png"
       }
     ],
     "publisher": {
@@ -95,7 +93,7 @@ function PonniyinSelvan({ movie }) {
       "name": "Go Movies",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://gomovies.netlify/og_image.jpg"
+        "url": "https://gomovies.netlify.app/og_image.jpg"
       }
     },
     "additionalProperty": {
@@ -118,7 +116,7 @@ function PonniyinSelvan({ movie }) {
     <Head>
      <title>Watch Ponniyin Selvan Part 2 (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch ponniyin selvan part 2 movie,index of ponniyin selvan part 2 movie,ponniyin selvan part 2 movie 2023,ponniyin selvan part 2 movie online,watch ponniyin selvan part 2 movie online free,ponniyin selvan part 2 tv series,ponniyin selvan part 2 movie download,ponniyin selvan part 2 movie free download,ponniyin selvan part 2 movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch ponniyin selvan part 2 movie,index of ponniyin selvan part 2 movie,ponniyin selvan part 2 movie 2023,ponniyin selvan part 2 movie online,watch ponniyin selvan part 2 movie online free,ponniyin selvan part 2 tv series,ponniyin selvan part 2 movie download,ponniyin selvan part 2 movie free download,ponniyin selvan part 2 movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -126,9 +124,9 @@ function PonniyinSelvan({ movie }) {
 <meta property="og:site_name" content="Go Movies™ | Watch Movies, TV-Series & Sports Live Online Free" />
 <meta property="og:type" content="movie" />
 <meta property="og:title" content="Watch Ponniyin Selvan Part 2 (2023) | Go Movies™" />
-<meta property="og:url" content="https://gomovies.netlify/Bollywood/PonniyinSelvanP2-2023/PonniyinSelvan" />
+<meta property="og:url" content="https://gomovies.netlify.app/Bollywood/PonniyinSelvanP2-2023/PonniyinSelvan" />
 <meta property="og:image" content="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1682771579/ponniyin-selvan-part2-2023_bucyzr.webp" />
-<meta property="og:image:secure_url" content="https://gomovies.netlify/" />
+<meta property="og:image:secure_url" content="https://gomovies.netlify.app/" />
 <meta property="og:image:width" content="1280" />
 <meta property="og:image:height" content="720" />
 <meta name="twitter:card" content="summary" />
@@ -136,14 +134,14 @@ function PonniyinSelvan({ movie }) {
 <meta name="twitter:image" content="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1682771579/ponniyin-selvan-part2-2023_bucyzr.webp" />
 <meta name="description" content="Watch PonniyinSelvan Full Movie Online on Go Movies™, You can also download Ponniyin Selvan Part 2 (2023) in full HD quality to watch later offline." />
 
-<link rel="canonical" href="https://gomovies.netlify/Bollywood/PonniyinSelvanP2-2023/" />
+<link rel="canonical" href="https://gomovies.netlify.app/Bollywood/PonniyinSelvanP2-2023/" />
 
        </Head>
 <Script src="../../propler/ads.js" defer />
 
        <div className="bg-gray-600 shadow ">
-      
-    
+
+     
 
        <h1 className="flex flex-col text-center py-5 font-bold text-3xl items-center justify-center" style={{ color: "#40D7BC", textShadow: "5px 5px 2px #000" }}>{movie.title} - 2023</h1>
        <div className={styles['iframe-container']}>
@@ -155,7 +153,7 @@ function PonniyinSelvan({ movie }) {
       ></iframe>
            </div>  
            <h3 className="mb-9 text-bg  text-black-500 text-red-600 text-center xl:px-4 ">*Note: Pls Select the in the Player to Change your Language of your Choice and Setting  to Change the Quality of Video.</h3>
-<ShareButtons url="https://gomovies.netlify" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify/og_image.jpg" />
+<ShareButtons url="https://gomovies.netlify.app" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify.app/og_image.jpg" />
 
 
        
@@ -171,7 +169,8 @@ function PonniyinSelvan({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-        <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.synopsis}</p>
+        <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
         
@@ -267,7 +266,6 @@ Download
   );
 }
 
-
 export async function getServerSideProps() {
   const res = await fetch('https://gomovies.netlify.app/movies.json');
   const data = await res.json();
@@ -278,5 +276,5 @@ export async function getServerSideProps() {
     }
   };
 }
-
+ 
 export default PonniyinSelvan;

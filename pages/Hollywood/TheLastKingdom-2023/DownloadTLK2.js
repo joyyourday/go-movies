@@ -101,7 +101,7 @@ function DownloadTLK2({ movie }) {
     <Head>
      <title>Watch The Last Kingdom Seven Kings Must Die (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch the last kingdom seven kings must die movie,index of the last kingdom seven kings must die movie,the last kingdom seven kings must die movie 2023,the last kingdom seven kings must die movie online,watch the last kingdom seven kings must die movie online free,the last kingdom seven kings must die tv series,the last kingdom seven kings must die movie download,the last kingdom seven kings must die movie free download,the last kingdom seven kings must die movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch the last kingdom seven kings must die movie,index of the last kingdom seven kings must die movie,the last kingdom seven kings must die movie 2023,the last kingdom seven kings must die movie online,watch the last kingdom seven kings must die movie online free,the last kingdom seven kings must die tv series,the last kingdom seven kings must die movie download,the last kingdom seven kings must die movie free download,the last kingdom seven kings must die movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  

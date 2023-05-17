@@ -4,6 +4,7 @@ import React, { useEffect, useState } from 'react';
 import Max from 'pages/Max';
 import ShareButtons from '@components/ShareButtons';
 import Script from 'next/script';
+import Ads from '@components/Ads';
 
 
 import AdultSkipAds from '@components/AdultSkipAds'
@@ -11,7 +12,19 @@ import AdultSkipAds from '@components/AdultSkipAds'
 
 function DownloadCJA2({ movie }) {
   
+  const [showAd, setShowAd] = useState(false);
 
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setShowAd(true);
+    }, 5000);
+    return () => clearInterval(timer);
+  }, []);
+
+  const handleAdClose = () => {
+    setShowAd(false);
+  };
+  
   if (!movie) {
     return <div className="text-3xl text-red-600 text-center">Loading...</div>;
   }
@@ -102,7 +115,7 @@ function DownloadCJA2({ movie }) {
     <Head>
      <title>Watch {movie.name} (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch charmsukh jane anjane mein movie,index of charmsukh jane anjane mein movie,charmsukh jane anjane mein movie 2023,charmsukh jane anjane mein movie online,watch charmsukh jane anjane mein movie online free,charmsukh jane anjane mein tv series,charmsukh jane anjane mein movie download,charmsukh jane anjane mein movie free download,charmsukh jane anjane mein movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch charmsukh jane anjane mein movie,index of charmsukh jane anjane mein movie,charmsukh jane anjane mein movie 2023,charmsukh jane anjane mein movie online,watch charmsukh jane anjane mein movie online free,charmsukh jane anjane mein tv series,charmsukh jane anjane mein movie download,charmsukh jane anjane mein movie free download,charmsukh jane anjane mein movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -124,7 +137,9 @@ function DownloadCJA2({ movie }) {
        </Head>
 <Script src="../../propler/ads.js" defer />
 
-       <div className="bg-gray-600 shadow ">
+      <div className="bg-gray-600 shadow ">
+
+
        <AdultSkipAds/>
 
 

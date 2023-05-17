@@ -59,33 +59,33 @@ function SUSSR2({ movie }) {
       {
         "@type": "TVEpisode",
         "name": "Succession Episode 1",
-        "url": "https://gomovies.netlify/Hollywood/SuccessionS04-2023/SUSSR1"
+        "url": "https://gomovies.netlify.app/Hollywood/SuccessionS04-2023/SUSSR1"
       },
       {
         "@type": "TVEpisode",
         "name": "Succession Episode 2",
-        "url": "https://gomovies.netlify/Hollywood/SuccessionS04-2023/SUSSR2"
+        "url": "https://gomovies.netlify.app/Hollywood/SuccessionS04-2023/SUSSR2"
       },
       {
         "@type": "TVEpisode",
         "name": "Succession Episode 3",
-        "url": "https://gomovies.netlify/Hollywood/SuccessionS04-2023/SUSSR3"
+        "url": "https://gomovies.netlify.app/Hollywood/SuccessionS04-2023/SUSSR3"
       },
       {
         "@type": "TVEpisode",
         "name": "Succession Episode 4",
-        "url": "https://gomovies.netlify/Hollywood/SuccessionS04-2023/SUSSR4"
+        "url": "https://gomovies.netlify.app/Hollywood/SuccessionS04-2023/SUSSR4"
       },
       {
         "@type": "TVEpisode",
         "name": "Succession Episode 5",
-        "url": "https://gomovies.netlify/Hollywood/SuccessionS04-2023/SUSSR5"
+        "url": "https://gomovies.netlify.app/Hollywood/SuccessionS04-2023/SUSSR5"
       }
     ],
     "author": [{
       "@type": "Person",
       "name": "DrTrailer",
-      "url": "https://gomovies.netlify/DrTrailer.png"
+      "url": "https://gomovies.netlify.app/DrTrailer.png"
     }],
   
   "publisher": {
@@ -93,7 +93,7 @@ function SUSSR2({ movie }) {
       "name": "Go Movies",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://gomovies.netlify/og_image.jpg"
+        "url": "https://gomovies.netlify.app/og_image.jpg"
       }
     },
     potentialAction: {
@@ -101,7 +101,7 @@ function SUSSR2({ movie }) {
       target: {
         "@type": "EntryPoint",
         urlTemplate:
-          "https://gomovies.netlify/Hollywood/SuccessionS04-2023/SuccessionP1",
+          "https://gomovies.netlify.app/Hollywood/SuccessionS04-2023/SuccessionP1",
         },
       },
       "additionalProperty": {
@@ -125,7 +125,7 @@ function SUSSR2({ movie }) {
       <Head>
      <title>Watch Succession S04 (2023) Full Movie Online Free | Go Movies™</title>
      <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch succession s04 movie,index of succession s04 movie,the giftedS01 movie 2023,succession s04 movie online,watch succession s04 movie online free,succession s04 tv series,succession s04 movie download,succession s04 movie free download,succession s04 movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch succession s04 movie,index of succession s04 movie,the giftedS01 movie 2023,succession s04 movie online,watch succession s04 movie online free,succession s04 tv series,succession s04 movie download,succession s04 movie free download,succession s04 movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -134,9 +134,9 @@ function SUSSR2({ movie }) {
 <meta property="og:type" content="movie" />
 
 <meta property="og:title" content="Watch Succession S04 (2023) | Go Movies™" />
-<meta property="og:url" content="https://gomovies.netlify/Hollywood/SuccessionS04-2023/SuccessionP1" />
+<meta property="og:url" content="https://gomovies.netlify.app/Hollywood/SuccessionS04-2023/SuccessionP1" />
 <meta property="og:image" content="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681682711/succession-s04-2023_bhepcw.webp" />
-<meta property="og:image:secure_url" content="https://gomovies.netlify/" />
+<meta property="og:image:secure_url" content="https://gomovies.netlify.app/" />
 <meta property="og:image:width" content="1280" />
 <meta property="og:image:height" content="720" />
 <meta name="twitter:card" content="summary" />
@@ -144,7 +144,7 @@ function SUSSR2({ movie }) {
 <meta name="twitter:image" content="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681682711/succession-s04-2023_bhepcw.webp" />
 <meta name="description" content="Watch Succession S04 Full Movie Online on Go Movies™, You can also download Succession S04 (2023) in full HD quality to watch later offline." />
 
-<link rel="canonical" href="https://gomovies.netlify/Hollywood/SuccessionS04-2023/" />  
+<link rel="canonical" href="https://gomovies.netlify.app/Hollywood/SuccessionS04-2023/" />  
        </Head>
 <Script src="../../propler/ads.js" defer />
  
@@ -159,7 +159,7 @@ function SUSSR2({ movie }) {
       ></iframe>
            </div>  
            <h3 className="mb-9 text-bg  text-black-500 text-red-600 text-center xl:px-4 ">*Note: Pls Select the in the Player to Change your Language of your Choice and Setting  to Change the Quality of Video.</h3>
-<ShareButtons url="https://gomovies.netlify" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify/og_image.jpg" />
+<ShareButtons url="https://gomovies.netlify.app" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify.app/og_image.jpg" />
 
 
            <div className="grid grid-cols-1 mx-20 sm:grid-cols-2  x:grid-cols-3 gap-4">
@@ -208,7 +208,8 @@ function SUSSR2({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-  <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.synopsis}</p>
+  <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
            <img  src={movie.poster} alt={`Poster for ${movie.title}`} className="mx-auto my-10 rounded-3xl  " />

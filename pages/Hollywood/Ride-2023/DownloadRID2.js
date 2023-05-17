@@ -120,7 +120,7 @@ function DownloadRID2({ movie }) {
       <Head>
      <title>Watch Ride (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch ride movie,index of ride movie,ride movie 2023,ride movie online,watch ride  movie online free,ride tv series,ride movie download,ride movie free download,ride movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch ride movie,index of ride movie,ride movie 2023,ride movie online,watch ride  movie online free,ride tv series,ride movie download,ride movie free download,ride movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  

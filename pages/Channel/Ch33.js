@@ -2,13 +2,9 @@
 
 import styles from '@styles/video-player.module.css'
 import Link from 'next/link'
-
-import Head from 'next/head'
-;
+import Head from 'next/head';
 import ShareButtons from '@components/ShareButtons';
 import Script from 'next/script';
-
-
 import WorldClock from '@components/WorldClock';
 
 const scrollSearch = myKey => {
@@ -21,13 +17,13 @@ const Ch33 = () => {
   return (
     <div>
        <Head>
-    <title>Go Movies™ | Watch Movies, TV-Series & Sports Live Online Free</title>
+    <title>Go Movies™ | BT Sport 3 UK</title>
     <meta name="robots" content="index, follow" />  
     <meta name="revisit-after" content="1 days" />
    
    <meta name="description" content="Go Movies™ -  Watch Movies, TV-Series & Sports Live Online Free." />
    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies, daddylive, streaming free, livetv, freetvchannels, onlinetv, tvchannelsfree, watchtvlive, online tv channels, updated live stream, live sports streaming, stream sports live, watch live sports online, live sports online Live sports TV, free sports streaming, live sports channels, sports streaming services, online sports streaming, sports live stream free, sports live TV, live cricket streaming, live football streaming, live basketball streaming, live baseball streaming, live soccer streaming, live NHL streaming, live NFL streaming, live tennis streaming, live MMA streaming" />
+<meta name="keywords" content="gomovies, daddylive, streaming free, livetv, freetvchannels, onlinetv, tvchannelsfree, watchtvlive, online tv channels, updated live stream, live sports streaming, stream sports live, watch live sports online, live sports online Live sports TV, free sports streaming, live sports channels, sports streaming services, online sports streaming, sports live stream free, sports live TV, live cricket streaming, live football streaming, live basketball streaming, live baseball streaming, live soccer streaming, live NHL streaming, live NFL streaming, live tennis streaming, live MMA streaming" />
    <meta property="og:locale" content="en_US" />   
 
 

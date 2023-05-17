@@ -115,7 +115,7 @@ function SOSSR1({ movie }) {
     <Head>
      <title>Watch Sound of Silence (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch sound of silence movie,index of sound of silence movie,sound of silence movie 2023,sound of silence movie online,watch sound of silence movie online free,sound of silence tv series,sound of silence movie download,sound of silence movie free download,sound of silence movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch sound of silence movie,index of sound of silence movie,sound of silence movie 2023,sound of silence movie online,watch sound of silence movie online free,sound of silence tv series,sound of silence movie download,sound of silence movie free download,sound of silence movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -167,7 +167,8 @@ function SOSSR1({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-  <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.synopsis}</p>
+  <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
            
@@ -263,7 +264,7 @@ Download
 }
 
 export async function getServerSideProps() {
-  const res = await fetch('https://gomovies.netlify.app/movies.json                ');
+  const res = await fetch('https://gomovies.netlify.app/movies.json');
   const data = await res.json();
   const selectedMovie = data.find(movie => movie.id === 'SOS');
   return {

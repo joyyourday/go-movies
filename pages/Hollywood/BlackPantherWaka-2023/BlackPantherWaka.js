@@ -73,7 +73,7 @@ function togglePopup() {
      <Head>
      <title>Watch Black Panther: Wakanda..(2022) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch black panther: wakanda forever movie,index of black panther: wakanda forever movie,black panther: wakanda forever movie 2023,black panther: wakanda forever movie online,watch black panther: wakanda forever movie online free,black panther: wakanda forever tv series,black panther: wakanda forever movie download,black panther: wakanda forever movie free download,black panther: wakanda forever movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch black panther: wakanda forever movie,index of black panther: wakanda forever movie,black panther: wakanda forever movie 2023,black panther: wakanda forever movie online,watch black panther: wakanda forever movie online free,black panther: wakanda forever tv series,black panther: wakanda forever movie download,black panther: wakanda forever movie free download,black panther: wakanda forever movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  

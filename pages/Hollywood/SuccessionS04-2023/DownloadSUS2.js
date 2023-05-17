@@ -56,33 +56,33 @@ function DownloadSUS2({ movie }) {
       {
         "@type": "TVEpisode",
         "name": "Succession Episode 1",
-        "url": "https://gomovies.netlify/Hollywood/SuccessionS04-2023/SUSSR1"
+        "url": "https://gomovies.netlify.app/Hollywood/SuccessionS04-2023/SUSSR1"
       },
       {
         "@type": "TVEpisode",
         "name": "Succession Episode 2",
-        "url": "https://gomovies.netlify/Hollywood/SuccessionS04-2023/SUSSR2"
+        "url": "https://gomovies.netlify.app/Hollywood/SuccessionS04-2023/SUSSR2"
       },
       {
         "@type": "TVEpisode",
         "name": "Succession Episode 3",
-        "url": "https://gomovies.netlify/Hollywood/SuccessionS04-2023/SUSSR3"
+        "url": "https://gomovies.netlify.app/Hollywood/SuccessionS04-2023/SUSSR3"
       },
       {
         "@type": "TVEpisode",
         "name": "Succession Episode 4",
-        "url": "https://gomovies.netlify/Hollywood/SuccessionS04-2023/SUSSR4"
+        "url": "https://gomovies.netlify.app/Hollywood/SuccessionS04-2023/SUSSR4"
       },
       {
         "@type": "TVEpisode",
         "name": "Succession Episode 5",
-        "url": "https://gomovies.netlify/Hollywood/SuccessionS04-2023/SUSSR5"
+        "url": "https://gomovies.netlify.app/Hollywood/SuccessionS04-2023/SUSSR5"
       }
     ],
     "author": [{
       "@type": "Person",
       "name": "DrTrailer",
-      "url": "https://gomovies.netlify/DrTrailer.png"
+      "url": "https://gomovies.netlify.app/DrTrailer.png"
     }],
   
   "publisher": {
@@ -90,7 +90,7 @@ function DownloadSUS2({ movie }) {
       "name": "Go Movies",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://gomovies.netlify/og_image.jpg"
+        "url": "https://gomovies.netlify.app/og_image.jpg"
       }
     },
     potentialAction: {
@@ -98,7 +98,7 @@ function DownloadSUS2({ movie }) {
       target: {
         "@type": "EntryPoint",
         urlTemplate:
-          "https://gomovies.netlify/Hollywood/SuccessionS04-2023/SuccessionP1",
+          "https://gomovies.netlify.app/Hollywood/SuccessionS04-2023/SuccessionP1",
         },
       },
       "additionalProperty": {
@@ -122,7 +122,7 @@ function DownloadSUS2({ movie }) {
       <Head>
      <title>Watch Succession S04 (2023) Full Movie Online Free | Go Movies™</title>
      <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch succession s04 movie,index of succession s04 movie,the giftedS01 movie 2023,succession s04 movie online,watch succession s04 movie online free,succession s04 tv series,succession s04 movie download,succession s04 movie free download,succession s04 movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch succession s04 movie,index of succession s04 movie,the giftedS01 movie 2023,succession s04 movie online,watch succession s04 movie online free,succession s04 tv series,succession s04 movie download,succession s04 movie free download,succession s04 movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -131,9 +131,9 @@ function DownloadSUS2({ movie }) {
 <meta property="og:type" content="movie" />
 
 <meta property="og:title" content="Watch Succession S04 (2023) | Go Movies™" />
-<meta property="og:url" content="https://gomovies.netlify/Hollywood/SuccessionS04-2023/SuccessionP1" />
+<meta property="og:url" content="https://gomovies.netlify.app/Hollywood/SuccessionS04-2023/SuccessionP1" />
 <meta property="og:image" content="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681682711/succession-s04-2023_bhepcw.webp" />
-<meta property="og:image:secure_url" content="https://gomovies.netlify/" />
+<meta property="og:image:secure_url" content="https://gomovies.netlify.app/" />
 <meta property="og:image:width" content="1280" />
 <meta property="og:image:height" content="720" />
 <meta name="twitter:card" content="summary" />
@@ -141,7 +141,7 @@ function DownloadSUS2({ movie }) {
 <meta name="twitter:image" content="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681682711/succession-s04-2023_bhepcw.webp" />
 <meta name="description" content="Watch Succession S04 Full Movie Online on Go Movies™, You can also download Succession S04 (2023) in full HD quality to watch later offline." />
 
-<link rel="canonical" href="https://gomovies.netlify/Hollywood/SuccessionS04-2023/" />  
+<link rel="canonical" href="https://gomovies.netlify.app/Hollywood/SuccessionS04-2023/" />  
        </Head>
 <Script src="../../propler/ads.js" defer />
 
@@ -151,7 +151,7 @@ function DownloadSUS2({ movie }) {
 
      
        <div className="flex flex-col items-center  justify-center space-y-12">
-<ShareButtons url="https://gomovies.netlify" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify/og_image.jpg" />
+<ShareButtons url="https://gomovies.netlify.app" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify.app/og_image.jpg" />
 <img src={movie.poster} alt={`Poster for ${movie.title}`} loading="lazy" className="scale-100 hover:scale-110 ease-in duration-500 cursor-pointer rounded-3xl " />
   <h2 className="text-blue-500  title-font mb-3 my-5 font-bold text-2xl ">
      DOWNLOAD {movie.title} (2023) </h2>

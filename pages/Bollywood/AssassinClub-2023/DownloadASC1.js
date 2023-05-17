@@ -50,12 +50,12 @@ function DownloadASC1({ movie }) {
         {
           "@type": "EntryPoint",
           "name": "Assassin Club (2023)",
-          "urlTemplate": "https://gomovies.netlify/Bollywood/AssassinClub-2023/AssassinClub"
+          "urlTemplate": "https://gomovies.netlify.app/Bollywood/AssassinClub-2023/AssassinClub"
         },
         {
           "@type": "EntryPoint",
           "name": "Assassin Club (2023)",
-          "urlTemplate": "https://gomovies.netlify/Bollywood/AssassinClub-2023/ASCSR1"
+          "urlTemplate": "https://gomovies.netlify.app/Bollywood/AssassinClub-2023/ASCSR1"
         }
       ]
     },
@@ -70,7 +70,7 @@ function DownloadASC1({ movie }) {
       {
         "@type": "Person",
         "name": "DrTrailer",
-        "url": "https://gomovies.netlify/DrTrailer.png"
+        "url": "https://gomovies.netlify.app/DrTrailer.png"
       }
     ],
     "publisher": {
@@ -78,7 +78,7 @@ function DownloadASC1({ movie }) {
       "name": "Go Movies",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://gomovies.netlify/og_image.jpg"
+        "url": "https://gomovies.netlify.app/og_image.jpg"
       }
     },
     "additionalProperty": {
@@ -101,7 +101,7 @@ function DownloadASC1({ movie }) {
     <Head>
      <title>Watch Assassin Club (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch assassin club movie,index of assassin club movie,assassin club movie 2023,assassin club movie online,watch assassin club movie online free,assassin club tv series,assassin club movie download,assassin club movie free download,assassin club movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch assassin club movie,index of assassin club movie,assassin club movie 2023,assassin club movie online,watch assassin club movie online free,assassin club tv series,assassin club movie download,assassin club movie free download,assassin club movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -109,9 +109,9 @@ function DownloadASC1({ movie }) {
 <meta property="og:site_name" content="Go Movies™ | Watch Movies, TV-Series & Sports Live Online Free" />
 <meta property="og:type" content="movie" />
 <meta property="og:title" content="Watch Assassin Club (2023) | Go Movies™" />
-<meta property="og:url" content="https://gomovies.netlify/Bollywood/AssassinClub-2023/AssassinClub" />
+<meta property="og:url" content="https://gomovies.netlify.app/Bollywood/AssassinClub-2023/AssassinClub" />
 <meta property="og:image" content="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1682771578/assassin-club-2023_fdn8kq.webp" />
-<meta property="og:image:secure_url" content="https://gomovies.netlify/" />
+<meta property="og:image:secure_url" content="https://gomovies.netlify.app/" />
 <meta property="og:image:width" content="1280" />
 <meta property="og:image:height" content="720" />
 <meta name="twitter:card" content="summary" />
@@ -119,7 +119,7 @@ function DownloadASC1({ movie }) {
 <meta name="twitter:image" content="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1682771578/assassin-club-2023_fdn8kq.webp" />
 <meta name="description" content="Watch One Day As A Lion Full Movie Online on Go Movies™, You can also download Assassin Club (2023) in full HD quality to watch later offline." />
 
-<link rel="canonical" href="https://gomovies.netlify/Bollywood/AssassinClub-2023/" />
+<link rel="canonical" href="https://gomovies.netlify.app/Bollywood/AssassinClub-2023/" />
        </Head>
 <Script src="../../propler/ads.js" defer />
 
@@ -129,7 +129,7 @@ function DownloadASC1({ movie }) {
 
      
   <div className="flex flex-col items-center  justify-center space-y-12">
-<ShareButtons url="https://gomovies.netlify" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify/og_image.jpg" />
+<ShareButtons url="https://gomovies.netlify.app" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify.app/og_image.jpg" />
 
 <img src={movie.banner} alt={`Banner for ${movie.title}`} loading="lazy" className=" rounded-3xl  mx-auto my-10 "  />
 

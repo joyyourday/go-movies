@@ -7,6 +7,7 @@ import styles from '@styles/video-player.module.css';
 import Max from 'pages/Max';
 import ShareButtons from '@components/ShareButtons';
 import Script from 'next/script';
+import Ads from '@components/Ads';
 
 
 
@@ -14,7 +15,19 @@ import Script from 'next/script';
 
 function RKPSR2({ movie }) {
   
+  const [showAd, setShowAd] = useState(false);
 
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setShowAd(true);
+    }, 5000);
+    return () => clearInterval(timer);
+  }, []);
+
+  const handleAdClose = () => {
+    setShowAd(false);
+  };
+  
   if (!movie) {
     return <div className="text-3xl text-red-600 text-center">Loading...</div>;
   }
@@ -105,7 +118,7 @@ function RKPSR2({ movie }) {
     <Head>
      <title>Watch Rikshawala Part 2 (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch rikshawala Part 2 movie,index of rikshawala Part 2 movie,rikshawala Part 2 movie 2023,rikshawala Part 2 movie online,watch rikshawala Part 2 movie online free,rikshawala Part 2 tv series,rikshawala Part 2 movie download,rikshawala Part 2 movie free download,rikshawala Part 2 movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch rikshawala Part 2 movie,index of rikshawala Part 2 movie,rikshawala Part 2 movie 2023,rikshawala Part 2 movie online,watch rikshawala Part 2 movie online free,rikshawala Part 2 tv series,rikshawala Part 2 movie download,rikshawala Part 2 movie free download,rikshawala Part 2 movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -127,7 +140,9 @@ function RKPSR2({ movie }) {
        </Head>
 <Script src="../../propler/ads.js" defer />
 
-       <div className="bg-gray-600 shadow ">
+      <div className="bg-gray-600 shadow ">
+
+
 
      
 
@@ -176,7 +191,8 @@ function RKPSR2({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-  <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.synopsis}</p>
+  <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
           
@@ -270,7 +286,7 @@ Download
 }
 
 export async function getServerSideProps() {
-  const res = await fetch('https://gomovies.netlify.app/movies.json                ');
+  const res = await fetch('https://gomovies.netlify.app/movies.json');
   const data = await res.json();
   const selectedMovie = data.find(movie => movie.id === 'RKP');
   return {

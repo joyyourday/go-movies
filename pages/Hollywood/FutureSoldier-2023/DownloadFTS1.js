@@ -101,7 +101,7 @@ function DownloadFTS1({ movie }) {
     <Head>
      <title>Watch Future Soldier (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch future soldier movie,index of future soldier movie,future soldier movie 2023,future soldier movie online,watch future soldier movie online free,future soldier tv series,future soldier movie download,future soldier movie free download,future soldier movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch future soldier movie,index of future soldier movie,future soldier movie 2023,future soldier movie online,watch future soldier movie online free,future soldier tv series,future soldier movie download,future soldier movie free download,future soldier movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -166,7 +166,7 @@ Please Share the Link.</h2>
 }
 
 export async function getServerSideProps() {
-  const res = await fetch('https://gomovies.netlify.app/movies.json                ');
+  const res = await fetch('https://gomovies.netlify.app/movies.json');
 
   const data = await res.json();
   const selectedMovie = data.find(movie => movie.id === 'FTS');

@@ -120,7 +120,7 @@ function DownloadPLB2({ movie }) {
       <Head>
      <title>Watch Plan B (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch plan b movie,index of plan b movie,plan b movie 2023,plan b movie online,watch plan b movie online free,plan b tv series,plan b movie download,plan b movie free download,plan b movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch plan b movie,index of plan b movie,plan b movie 2023,plan b movie online,watch plan b movie online free,plan b tv series,plan b movie download,plan b movie free download,plan b movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  

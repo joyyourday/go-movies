@@ -10,12 +10,27 @@ import Max from 'pages/Max';
 
 import ShareButtons from '@components/ShareButtons';
 import Script from 'next/script';
+import Ads from '@components/Ads';
 
 
 
 
 
 const KADSR2  = () => {
+
+  const [showAd, setShowAd] = useState(false);
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setShowAd(true);
+    }, 5000);
+    return () => clearInterval(timer);
+  }, []);
+
+  const handleAdClose = () => {
+    setShowAd(false);
+  };
+  
   useEffect(() => {
     const handleContextmenu = e => {
         e.preventDefault()
@@ -75,7 +90,7 @@ function togglePopup() {
      <Head>
      <title>Watch Kaand EP 2 (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch kaand movie,index of kaand movie,kaand movie 2023,kaand movie online,watch kaand movie online free,kaand tv series,kaand movie download,kaand movie free download,kaand movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch kaand movie,index of kaand movie,kaand movie 2023,kaand movie online,watch kaand movie online free,kaand tv series,kaand movie download,kaand movie free download,kaand movie download" />
 
 <meta property="og:locale" content="en_US" />   
 
@@ -101,6 +116,8 @@ function togglePopup() {
 <Script src="../../propler/ads.js" defer />
 
       <div className="bg-gray-600 ">
+
+
         
          <AdultSkipAds />
     <h1 className="mb-4 py-5 font-bold leading-none tracking-tight text-white  text-center md:text-2xl lg:text-3xl dark:text-white"  style={{ color: "#40D7BC", textShadow: "5px 5px 2px #000" }}>Watch Movies Kaand Episode 2 (2023) </h1>

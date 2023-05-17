@@ -76,7 +76,7 @@ function TBLSR1({ movie }) {
       <Head>
      <title>Watch The Blacklist (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch the blacklist movie,index of the blacklist movie,the blacklist movie 2023,the blacklist movie online,watch the blacklist movie online free,the blacklist tv series,the blacklist movie download,the blacklist movie free download,the blacklist movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch the blacklist movie,index of the blacklist movie,the blacklist movie 2023,the blacklist movie online,watch the blacklist movie online free,the blacklist tv series,the blacklist movie download,the blacklist movie free download,the blacklist movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -173,7 +173,8 @@ function TBLSR1({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-  <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.synopsis}</p>
+  <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
            <img  src={movie.poster} alt={`Poster for ${movie.title}`} className="mx-auto my-10 rounded-3xl  " />

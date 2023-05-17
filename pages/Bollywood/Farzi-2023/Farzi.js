@@ -75,7 +75,7 @@ function togglePopup() {
      <Head>
      <title>Watch Farzi (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch farzi movie,index of farzi movie,farzi movie 2023,farzi movie online,watch farzi movie online free,farzi tv series,farzi movie download,farzi movie free download,farzi movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch farzi movie,index of farzi movie,farzi movie 2023,farzi movie online,watch farzi movie online free,farzi tv series,farzi movie download,farzi movie free download,farzi movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  

@@ -101,7 +101,7 @@ function DownloadTBD1({ movie }) {
     <Head>
      <title>Watch The Black Demon (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch the black demon movie,index of the black demon movie,the black demon movie 2023,the black demon movie online,watch the black demon movie online free,the black demon tv series,the black demon movie download,the black demon movie free download,the black demon movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch the black demon movie,index of the black demon movie,the black demon movie 2023,the black demon movie online,watch the black demon movie online free,the black demon tv series,the black demon movie download,the black demon movie free download,the black demon movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -166,7 +166,7 @@ Please Share the Link.</h2>
 }
 
 export async function getServerSideProps() {
-  const res = await fetch('https://gomovies.netlify.app/movies.json                ');
+  const res = await fetch('https://gomovies.netlify.app/movies.json');
 
   const data = await res.json();
   const selectedMovie = data.find(movie => movie.id === 'TBD');

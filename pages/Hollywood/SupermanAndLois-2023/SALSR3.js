@@ -59,38 +59,38 @@ function SALSR3({ movie }) {
       {
         "@type": "TVEpisode",
         "name": "Superman And Lois S03 Episode 1",
-        "url": "https://gomovies.netlify/Hollywood/SupermanAndLois-2023/SALSR1"
+        "url": "https://gomovies.netlify.app/Hollywood/SupermanAndLois-2023/SALSR1"
       },
       {
         "@type": "TVEpisode",
         "name": "Superman And Lois S03 Episode 2",
-        "url": "https://gomovies.netlify/Hollywood/SupermanAndLois-2023/SALSR2"
+        "url": "https://gomovies.netlify.app/Hollywood/SupermanAndLois-2023/SALSR2"
       },
       {
         "@type": "TVEpisode",
         "name": "Superman And Lois S03 Episode 3",
-        "url": "https://gomovies.netlify/Hollywood/SupermanAndLois-2023/SALSR3"
+        "url": "https://gomovies.netlify.app/Hollywood/SupermanAndLois-2023/SALSR3"
       },
       {
         "@type": "TVEpisode",
         "name": "Superman And Lois S03 Episode 4",
-        "url": "https://gomovies.netlify/Hollywood/SupermanAndLois-2023/SALSR4"
+        "url": "https://gomovies.netlify.app/Hollywood/SupermanAndLois-2023/SALSR4"
       },
       {
         "@type": "TVEpisode",
         "name": "Superman And Lois S03 Episode 5",
-        "url": "https://gomovies.netlify/Hollywood/SupermanAndLois-2023/SALSR5"
+        "url": "https://gomovies.netlify.app/Hollywood/SupermanAndLois-2023/SALSR5"
       },
       {
         "@type": "TVEpisode",
         "name": "Superman And Lois S03 Episode 6",
-        "url": "https://gomovies.netlify/Hollywood/SupermanAndLois-2023/SALSR6"
+        "url": "https://gomovies.netlify.app/Hollywood/SupermanAndLois-2023/SALSR6"
       }
     ],
     "author": [{
       "@type": "Person",
       "name": "DrTrailer",
-      "url": "https://gomovies.netlify/DrTrailer.png"
+      "url": "https://gomovies.netlify.app/DrTrailer.png"
     }],
   
   "publisher": {
@@ -98,7 +98,7 @@ function SALSR3({ movie }) {
       "name": "Go Movies",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://gomovies.netlify/og_image.jpg"
+        "url": "https://gomovies.netlify.app/og_image.jpg"
       }
     },
     potentialAction: {
@@ -107,7 +107,7 @@ function SALSR3({ movie }) {
       target: {
         "@type": "EntryPoint",
         urlTemplate:
-          "https://gomovies.netlify/Hollywood/SupermanAndLois-2023/SupermanAndLoisP1",
+          "https://gomovies.netlify.app/Hollywood/SupermanAndLois-2023/SupermanAndLoisP1",
       },
     },
     "additionalProperty": {
@@ -132,7 +132,7 @@ function SALSR3({ movie }) {
       <Head>
      <title>Watch Superman and Lois S03 (2023) Full Movie Online Free | Go Movies™</title>
      <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch superman and lois s01 movie,index of superman and lois s01 movie,superman and lois s01 movie 2023,superman and lois s01 movie online,watch superman and lois s01 movie online free,superman and lois s01 tv series,superman and lois s01 movie download,superman and lois s01 movie free download,superman and lois s01 movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch superman and lois s01 movie,index of superman and lois s01 movie,superman and lois s01 movie 2023,superman and lois s01 movie online,watch superman and lois s01 movie online free,superman and lois s01 tv series,superman and lois s01 movie download,superman and lois s01 movie free download,superman and lois s01 movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -141,9 +141,9 @@ function SALSR3({ movie }) {
 <meta property="og:type" content="movie" />
 
 <meta property="og:title" content="Watch Superman and Lois S03 (2023) | Go Movies™" />
-<meta property="og:url" content="https://gomovies.netlify/Hollywood/SupermanAndLois-2023/SupermanAndLoisP1" />
+<meta property="og:url" content="https://gomovies.netlify.app/Hollywood/SupermanAndLois-2023/SupermanAndLoisP1" />
 <meta property="og:image" content="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681617046/superman_lois-2023_yqjsg4.webp" />
-<meta property="og:image:secure_url" content="https://gomovies.netlify/" />
+<meta property="og:image:secure_url" content="https://gomovies.netlify.app/" />
 <meta property="og:image:width" content="1280" />
 <meta property="og:image:height" content="720" />
 <meta name="twitter:card" content="summary" />
@@ -151,7 +151,7 @@ function SALSR3({ movie }) {
 <meta name="twitter:image" content="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681617046/superman_lois-2023_yqjsg4.webp" />
 <meta name="description" content="Watch Superman And Lois S03 Full Movie Online on Go Movies™, You can also download Superman and Lois S03 (2023) in full HD quality to watch later offline." />
 
-<link rel="canonical" href="https://gomovies.netlify/Hollywood/SupermanAndLois-2023/" />  
+<link rel="canonical" href="https://gomovies.netlify.app/Hollywood/SupermanAndLois-2023/" />  
        </Head>
 <Script src="../../propler/ads.js" defer />
  
@@ -166,7 +166,7 @@ function SALSR3({ movie }) {
       ></iframe>
            </div>  
            <h3 className="mb-9 text-bg  text-black-500 text-red-600 text-center xl:px-4 ">*Note: Pls Select the in the Player to Change your Language of your Choice and Setting  to Change the Quality of Video.</h3>
-<ShareButtons url="https://gomovies.netlify" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify/og_image.jpg" />
+<ShareButtons url="https://gomovies.netlify.app" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify.app/og_image.jpg" />
 
 
            <div className="grid grid-cols-1 mx-20 sm:grid-cols-2  x:grid-cols-3 gap-4">
@@ -221,7 +221,8 @@ function SALSR3({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-  <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.synopsis}</p>
+  <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
            <img  src={movie.poster} alt={`Poster for ${movie.title}`} className="mx-auto my-10 rounded-3xl  " />

@@ -108,7 +108,7 @@ function DownloadTTR1({ movie }) {
     <Head>
      <title>Watch The Tailor S01 (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch citadel s01 movie,index of citadel s01 movie,citadel s01 movie 2023,citadel s01  movie online,watch citadel s01 movie online free,citadel s01 tv series,citadel s01 movie download,citadel s01  movie free download,citadel s01 movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch citadel s01 movie,index of citadel s01 movie,citadel s01 movie 2023,citadel s01  movie online,watch citadel s01 movie online free,citadel s01 tv series,citadel s01 movie download,citadel s01  movie free download,citadel s01 movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -185,7 +185,7 @@ Please Share the Link.</h2>
 }
 
 export async function getServerSideProps() {
-  const res = await fetch('https://gomovies.netlify.app/movies.json                ');
+  const res = await fetch('https://gomovies.netlify.app/movies.json');
 
   const data = await res.json();
   const selectedMovie = data.find(movie => movie.id === 'TTR');

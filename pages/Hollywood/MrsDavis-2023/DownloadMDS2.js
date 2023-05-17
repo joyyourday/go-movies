@@ -56,39 +56,39 @@ function DownloadMDS2({ movie }) {
       {
         "@type": "TVEpisode",
         "name": "Mrs Davis  Episode 1",
-        "url": "https://gomovies.netlify/Hollywood/MrsDavis-2023/MDSSR1"
+        "url": "https://gomovies.netlify.app/Hollywood/MrsDavis-2023/MDSSR1"
       },
       {
         "@type": "TVEpisode",
         "name": "Mrs Davis  Episode 2",
-        "url": "https://gomovies.netlify/Hollywood/MrsDavis-2023/MDSSR2"
+        "url": "https://gomovies.netlify.app/Hollywood/MrsDavis-2023/MDSSR2"
       },
       {
         "@type": "TVEpisode",
         "name": "Mrs Davis  Episode 3",
-        "url": "https://gomovies.netlify/Hollywood/MrsDavis-2023/MDSSR3"
+        "url": "https://gomovies.netlify.app/Hollywood/MrsDavis-2023/MDSSR3"
       },
       {
         "@type": "TVEpisode",
         "name": "Mrs Davis  Episode 4",
-        "url": "https://gomovies.netlify/Hollywood/MrsDavis-2023/MDSSR4"
+        "url": "https://gomovies.netlify.app/Hollywood/MrsDavis-2023/MDSSR4"
       },
       {
         "@type": "TVEpisode",
         "name": "Mrs Davis  Episode 5",
-        "url": "https://gomovies.netlify/Hollywood/MrsDavis-2023/MDSSR5"
+        "url": "https://gomovies.netlify.app/Hollywood/MrsDavis-2023/MDSSR5"
       },
       {
         "@type": "TVEpisode",
         "name": "Mrs Davis  Episode 6",
-        "url": "https://gomovies.netlify/Hollywood/MrsDavis-2023/MDSSR6"
+        "url": "https://gomovies.netlify.app/Hollywood/MrsDavis-2023/MDSSR6"
       },
      
     ],
     "author": [{
       "@type": "Person",
       "name": "DrTrailer",
-      "url": "https://gomovies.netlify/DrTrailer.png"
+      "url": "https://gomovies.netlify.app/DrTrailer.png"
     }],
   
   "publisher": {
@@ -96,7 +96,7 @@ function DownloadMDS2({ movie }) {
       "name": "Go Movies",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://gomovies.netlify/og_image.jpg"
+        "url": "https://gomovies.netlify.app/og_image.jpg"
       }
     },
     potentialAction: {
@@ -105,7 +105,7 @@ function DownloadMDS2({ movie }) {
       target: {
         "@type": "EntryPoint",
         urlTemplate:
-          "https://gomovies.netlify/Hollywood/MrsDavis-2023/MrsDavisP1",
+          "https://gomovies.netlify.app/Hollywood/MrsDavis-2023/MrsDavisP1",
       },
     },
     "additionalProperty": {
@@ -129,7 +129,7 @@ function DownloadMDS2({ movie }) {
       <Head>
      <title>Watch Mrs Davis (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch Mrs Davis  movie,index of Mrs Davis  movie,Mrs Davis  movie 2023,Mrs Davis  movie online,watch Mrs Davis   movie online free,Mrs Davis  tv series,Mrs Davis  movie download,Mrs Davis  movie free download,Mrs Davis  movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch Mrs Davis  movie,index of Mrs Davis  movie,Mrs Davis  movie 2023,Mrs Davis  movie online,watch Mrs Davis   movie online free,Mrs Davis  tv series,Mrs Davis  movie download,Mrs Davis  movie free download,Mrs Davis  movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -137,9 +137,9 @@ function DownloadMDS2({ movie }) {
 <meta property="og:site_name" content="Go Movies™ | Watch Movies, TV-Series & Sports Live Online Free" />
 <meta property="og:type" content="movie" />
 <meta property="og:title" content="Watch Mrs Davis (2023) | Go Movies™" />
-<meta property="og:url" content="https://gomovies.netlify/Hollywood/MrsDavis-2023/MrsDavisP1" />
+<meta property="og:url" content="https://gomovies.netlify.app/Hollywood/MrsDavis-2023/MrsDavisP1" />
 <meta property="og:image" content="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1682204324/mrs-davis-2023_e5rojx.webp" />
-<meta property="og:image:secure_url" content="https://gomovies.netlify/" />
+<meta property="og:image:secure_url" content="https://gomovies.netlify.app/" />
 <meta property="og:image:width" content="1280" />
 <meta property="og:image:height" content="720" />
 <meta name="twitter:card" content="summary" />
@@ -147,7 +147,7 @@ function DownloadMDS2({ movie }) {
 <meta name="twitter:image" content="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1682204324/mrs-davis-2023_e5rojx.webp" />
 <meta name="description" content="Watch Mrs Davis  Full Movie Online on Go Movies™, You can also download Mrs Davis (2023) in full HD quality to watch later offline." />
 
-<link rel="canonical" href="https://gomovies.netlify/Hollywood/MrsDavis-2023/" />
+<link rel="canonical" href="https://gomovies.netlify.app/Hollywood/MrsDavis-2023/" />
        </Head>
 <Script src="../../propler/ads.js" defer />
 
@@ -157,7 +157,7 @@ function DownloadMDS2({ movie }) {
 
      
        <div className="flex flex-col items-center  justify-center space-y-12">
-<ShareButtons url="https://gomovies.netlify" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify/og_image.jpg" />
+<ShareButtons url="https://gomovies.netlify.app" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify.app/og_image.jpg" />
 <img src={movie.poster} alt={`Poster for ${movie.title}`} loading="lazy" className="scale-100 hover:scale-110 ease-in duration-500 cursor-pointer rounded-3xl " />
   <h2 className="text-blue-500  title-font mb-3 my-5 font-bold text-2xl ">
      DOWNLOAD {movie.title} (2023) </h2>
@@ -224,7 +224,7 @@ Please Share the Link.</h2>
 }
 
 export async function getServerSideProps() {
-  const res = await fetch('https://gomovies.netlify/movies.json');
+  const res = await fetch('https://gomovies.netlify.app/movies.json');
 
   const data = await res.json();
   const selectedMovie = data.find(movie => movie.id === 'MDS');

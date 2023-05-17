@@ -8,6 +8,7 @@ import styles from '@styles/video-player.module.css';
 import Max from 'pages/Max';
 import ShareButtons from '@components/ShareButtons';
 import Script from 'next/script';
+import Ads from '@components/Ads';
 
 
 
@@ -106,7 +107,7 @@ function DEKSR1({ movie }) {
     <Head>
      <title>Watch Desi kisse (Jaanch Padtaal) Part 1 (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch desi kisse movie,index of desi kisse movie,desi kisse movie 2023,desi kisse movie online,watch desi kisse movie online free,desi kisse tv series,desi kisse movie download,desi kisse movie free download,desi kisse movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch desi kisse movie,index of desi kisse movie,desi kisse movie 2023,desi kisse movie online,watch desi kisse movie online free,desi kisse tv series,desi kisse movie download,desi kisse movie free download,desi kisse movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -128,7 +129,9 @@ function DEKSR1({ movie }) {
        </Head>
 <Script src="../../propler/ads.js" defer />
 
-       <div className="bg-gray-600 shadow ">
+      <div className="bg-gray-600 shadow ">
+
+
        <AdultSkipAds/>
 
        <h1 className="flex flex-col text-center py-5 font-bold text-3xl items-center justify-center" style={{ color: "#40D7BC", textShadow: "5px 5px 2px #000" }}>{movie.title} </h1>
@@ -157,7 +160,8 @@ function DEKSR1({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-  <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.synopsis}</p>
+  <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
           
@@ -254,7 +258,7 @@ Download
 }
 
 export async function getServerSideProps() {
-  const res = await fetch('https://gomovies.netlify.app/movies.json                ');
+  const res = await fetch('https://gomovies.netlify.app/movies.json');
 
   const data = await res.json();
   const selectedMovie = data.find(movie => movie.id === 'DEK');

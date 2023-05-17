@@ -10,12 +10,26 @@ import Max from 'pages/Max';
 
 import ShareButtons from '@components/ShareButtons';
 import Script from 'next/script';
+import Ads from '@components/Ads';
 
 
 
 
 
 const MissBriganaza  = () => {
+  const [showAd, setShowAd] = useState(false);
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setShowAd(true);
+    }, 5000);
+    return () => clearInterval(timer);
+  }, []);
+
+  const handleAdClose = () => {
+    setShowAd(false);
+  };
+  
   useEffect(() => {
     const handleContextmenu = e => {
         e.preventDefault()
@@ -75,7 +89,7 @@ function togglePopup() {
      <Head>
      <title>Watch Miss Briganaza (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch miss briganaza movie,index of miss briganaza movie,miss briganaza movie 2023,miss briganaza movie online,watch miss briganaza movie online free,miss briganaza tv series,miss briganaza movie download,miss briganaza movie free download,miss briganaza movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch miss briganaza movie,index of miss briganaza movie,miss briganaza movie 2023,miss briganaza movie online,watch miss briganaza movie online free,miss briganaza tv series,miss briganaza movie download,miss briganaza movie free download,miss briganaza movie download" />
 
 <meta property="og:locale" content="en_US" />   
 
@@ -102,6 +116,8 @@ function togglePopup() {
 <Script src="../../propler/ads.js" defer />
 
       <div className="bg-gray-600 ">
+
+
 
         
         <AdultSkipAds />

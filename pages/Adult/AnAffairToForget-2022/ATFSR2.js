@@ -8,6 +8,7 @@ import AdultSkipAds from '@components/AdultSkipAds'
 import Max from 'pages/Max';
 import ShareButtons from '@components/ShareButtons';
 import Script from 'next/script';
+import Ads from '@components/Ads';
 
 
 
@@ -15,6 +16,21 @@ import Script from 'next/script';
 
 
 const ATFSR2  = () => {
+
+  const [showAd, setShowAd] = useState(false);
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setShowAd(true);
+    }, 5000);
+    return () => clearInterval(timer);
+  }, []);
+
+  const handleAdClose = () => {
+    setShowAd(false);
+  };
+
+
   useEffect(() => {
     const handleContextmenu = e => {
         e.preventDefault()
@@ -73,7 +89,7 @@ function togglePopup() {
      <Head>
      <title>Watch An Affair To Forget - 2023 Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch an affair to forget movie,index of an affair to forget movie,an affair to forget movie 2023,an affair to forget movie online,watch an affair to forget movie online free,an affair to forget tv series,an affair to forget movie download,an affair to forget movie free download,an affair to forget movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch an affair to forget movie,index of an affair to forget movie,an affair to forget movie 2023,an affair to forget movie online,watch an affair to forget movie online free,an affair to forget tv series,an affair to forget movie download,an affair to forget movie free download,an affair to forget movie download" />
 
 <meta property="og:locale" content="en_US" />   
 
@@ -102,6 +118,8 @@ function togglePopup() {
 
       
       <div className="bg-gray-600 ">
+
+
     <AdultSkipAds />
     <h1 className="mb-4 py-5 font-bold leading-none tracking-tight text-white  text-center md:text-2xl lg:text-3xl dark:text-white"  style={{ color: "#40D7BC", textShadow: "5px 5px 2px #000" }}>Watch An Affair to Forget  - 2023 </h1>
 

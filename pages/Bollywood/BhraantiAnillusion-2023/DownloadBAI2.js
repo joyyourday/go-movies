@@ -101,7 +101,7 @@ function DownloadBAI2({ movie }) {
     <Head>
      <title>Watch Bhraanti An illusion (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch bhraanti an illusion movie,index of bhraanti an illusion movie,bhraanti an illusion movie 2023,bhraanti an illusion movie online,watch bhraanti an illusion movie online free,bhraanti an illusion tv series,bhraanti an illusion movie download,bhraanti an illusion movie free download,bhraanti an illusion movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch bhraanti an illusion movie,index of bhraanti an illusion movie,bhraanti an illusion movie 2023,bhraanti an illusion movie online,watch bhraanti an illusion movie online free,bhraanti an illusion tv series,bhraanti an illusion movie download,bhraanti an illusion movie free download,bhraanti an illusion movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -167,7 +167,7 @@ Please Share the Link.</h2>
 }
 
 export async function getServerSideProps() {
-  const res = await fetch('https://gomovies.netlify.app/movies.json                ');
+  const res = await fetch('https://gomovies.netlify.app/movies.json');
 
   const data = await res.json();
   const selectedMovie = data.find(movie => movie.id === 'BAI');

@@ -4,6 +4,7 @@ import React, { useEffect, useState } from 'react';
 import Max from 'pages/Max';
 import ShareButtons from '@components/ShareButtons';
 import Script from 'next/script';
+import Ads from '@components/Ads';
 
 
 import AdultSkipAds from '@components/AdultSkipAds'
@@ -11,6 +12,18 @@ import AdultSkipAds from '@components/AdultSkipAds'
 
 function DownloadDOT2({ movie }) {
   
+  const [showAd, setShowAd] = useState(false);
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setShowAd(true);
+    }, 5000);
+    return () => clearInterval(timer);
+  }, []);
+
+  const handleAdClose = () => {
+    setShowAd(false);
+  };
 
   if (!movie) {
     return <div className="text-3xl text-red-600 text-center">Loading...</div>;
@@ -102,7 +115,7 @@ function DownloadDOT2({ movie }) {
     <Head>
      <title>Watch Dosti S01 (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch dosit s01 movie,index of dosit s01 movie,dosit s01 movie 2023,dosit s01 movie online,watch dosit s01 movie online free,dosit s01 tv series,dosit s01 movie download,dosit s01 movie free download,dosit s01 movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch dosit s01 movie,index of dosit s01 movie,dosit s01 movie 2023,dosit s01 movie online,watch dosit s01 movie online free,dosit s01 tv series,dosit s01 movie download,dosit s01 movie free download,dosit s01 movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -124,7 +137,9 @@ function DownloadDOT2({ movie }) {
        </Head>
 <Script src="../../propler/ads.js" defer />
 
-       <div className="bg-gray-600 shadow ">
+      <div className="bg-gray-600 shadow ">
+
+
        <AdultSkipAds/>
 
 
@@ -183,7 +198,7 @@ Please Share the Link.</h2>
 }
 
 export async function getServerSideProps() {
-  const res = await fetch('https://gomovies.netlify.app/movies.json                ');
+  const res = await fetch('https://gomovies.netlify.app/movies.json');
 
   const data = await res.json();
   const selectedMovie = data.find(movie => movie.id === 'DOT');

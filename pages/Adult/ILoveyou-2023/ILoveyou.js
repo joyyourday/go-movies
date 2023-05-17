@@ -10,12 +10,27 @@ import Max from 'pages/Max';
 
 import ShareButtons from '@components/ShareButtons';
 import Script from 'next/script';
+import Ads from '@components/Ads';
 
 
 
 
 
 const ILoveyou  = () => {
+
+  const [showAd, setShowAd] = useState(false);
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setShowAd(true);
+    }, 5000);
+    return () => clearInterval(timer);
+  }, []);
+
+  const handleAdClose = () => {
+    setShowAd(false);
+  };
+
   useEffect(() => {
     const handleContextmenu = e => {
         e.preventDefault()
@@ -75,7 +90,7 @@ function togglePopup() {
      <Head>
      <title>Watch I Love You P2 (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch i love you movie,index of i love you movie,i love you movie 2023,i love you movie online,watch i love you movie online free,i love you tv series,i love you movie download,i love you movie free download,i love you movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch i love you movie,index of i love you movie,i love you movie 2023,i love you movie online,watch i love you movie online free,i love you tv series,i love you movie download,i love you movie free download,i love you movie download" />
 
 <meta property="og:locale" content="en_US" />   
 
@@ -102,6 +117,8 @@ function togglePopup() {
 <Script src="../../propler/ads.js" defer />
 
       <div className="bg-gray-600 ">
+
+
 
         
         <AdultSkipAds />

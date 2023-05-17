@@ -76,7 +76,7 @@ function GangsofLagos({ movie }) {
     <Head>
      <title>Watch Gangs of Lagos (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch gangs of lagos movie,index of gangs of lagos movie,gangs of lagos movie 2023,gangs of lagos movie online,watch gangs of lagos movie online free,gangs of lagos tv series,gangs of lagos movie download,gangs of lagos movie free download,gangs of lagos movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch gangs of lagos movie,index of gangs of lagos movie,gangs of lagos movie 2023,gangs of lagos movie online,watch gangs of lagos movie online free,gangs of lagos tv series,gangs of lagos movie download,gangs of lagos movie free download,gangs of lagos movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  

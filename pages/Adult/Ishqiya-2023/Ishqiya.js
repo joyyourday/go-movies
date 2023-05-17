@@ -10,11 +10,26 @@ import Max from 'pages/Max';
 
 import ShareButtons from '@components/ShareButtons';
 import Script from 'next/script';
+import Ads from '@components/Ads';
 
 
 
 
 const Ishqiya  = () => {
+
+  const [showAd, setShowAd] = useState(false);
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setShowAd(true);
+    }, 5000);
+    return () => clearInterval(timer);
+  }, []);
+
+  const handleAdClose = () => {
+    setShowAd(false);
+  };
+  
   useEffect(() => {
     const handleContextmenu = e => {
         e.preventDefault()
@@ -74,7 +89,7 @@ function togglePopup() {
      <Head>
      <title>Watch Ishqiya (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch ishqiya movie,index of ishqiya movie,ishqiya movie 2023,ishqiya movie online,watch ishqiya movie online free,ishqiya tv series,ishqiya movie download,ishqiya movie free download,ishqiya movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch ishqiya movie,index of ishqiya movie,ishqiya movie 2023,ishqiya movie online,watch ishqiya movie online free,ishqiya tv series,ishqiya movie download,ishqiya movie free download,ishqiya movie download" />
 
 <meta property="og:locale" content="en_US" />   
 
@@ -101,6 +116,8 @@ function togglePopup() {
 <Script src="../../propler/ads.js" defer />
 
       <div className="bg-gray-600 ">
+
+
 
         
         <AdultSkipAds />

@@ -4,6 +4,7 @@ import React, { useEffect, useState } from 'react';
 import Max from 'pages/Max';
 import ShareButtons from '@components/ShareButtons';
 import Script from 'next/script';
+import Ads from '@components/Ads';
 
 
 import AdultSkipAds from '@components/AdultSkipAds'
@@ -102,7 +103,7 @@ function DownloadDEK2({ movie }) {
     <Head>
      <title>Watch Desi kisse (Jaanch Padtaal) Part 1 (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch desi kisse movie,index of desi kisse movie,desi kisse movie 2023,desi kisse movie online,watch desi kisse movie online free,desi kisse tv series,desi kisse movie download,desi kisse movie free download,desi kisse movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch desi kisse movie,index of desi kisse movie,desi kisse movie 2023,desi kisse movie online,watch desi kisse movie online free,desi kisse tv series,desi kisse movie download,desi kisse movie free download,desi kisse movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -124,7 +125,9 @@ function DownloadDEK2({ movie }) {
        </Head>
 <Script src="../../propler/ads.js" defer />
 
-       <div className="bg-gray-600 shadow ">
+      <div className="bg-gray-600 shadow ">
+
+
        <AdultSkipAds/>
 
 
@@ -170,7 +173,7 @@ Please Share the Link.</h2>
 }
 
 export async function getServerSideProps() {
-  const res = await fetch('https://gomovies.netlify.app/movies.json                ');
+  const res = await fetch('https://gomovies.netlify.app/movies.json');
 
   const data = await res.json();
   const selectedMovie = data.find(movie => movie.id === 'DEK');

@@ -102,7 +102,7 @@ function DownloadKBK2({ movie }) {
     <Head>
      <title>Watch Kisi Ka Bhai Kisi Ki Jaan (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch kisi ka bhai kisi ki jaan movie,index of kisi ka bhai kisi ki jaan movie,kisi ka bhai kisi ki jaan movie 2023,kisi ka bhai kisi ki jaan movie online,watch kisi ka bhai kisi ki jaan movie online free,kisi ka bhai kisi ki jaan tv series,kisi ka bhai kisi ki jaan movie download,kisi ka bhai kisi ki jaan movie free download,kisi ka bhai kisi ki jaan movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch kisi ka bhai kisi ki jaan movie,index of kisi ka bhai kisi ki jaan movie,kisi ka bhai kisi ki jaan movie 2023,kisi ka bhai kisi ki jaan movie online,watch kisi ka bhai kisi ki jaan movie online free,kisi ka bhai kisi ki jaan tv series,kisi ka bhai kisi ki jaan movie download,kisi ka bhai kisi ki jaan movie free download,kisi ka bhai kisi ki jaan movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  

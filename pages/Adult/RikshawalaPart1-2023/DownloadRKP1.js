@@ -93,7 +93,7 @@ function DownloadRKP1({ movie }) {
     <Head>
      <title>Watch Rikshawala Part 1 (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch Rikshawala movie,index of Rikshawala movie,Rikshawala movie 2023,Rikshawala movie online,watch Rikshawala movie online free,Rikshawala tv series,Rikshawala movie download,Rikshawala movie free download,Rikshawala movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch Rikshawala movie,index of Rikshawala movie,Rikshawala movie 2023,Rikshawala movie online,watch Rikshawala movie online free,Rikshawala tv series,Rikshawala movie download,Rikshawala movie free download,Rikshawala movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  

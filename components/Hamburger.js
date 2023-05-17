@@ -14,7 +14,7 @@ export default function Home() {
         <div>
             <div className="flex items-center justify-between py-3 md:py-5 md:block">
            
-          <img src='/logo.png' alt='Logo' width={750} height={121} className="rounded "/>
+          <img src='/logo.png' alt='Logo' width={750} height={121} className="rounded-3xl "/>
               <a href="/">
                 
               </a>

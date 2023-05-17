@@ -72,7 +72,7 @@ function togglePopup() {
      <Head>
      <title>Watch The Rig (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch the rig movie,index of the rig movie,the rig movie 2023,the rig movie online,watch the rig movie online free,the rig tv series,the rig movie download,the rig movie free download,the rig movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch the rig movie,index of the rig movie,the rig movie 2023,the rig movie online,watch the rig movie online free,the rig tv series,the rig movie download,the rig movie free download,the rig movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  

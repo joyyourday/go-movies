@@ -101,7 +101,7 @@ function DownloadODL2({ movie }) {
     <Head>
      <title>Watch One Day As A Lion (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch one day as a lion movie,index of one day as a lion movie,one day as a lion movie 2023,one day as a lion movie online,watch one day as a lion movie online free,one day as a lion tv series,one day as a lion movie download,one day as a lion movie free download,one day as a lion movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch one day as a lion movie,index of one day as a lion movie,one day as a lion movie 2023,one day as a lion movie online,watch one day as a lion movie online free,one day as a lion tv series,one day as a lion movie download,one day as a lion movie free download,one day as a lion movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  

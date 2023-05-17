@@ -72,7 +72,7 @@ function togglePopup() {
      <Head>
      <title>Watch The Weapon (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch the weapon movie,index of the weapon movie,the weapon movie 2023,the weapon movie online,watch the weapon movie online free,the weapon tv series,the weapon movie download,the weapon movie free download,the weapon movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch the weapon movie,index of the weapon movie,the weapon movie 2023,the weapon movie online,watch the weapon movie online free,the weapon tv series,the weapon movie download,the weapon movie free download,the weapon movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  

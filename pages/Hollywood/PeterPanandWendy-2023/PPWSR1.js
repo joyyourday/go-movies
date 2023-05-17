@@ -64,12 +64,12 @@ function PPWSR1({ movie }) {
         {
           "@type": "EntryPoint",
           "name": "Peter Pan and Wendy (2023)",
-          "urlTemplate": "https://gomovies.netlify/Hollywood/PeterPanandWendy-2023/PeterPanandWendy"
+          "urlTemplate": "https://gomovies.netlify.app/Hollywood/PeterPanandWendy-2023/PeterPanandWendy"
         },
         {
           "@type": "EntryPoint",
           "name": "Peter Pan and Wendy (2023)",
-          "urlTemplate": "https://gomovies.netlify/Hollywood/PeterPanandWendy-2023/PPWSR1"
+          "urlTemplate": "https://gomovies.netlify.app/Hollywood/PeterPanandWendy-2023/PPWSR1"
         }
       ]
     },
@@ -84,7 +84,7 @@ function PPWSR1({ movie }) {
       {
         "@type": "Person",
         "name": "DrTrailer",
-        "url": "https://gomovies.netlify/DrTrailer.png"
+        "url": "https://gomovies.netlify.app/DrTrailer.png"
       }
     ],
     "publisher": {
@@ -92,7 +92,7 @@ function PPWSR1({ movie }) {
       "name": "Go Movies",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://gomovies.netlify/og_image.jpg"
+        "url": "https://gomovies.netlify.app/og_image.jpg"
       }
     },
     "additionalProperty": {
@@ -115,7 +115,7 @@ function PPWSR1({ movie }) {
     <Head>
      <title>Watch Peter Pan and Wendy (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch peter pan and wendy movie,index of peter pan and wendy movie,peter pan and wendy movie 2023,peter pan and wendy movie online,watch peter pan and wendy movie online free,peter pan and wendy tv series,peter pan and wendy movie download,peter pan and wendy movie free download,peter pan and wendy movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch peter pan and wendy movie,index of peter pan and wendy movie,peter pan and wendy movie 2023,peter pan and wendy movie online,watch peter pan and wendy movie online free,peter pan and wendy tv series,peter pan and wendy movie download,peter pan and wendy movie free download,peter pan and wendy movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -123,9 +123,9 @@ function PPWSR1({ movie }) {
 <meta property="og:site_name" content="Go Movies™ | Watch Movies, TV-Series & Sports Live Online Free" />
 <meta property="og:type" content="movie" />
 <meta property="og:title" content="Watch Peter Pan and Wendy (2023) | Go Movies™" />
-<meta property="og:url" content="https://gomovies.netlify/Hollywood/PeterPanandWendy-2023/PeterPanandWendy" />
+<meta property="og:url" content="https://gomovies.netlify.app/Hollywood/PeterPanandWendy-2023/PeterPanandWendy" />
 <meta property="og:image" content="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1682842220/peter-pan-and-wendy-2023_fkliec.webp" />
-<meta property="og:image:secure_url" content="https://gomovies.netlify/" />
+<meta property="og:image:secure_url" content="https://gomovies.netlify.app/" />
 <meta property="og:image:width" content="1280" />
 <meta property="og:image:height" content="720" />
 <meta name="twitter:card" content="summary" />
@@ -133,7 +133,7 @@ function PPWSR1({ movie }) {
 <meta name="twitter:image" content="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1682842220/peter-pan-and-wendy-2023_fkliec.webp" />
 <meta name="description" content="Watch One Day As A Lion Full Movie Online on Go Movies™, You can also download Peter Pan and Wendy (2023) in full HD quality to watch later offline." />
 
-<link rel="canonical" href="https://gomovies.netlify/Hollywood/PeterPanandWendy-2023/" />
+<link rel="canonical" href="https://gomovies.netlify.app/Hollywood/PeterPanandWendy-2023/" />
        </Head>
 <Script src="../../propler/ads.js" defer />
 
@@ -151,7 +151,7 @@ function PPWSR1({ movie }) {
       ></iframe>
            </div>  
            <h3 className="mb-9 text-bg  text-black-500 text-red-600 text-center xl:px-4 ">*Note: Pls Select the in the Player to Change your Language of your Choice and Setting  to Change the Quality of Video.</h3>
-<ShareButtons url="https://gomovies.netlify" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify/og_image.jpg" />
+<ShareButtons url="https://gomovies.netlify.app" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify.app/og_image.jpg" />
 
 
        
@@ -167,7 +167,8 @@ function PPWSR1({ movie }) {
         <li>Director: {movie.director}</li>
         <li>Country: {movie.country}</li>
         <li>Genre: {movie.genre}</li>
-  <p className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>Synopsis:{movie.synopsis}</p>
+  <h2>Synopsis :</h2>
+<h2 className="flex container flex-col items-center justify-center space-y-3 text-xl font-bold text-center text-text-white"style={{ textShadow: "0px 0px 2px #000" }}>{movie.synopsis}</h2>
       </ul>
      
            

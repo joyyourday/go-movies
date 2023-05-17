@@ -4,6 +4,7 @@ import React, { useEffect, useState } from 'react';
 import Max from 'pages/Max';
 import ShareButtons from '@components/ShareButtons';
 import Script from 'next/script';
+import Ads from '@components/Ads';
 
 
 import AdultSkipAds from '@components/AdultSkipAds'
@@ -11,6 +12,18 @@ import AdultSkipAds from '@components/AdultSkipAds'
 
 function DownloadPTL1({ movie }) {
   
+  const [showAd, setShowAd] = useState(false);
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setShowAd(true);
+    }, 5000);
+    return () => clearInterval(timer);
+  }, []);
+
+  const handleAdClose = () => {
+    setShowAd(false);
+  };
 
   if (!movie) {
     return <div className="text-3xl text-red-600 text-center">Loading...</div>;
@@ -102,7 +115,7 @@ function DownloadPTL1({ movie }) {
     <Head>
      <title>Watch Pantaxa Laiya (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch pantaxa laiya movie,index of pantaxa laiya movie,pantaxa laiya movie 2023,pantaxa laiya movie online,watch pantaxa laiya movie online free,pantaxa laiya tv series,pantaxa laiya movie download,pantaxa laiya movie free download,pantaxa laiya movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch pantaxa laiya movie,index of pantaxa laiya movie,pantaxa laiya movie 2023,pantaxa laiya movie online,watch pantaxa laiya movie online free,pantaxa laiya tv series,pantaxa laiya movie download,pantaxa laiya movie free download,pantaxa laiya movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -124,7 +137,9 @@ function DownloadPTL1({ movie }) {
        </Head>
 <Script src="../../propler/ads.js" defer />
 
-       <div className="bg-gray-600 shadow ">
+      <div className="bg-gray-600 shadow ">
+
+
        <AdultSkipAds/>
 
 
@@ -169,7 +184,7 @@ Please Share the Link.</h2>
 }
 
 export async function getServerSideProps() {
-  const res = await fetch('https://gomovies.netlify.app/movies.json                ');
+  const res = await fetch('https://gomovies.netlify.app/movies.json');
 
   const data = await res.json();
   const selectedMovie = data.find(movie => movie.id === 'PTL');

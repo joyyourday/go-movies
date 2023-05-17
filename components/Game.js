@@ -9,7 +9,7 @@ const Game = () => {
 
   useEffect(() => {
     const fetchData = async () => {
-      const response = await fetch('https://Go Movies.vercel.app/sports.json');
+      const response = await fetch('https://uwatchfree.vercel.app/sports.json');
       
       const data = await response.json();
       setSports(data);

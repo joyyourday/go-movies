@@ -99,7 +99,7 @@ function DownloadKJM1({ movie }) {
     <Head>
      <title>Watch Kanjoos Makhichoos (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch kanjoos makhichoos movie,index of kanjoos makhichoos movie,kanjoos makhichoos movie 2023,kanjoos makhichoos movie online,watch kanjoos makhichoos movie online free,kanjoos makhichoos tv series,kanjoos makhichoos movie download,kanjoos makhichoos movie free download,kanjoos makhichoos movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch kanjoos makhichoos movie,index of kanjoos makhichoos movie,kanjoos makhichoos movie 2023,kanjoos makhichoos movie online,watch kanjoos makhichoos movie online free,kanjoos makhichoos tv series,kanjoos makhichoos movie download,kanjoos makhichoos movie free download,kanjoos makhichoos movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  

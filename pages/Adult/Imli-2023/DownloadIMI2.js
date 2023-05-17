@@ -1,18 +1,33 @@
 
 import AdultSkipAds from '@components/AdultSkipAds'
 import Max from 'pages/Max';
-
+import React, { useEffect, useState } from 'react';
 import ShareButtons from '@components/ShareButtons';
 import Script from 'next/script';
+import Ads from '@components/Ads';
 
 
 import Head from "next/head"
 import Image from 'next/image';
 
 const DownloadIMI2 = () => {
+  const [showAd, setShowAd] = useState(false);
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setShowAd(true);
+    }, 5000);
+    return () => clearInterval(timer);
+  }, []);
+
+  const handleAdClose = () => {
+    setShowAd(false);
+  };
   return (
     <div>
            <div className="bg-gray-600 ">
+
+
   <Head>
     
   

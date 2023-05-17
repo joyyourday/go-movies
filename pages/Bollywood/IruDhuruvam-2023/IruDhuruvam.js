@@ -77,7 +77,7 @@ function togglePopup() {
      <Head>
      <title>Watch Iru Dhuruvam (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Go Movies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch iru dhuruvam movie,index of iru dhuruvam movie,iru dhuruvam movie 2023,iru dhuruvam movie online,watch iru dhuruvam movie online free,iru dhuruvam tv series,iru dhuruvam movie download,iru dhuruvam movie free download,iru dhuruvam movie download" />
+<meta name="keywords" content="gomovies,watch free movies,full movie online free,hd movies,movie 2023,latest movie,dubbed movies,free movie download,watch iru dhuruvam movie,index of iru dhuruvam movie,iru dhuruvam movie 2023,iru dhuruvam movie online,watch iru dhuruvam movie online free,iru dhuruvam tv series,iru dhuruvam movie download,iru dhuruvam movie free download,iru dhuruvam movie download" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
