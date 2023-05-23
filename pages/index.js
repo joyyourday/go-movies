@@ -109,7 +109,7 @@ const LandingPage = () => {
       <meta name="google-site-verification" content="4dFu4PUk1pc1IYqU6Brt84akCwNxaoUpKSO3gDW0kJ0" />
         <meta name="description" content="Go Movies™ - Watch Movies, TV-Series & Sports Live Online Free" />
       <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-      <meta name="keywords" content="gomovies,streaming,latest movies,online tv,latest free movies,watch latest movies online" />
+      <meta name="keywords" content="gomovies,new movies 2023,latest movie releases 2023,watch 2023 movies online,new releases in 2023,online movie streaming,free movie streaming,watch movies online,HD movies online,new movie releases,stream movies for free,top-rated movies,popular movies online,latest movie trailers,watch movies in HD,best movies of 2023,2023 movie trailers,free streaming of 2023 movies,HD movies 2023 online,new releases in 2023" />
 	     <meta property="og:locale" content="en_US" /> 
       <meta property="og:locale" content="en_US" />   
       <meta property=" Content-Security-Policy: frame-ancestors 'self' gomovies.netlify.app *.gomovies.netlify.app;" />

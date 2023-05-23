@@ -115,7 +115,7 @@ function SIDSR1({ movie }) {
     <Head>
      <title>Watch Sid Is Dead (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="gomovies,sid is dead movie,sid is dead 2023,index of sid is dead movie,sid is dead cast,sid is dead trailer,sid is dead release date,sid is dead plot,sid is dead reviews,sid is dead streaming,sid is dead watch online,sid is dead download,sid is dead full movie,sid is dead movie download,sid is dead movie free download,sid is dead movie online,sid is dead movie watch online" />
+<meta name="keywords" content="Go Movies,sid is dead movie,sid is dead 2023,index of sid is dead movie,sid is dead cast,sid is dead trailer,sid is dead release date,sid is dead plot,sid is dead reviews,sid is dead streaming,sid is dead watch online,sid is dead download,sid is dead full movie,sid is dead movie download,sid is dead movie free download,sid is dead movie online,sid is dead movie watch online" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  

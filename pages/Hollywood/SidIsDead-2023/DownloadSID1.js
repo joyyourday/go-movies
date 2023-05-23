@@ -17,7 +17,7 @@ function DownloadSID1({ movie }) {
   }
   useEffect(() => {
     const handleContextmenu = e => {
-      e.preventDefault()
+        e.preveSIDefault()
     }
     document.addEventListener('contextmenu', handleContextmenu)
     return function cleanup() {
@@ -50,7 +50,7 @@ function DownloadSID1({ movie }) {
         {
           "@type": "EntryPoint",
           "name": "Sid Is Dead (2023)",
-          "urlTemplate": "https://gomovies.netlify.app/Hollywood/SidIsDead-2023/SidIsDead"
+          "urlTemplate": "https://gomovies.netlify.app/Hollywood/SidIsDead-2023/TheMother"
         },
         {
           "@type": "EntryPoint",
@@ -101,7 +101,7 @@ function DownloadSID1({ movie }) {
     <Head>
      <title>Watch Sid Is Dead (2023) Full Movie Online Free | Go Movies™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="gomovies,sid is dead movie,sid is dead 2023,index of sid is dead movie,sid is dead cast,sid is dead trailer,sid is dead release date,sid is dead plot,sid is dead reviews,sid is dead streaming,sid is dead watch online,sid is dead download,sid is dead full movie,sid is dead movie download,sid is dead movie free download,sid is dead movie online,sid is dead movie watch online" />
+<meta name="keywords" content="Go Movies,sid is dead movie,sid is dead 2023,index of sid is dead movie,sid is dead cast,sid is dead trailer,sid is dead release date,sid is dead plot,sid is dead reviews,sid is dead streaming,sid is dead watch online,sid is dead download,sid is dead full movie,sid is dead movie download,sid is dead movie free download,sid is dead movie online,sid is dead movie watch online" />
 <meta property="og:locale" content="en_US" />   
 
 <meta name="robots" content="index, follow" />  
@@ -109,7 +109,7 @@ function DownloadSID1({ movie }) {
 <meta property="og:site_name" content="Go Movies™ | Watch Movies, TV-Series & Sports Live Online Free" />
 <meta property="og:type" content="movie" />
 <meta property="og:title" content="Watch Sid Is Dead (2023) | Go Movies™" />
-<meta property="og:url" content="https://gomovies.netlify.app/Hollywood/SidIsDead-2023/SidIsDead" />
+<meta property="og:url" content="https://gomovies.netlify.app/Hollywood/SidIsDead-2023/TheMother" />
 <meta property="og:image" content="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1684183589/Sid-Is-Dead-2023_aprpdr.webp" />
 <meta property="og:image:secure_url" content="https://gomovies.netlify.app/" />
 <meta property="og:image:width" content="1280" />
@@ -117,7 +117,7 @@ function DownloadSID1({ movie }) {
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Watch Sid Is Dead (2023) | Go Movies™" />
 <meta name="twitter:image" content="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1684183589/Sid-Is-Dead-2023_aprpdr.webp" />
-<meta name="description" content="Watch SidIsDead Full Movie Online on Go Movies™, You can also download Sid Is Dead (2023) in full HD quality to watch later offline." />
+<meta name="description" content="Watch Sid Is Dead Full Movie Online on Go Movies™, You can also download Sid Is Dead (2023) in full HD quality to watch later offline." />
 
 <link rel="canonical" href="https://gomovies.netlify.app/Hollywood/SidIsDead-2023/" />
        </Head>
@@ -128,7 +128,7 @@ function DownloadSID1({ movie }) {
 
 
      
-  <div className="flex flex-SID items-center  justify-center space-y-12">
+  <div className="flex flex-col items-center  justify-center space-y-12">
 <ShareButtons url="https://gomovies.netlify.app" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify.app/og_image.jpg" />
 <img src={movie.banner} alt={`Banner for ${movie.title}`} loading="lazy" className=" rounded-3xl  mx-auto my-10 "  />
   <h2 className="text-blue-500  title-font mb-3 my-5 font-bold text-2xl ">
@@ -150,7 +150,7 @@ Please Share the Link.</h2>
 
 
 
-<a href="../../Hollywood/SidIsDead-2023/SidIsDead" >
+<a href="../../Hollywood/SidIsDead-2023/TheMother" >
 <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0  ">
   Back
 
