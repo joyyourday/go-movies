@@ -203,7 +203,7 @@ const schemaData   = {
   alt="Hero banner"
   loading="lazy"
   priority={true}
-  style={{ display: "block", width: "100%" }}
+  style={{ display: "block", width: "100%", height: "500px"  }}
 />
     
           <ShareButtons url="https://gomovies.netlify.app" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify.app/og_image.jpg" />
