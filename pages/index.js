@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import styles from '../styles/Home.module.css';
 import ShareButtons from '@components/ShareButtons';
-
+import HeroBanner from '../components/HeroBanner';
 import { Image } from 'cloudinary-react'
 //import Ad from '../components/Ad';
 import { useState, useRef, useEffect } from "react";
@@ -198,7 +198,13 @@ const schemaData   = {
      
       <main className={styles.main} >
           <section className={`${styles.movies} bg-gray-600  py-5`} >
-       
+          <Image
+  src="https://res.cloudinary.com/dezf3wemk/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1681610087/og_image_okmgde.jpg"
+  alt="Hero banner"
+  loading="lazy"
+  priority={true}
+  style={{ display: "block", width: "100%" }}
+/>
     
           <ShareButtons url="https://gomovies.netlify.app" title="Watch Movies, TV-Series & Sports Live Online Free" image="https://gomovies.netlify.app/og_image.jpg" />
          
