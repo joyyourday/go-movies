@@ -99,11 +99,11 @@ const schemaData   = {
       "@type": "CollectionPage",
       "@id": "https://gomovies.netlify.app/",
       "url": "https://gomovies.netlify.app/",
-      "name": "123moviesfree - Watch Movies & TV Series Online Free 123movies",
+      "name": "Go Movies™ - Watch Movies & TV Series Online Free 123movies",
       "isPartOf": {
         "@id": "https://gomovies.netlify.app/#website"
       },
-      "description": "123moviesfree ⭐ alternative app downloader websites free 123movies till 2023 sites that work 123moviesgo reddit 2023 official new site no ads",
+      "description": "Go Movies™ ⭐ alternative app downloader websites free gomovies till 2023 sites that work gomovies reddit 2023 official new site no ads",
       "breadcrumb": {
         "@id": "https://gomovies.netlify.app/#breadcrumb"
       },
@@ -124,7 +124,7 @@ const schemaData   = {
       "@type": "WebSite",
       "@id": "https://gomovies.netlify.app/#website",
       "url": "https://gomovies.netlify.app/",
-      "name": "123moviesfree",
+      "name": "Go Movies™",
       "description": "",
       "potentialAction": [
         {
