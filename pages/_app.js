@@ -18,8 +18,8 @@ function Application({ Component, pageProps }) {
         data-admpid="82683"
         strategy="afterInteractive"
       />
-        <GoogleAnalytics measurementId="G-K8QKRZ4B44" />
-        <Script async data-id="101405628" src="//static.getclicky.com/js"></Script>
+        <GoogleAnalytics measurementId="G-YNSCPT6BQR" />
+      
      
         <PageTransition>  
           <Hamburger />
